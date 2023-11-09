@@ -1,0 +1,44 @@
+---
+title: Body therapy?
+subtitle: Taking you seriosuly as a whole human being - because all of you matters
+description: All of you matters. Whether you are struggling with emotional knots, negative thought loops, or chronic physical conditions, body therapy takes you seriously as a whole human being.
+featured_image: '/images/head.jpg'
+---
+
+## In a nutshell
+
+Each experience leaves a trace, remembered by the body, conditioning the mind.
+
+Working with your nervous system you can release old physical tensions, integrate unprocessed emotions, and let go of unhelpful subconscious reflexes.
+
+Unblocking your body, you unblock your mind - untangling yourself from worn-out narratives, sticky thought loops, and toxic behaviour patterns.
+
+## How does it work?
+
+The nervous system is our central communication channel.
+It helps us navigate the physical and social world we live in.
+
+It works to keep us safe by remembering what felt safe, what felt as a threat - that time my boundaries were not respected, I was praised or punished for being loud/quiet, dominant/submissive, openly sad/joyful/angry.
+
+As such, it also shapes our personality and body construct - when we tense, when we relax, how secure we feel in interpersonal relations, what role we take in a group dynamic, and and importantly when and where we allow ourselves to let go and express core emotions of anger, sadness, joy and fear. 
+
+And the things that really hurt - well, they stick.
+Old fears, pains and angers create a constant strain on the nervous system, the body and the sense of freedom to be yourself.
+A constant tension in the stomach or jaw, a constant worry about how others perceive me, or a constant background feeling of being trapped, unheard, and constrained.
+
+The same is true about a traumatic event - suffering abuse, an accident, an operation, a divorce or a burn out.
+
+By surfacing, acknowledging and letting go of these old experiences and blockages, the nervous system is freed, unblocking your body, your mind, and you! :) 
+
+One step towards a more happy, peaceful and free life. 
+
+## What method do you use?
+
+I am a [certified Manuvision body therapist](/about). Find out more about [how I treat](/treatments).
+
+## Further resources
+
+### Podcast on the history of body therapy
+
+<div id="buzzsprout-player-11493919"></div>
+<script src="https://www.buzzsprout.com/2066523/11493919-the-history-of-body-therapy.js?container_id=buzzsprout-player-11493919&player=small" type="text/javascript" charset="utf-8"></script>
