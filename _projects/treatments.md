@@ -1,7 +1,7 @@
 ---
 title: Treatments
-subtitle: Work to free your nervous system from old condition - and create the space for you to be you
-description: Work one on one to create the space for you to unfold. A hands-on opportunity for you to decompress and free your nervous system - resolving the underlying subconscious tensions at the root of your emotional, mental and physical symptoms.
+subtitle:  Work one on one to free your nervous system from old conditioning
+description: Work one on one to decompress and free your nervous system. A hands-on opportunity for you to resolve the underlying subconscious tensions at the root of your emotional, mental and physical symptoms.
 featured_image: /images/foot.jpg
 ---
 

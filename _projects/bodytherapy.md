@@ -1,6 +1,6 @@
 ---
-title: Body therapy?
-subtitle: Taking you seriosuly as a whole human being - because all of you matters
+title: What is body therapy?
+subtitle: Taking you seriosuly as a whole human being
 description: All of you matters. Whether you are struggling with emotional knots, negative thought loops, or chronic physical conditions, body therapy takes you seriously as a whole human being.
 featured_image: '/images/head.jpg'
 ---
