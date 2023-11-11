@@ -5,7 +5,10 @@ description: Three Key therapy
 featured_image: /images/demo/contact.jpg
 ---
 
- - and create the space for you to be you
+
+acknowledgement, no judgement
+open ended questioning and curioisty 
+unfold, unlock, opening space for you to be you 
 
 <img src="/images/profile.jpg" width="200" height="200" align="left">
 
@@ -16,6 +19,13 @@ featured_image: /images/demo/contact.jpg
 </div>
 
 <a href="/contact" class="button button--large">Book a session</a>
+
+## Further resources
+
+### Podcast on the history of body therapy
+
+<div id="buzzsprout-player-11493919"></div>
+<script src="https://www.buzzsprout.com/2066523/11493919-the-history-of-body-therapy.js?container_id=buzzsprout-player-11493919&player=small" type="text/javascript" charset="utf-8"></script>
 
 
 Would you be interested in joining a Manuvision training session?

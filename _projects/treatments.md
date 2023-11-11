@@ -15,7 +15,7 @@ Treatments will help you feel relaxed and present in your body, with a clearer m
 
 ## Practical information
 
-### Book a session
+<a href="/contact" class="button button--large">Book a session</a>
 
 ### Duration
 
@@ -41,5 +41,3 @@ Treatments involve touch, and the nervous system responds most to skin contact.
 For this reason, treatments work best without big items of clothing.
 I recommend wearing underwear that is not revealing and a sports bra.
 If you are not comfortable with this, it is of course possible to treat with clothing.
-
-<a href="/contact" class="button button--large">Book a session</a>
