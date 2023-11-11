@@ -37,3 +37,5 @@ There is a strong emphasis on grounding, becoming more aware how you handle limi
 Trainings typically include losening all the main joints in the body, opening up core meridian lines, a bit of cardio, awareness training and some stretching.
 
 I am still learning how to lead the trainings, so it's a bit of an experiment. 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.299162511366!2d4.869556976672838!3d52.38312687202571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609cf5fdc5a09%3A0xec60e148c7838932!2sThe%20Body%20Sessions!5e0!3m2!1sen!2snl!4v1699450882640!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
