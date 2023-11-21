@@ -12,6 +12,8 @@ menu_settings:
       url: '/bodytherapy'
     - title: 'Treatments'
       url: '/treatments'
+    - title: 'Trainings'
+      url: '/trainings'      
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -69,11 +71,8 @@ color_settings:
   accent_color: '#D55A1F'
   border_color: '#7A1502'
   hero_background_color: '#7A1502'
-  hero_text_color: '#D55A1F'
+  hero_text_color: '#FFCD7E'
   error_color: '#7A1502'
-  menu_backgrond_color: '#D55A1F'
-  menu_text_color: '#FFCD7E'
-  menu_accent_color: '#FAF6DB'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
