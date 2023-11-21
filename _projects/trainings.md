@@ -1,7 +1,7 @@
 ---
 title: Trainings
-subtitle: Work with your body to learn more about your inner self - in a group context
-description: 
+subtitle: 
+description: Work with your body to learn more about your inner self - in a group context.
 featured_image: images/mv-training2.jpg
 ---
 
