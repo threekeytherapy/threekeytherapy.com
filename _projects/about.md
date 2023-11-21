@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: My name is Claus, and I am a certified Manuvision body therapist
-description:  
+description:  My name is Claus, and I am a certified Manuvision body therapist. I can work in English, Dutch, Spanish and French, and look forward to meeting you.
 featured_image: /images/profile.jpg
 ---
 
