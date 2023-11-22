@@ -1,11 +1,11 @@
 ---
 title: Contact
-subtitle: Book a free inquiry now
-description: Please don't hesitate to get in touch.
+subtitle: 
+description:
 featured_image: /images/demo/contact.jpg
 ---
 
-## Book a treatment
+## Book a free inquiry
 
 claus@threekeytherapy.com
 

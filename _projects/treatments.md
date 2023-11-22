@@ -1,11 +1,11 @@
 ---
 title: Treatments
 subtitle:  Work one on one to free your nervous system from old conditioning
-description: Work one on one to decompress and free your nervous system. A hands-on opportunity for you to resolve the underlying subconscious tensions at the root of your emotional, mental and physical symptoms.
+description: Work one on one to decompress and free your nervous system. A hands-on opportunity for you to resolve the underlying subconscious tensions at the root of emotional, mental and physical blockages.
 featured_image: /images/foot.jpg
 ---
 
-## How does it work?
+## In a nutshell
 
 During treatments I use massage techniques to surface your subconscious physical tensions, along with their underlying psycho-emotional causes - whether unprocessed stress, anxiety, fear, anger, sadness, ...
 
@@ -40,6 +40,6 @@ For this reason, treatments work best without big items of clothing.
 I recommend wearing underwear that is not revealing and a sports bra.
 If you are not comfortable with this, it is of course possible to treat with clothing.
 
-### Book a session
+## Book a session
 
 <a href="/contact" class="button button--large">Book a session</a>

@@ -1,6 +1,6 @@
 ---
 title: What is body therapy?
-subtitle: Taking you seriosuly as a whole human being
+subtitle: 
 description: All of you matters. Whether you are struggling with emotional knots, negative thought loops, or chronic physical conditions, body therapy takes you seriously as a whole human being.
 featured_image: '/images/head.jpg'
 ---
@@ -34,4 +34,4 @@ One step towards a more happy, peaceful and free life.
 
 ## What method do you use?
 
-I am a [certified Manuvision body therapist](/about). Find out more about [how I treat](/treatments).
+Find out more about [how I treat](/treatments) and the [Manuvision body therapy technique](/about) I am trained in.
