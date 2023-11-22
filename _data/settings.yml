@@ -11,16 +11,14 @@ menu_settings:
     - title: 'Body therapy?'
       url: '/bodytherapy'
     - title: 'Treatments'
-      url: '/treatments'
-    - title: 'Trainings'
-      url: '/trainings'      
+      url: '/treatments'    
     - title: 'About'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Body therapy to help you unlock your self
+  footer_tagline: Because empathy matters
 
 hero_settings:
   overlay_opacity: 0.9
