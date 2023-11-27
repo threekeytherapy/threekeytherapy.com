@@ -2,17 +2,18 @@
 title: About
 subtitle: 
 description:  My name is Claus, I am a certified Manuvision body therapist, and look forward to meeting you.
-featured_image: /images/profile.jpg
+featured_image: /images/profile5.jpg
+order: 3
 ---
 
 ## About Me
 
-My name is Claus, I am a certified Manuvision body therapist, have a Belgian passport, grew up in Asia, speak English, Dutch, Spanish & French.
+My name is Claus and I am a certified Manuvision therapist.
 
-I completed my two year intensive training to become a Manuvision therapist in 2023, have been receiving Manuvision trainings and treatments since 2016, and have been dabbling with the existential arts since 2006.
+I have been working as a therapist since 2022, receiving Manuvision trainings and treatments since 2016, and generally dabbling with the existential arts since 2006.
 I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow work, and being open to knowledge of self in whatever form it comes. 
 
-I also work as a coordinator and facilitator for international collaborations on (open source) software projects for governments.
+I also work as a coordinator and facilitator for international collaborations on (open source) software projects for governments, have a Belgian passport, grew up in Asia, and speak English, Dutch, Spanish & French.
 
 ## About Manuvision
 

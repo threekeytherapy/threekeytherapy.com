@@ -3,6 +3,7 @@ title: What is body therapy?
 subtitle: 
 description: All of you matters. Whether you are struggling with emotional knots, negative thought loops, or chronic physical conditions, body therapy takes you seriously as a whole human being.
 featured_image: '/images/head.jpg'
+order: 2
 ---
 
 ## In a nutshell
