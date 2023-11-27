@@ -3,7 +3,7 @@ title: Treatments
 subtitle:  Work one on one to free your nervous system from old conditioning
 description: Work one on one to decompress and free your nervous system. A hands-on opportunity for you to resolve the underlying subconscious tensions at the root of emotional, mental and physical blockages.
 featured_image: /images/foot.jpg
-order: 1
+order: 2
 ---
 
 ## In a nutshell
