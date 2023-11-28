@@ -13,10 +13,6 @@ collections:
   projects:
     output: true
     permalink: /:slug
-    order:
-      - bodytherapy.md
-      - treatments.md
-      - about.md
 
 defaults:
   -

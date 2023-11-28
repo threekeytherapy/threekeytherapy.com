@@ -4,7 +4,6 @@ subtitle:
 description: All of you matters. Whether you are struggling with emotional knots, negative thought loops, or chronic physical conditions, body therapy takes you seriously as a whole human being.
 featured_image: '/images/head.jpg'
 date: 2023-11-01 00:00:00
-order: 1
 ---
 
 ## In a nutshell
