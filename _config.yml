@@ -16,6 +16,7 @@ collections:
     order:
       - bodytherapy.md
       - treatments.md
+      - about.md
 
 defaults:
   -
