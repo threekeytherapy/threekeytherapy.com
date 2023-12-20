@@ -26,3 +26,20 @@ Mahogony red #7A1502
 -
 Earth Orange #D55A1F
 Olive Green #747500
+
+## Images
+
+![](/images/demo/image.jpg)
+
+<div class="gallery" data-columns="3">
+	<img src="/images/demo/demo-portrait.jpg">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-square.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+
+
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
