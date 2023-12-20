@@ -1,7 +1,7 @@
 ---
 title: Treatments
-subtitle:  Work one on one to free your nervous system from old conditioning
-description: Work one on one to decompress and free your nervous system. A hands-on opportunity for you to resolve the underlying subconscious tensions at the root of emotional, mental and physical blockages.
+subtitle: 
+description: Decompress and free your nervous system. A hands-on opportunity for you to resolve the underlying subconscious tensions at the root of emotional, mental and physical blockages.
 featured_image: /images/foot.jpg
 date: 2023-11-02 00:00:00
 ---
@@ -13,6 +13,8 @@ During treatments I use massage techniques to surface your subconscious physical
 Once surfaced, you have the opportunity to work with your breathing, mind and nervous system to let go of these old tensions, as well as the restrictive thoughts, feelings and behaviour patterns associated with them.
 
 Treatments will help you feel relaxed and present in your body, with a clearer mind, and more able to fully enjoy life and navigate change. Or feel a sudden desire to sign up to a pottery course and start wearing purple. ¯\\_(ツ)_/¯
+
+![](/images/mv-treatment.jpg)
 
 ## Practical information
 

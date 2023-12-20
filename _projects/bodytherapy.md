@@ -14,6 +14,11 @@ Working with your nervous system you can release old physical tensions, integrat
 
 Unblocking your body, you unblock your mind - untangling yourself from worn-out narratives, sticky thought loops, and toxic behaviour patterns.
 
+<div class="gallery" data-columns="2">
+	<img src="/images/mv-hand3.jpg">
+	<img src="/images/twohands.jpg">    
+</div>
+
 ## How does it work?
 
 The nervous system is our central communication channel.

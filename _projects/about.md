@@ -2,7 +2,7 @@
 title: About
 subtitle: 
 description:  My name is Claus, I am a certified Manuvision body therapist, and look forward to meeting you.
-featured_image: /images/profile5.jpg
+featured_image: /images/profile2crop.jpg
 date: 2023-11-03 00:00:00
 ---
 
@@ -26,3 +26,5 @@ Manuvision therapists have been proven to help soldiers with PTSD in clinical st
 Manuvision draws from Chinese traditional medicine, Western physiotherapy, Jungian psychology and shadow work, breathwork, inner child work, as well as various other traditions. 
 
 Read more about [Manuvision body therapy](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), [Manuvision treatments](https://manuvision-dk.translate.goog/hvad-er-kropsterapi/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), and [Manuvision training](https://manuvision-dk.translate.goog/traening/hvad-er-manuvision-traening/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
+
+![](/images/mv-community.jpg)
