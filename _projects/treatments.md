@@ -2,7 +2,7 @@
 title: Treatments
 subtitle: 
 description: Decompress and free your nervous system. A hands-on opportunity for you to resolve the underlying subconscious tensions at the root of emotional, mental and physical blockages.
-featured_image: /images/treatment5.jpg
+featured_image: /images/treatment3.jpg
 date: 2023-11-02 00:00:00
 ---
 
