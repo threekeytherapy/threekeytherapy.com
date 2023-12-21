@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: Because empathy matters
 
 hero_settings:
-  overlay_opacity: 0.5
+  overlay_opacity: 0.6
 
 post_settings:
   grid_spacing: 10
