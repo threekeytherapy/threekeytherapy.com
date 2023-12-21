@@ -6,15 +6,22 @@ featured_image: /images/foot.jpg
 date: 2023-11-02 00:00:00
 ---
 
-## In a nutshell
-
 During treatments I use massage techniques to surface your subconscious physical tensions, along with their underlying psycho-emotional causes - whether unprocessed stress, anxiety, fear, anger, sadness, ...
 
 Once surfaced, you have the opportunity to work with your breathing, mind and nervous system to let go of these old tensions, as well as the restrictive thoughts, feelings and behaviour patterns associated with them.
 
 Treatments will help you feel relaxed and present in your body, with a clearer mind, and more able to fully enjoy life and navigate change. Or feel a sudden desire to sign up to a pottery course and start wearing purple. ¯\\_(ツ)_/¯
 
-![](/images/mv-treatment.jpg)
+<a href="/contact" class="button button--large">Book a session</a>
+
+<div class="gallery" data-columns="3">
+	<img src="/images/treatment7.jpg">
+	<img src="/images/treatment4.jpg">
+    <img src="/images/treatment2.jpg">
+	<img src="/images/treatment5.jpg"> 
+    <img src="/images/treatment3.jpg">  
+    <img src="/images/treatment6.jpg"> 
+</div>
 
 ## Practical information
 
@@ -42,7 +49,3 @@ Treatments involve touch, and the nervous system responds most to skin contact.
 For this reason, treatments work best without big items of clothing.
 I recommend wearing underwear that is not revealing and a sports bra.
 If you are not comfortable with this, it is of course possible to treat with clothing.
-
-## Book a session
-
-<a href="/contact" class="button button--large">Book a session</a>
