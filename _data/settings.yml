@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: Because empathy matters
 
 hero_settings:
-  overlay_opacity: 1
+  overlay_opacity: 0.5
 
 post_settings:
   grid_spacing: 10
@@ -69,7 +69,7 @@ color_settings:
   accent_color: '#D55A1F'
   border_color: '#7A1502'
   hero_background_color: '#7A1502'
-  hero_text_color: '#D55A1F'
+  hero_text_color: '#FAF6DB'
   error_color: '#7A1502'
 
 font_settings:
