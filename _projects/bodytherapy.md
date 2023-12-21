@@ -24,7 +24,9 @@ It works to keep us safe by remembering what felt safe, what felt as a threat - 
 As such, it also shapes our personality and body construct - when we tense, when we relax, how secure we feel in interpersonal relations, what role we take in a group dynamic, and and importantly when and where we allow ourselves to let go and express core emotions of anger, sadness, joy and fear. 
 
 And the things that really hurt - well, they stick.
+
 Old fears, pains and angers create a constant strain on the nervous system, the body and the sense of freedom to be yourself.
+
 A constant tension in the stomach or jaw, a constant worry about how others perceive me, or a constant background feeling of being trapped, unheard, and constrained.
 
 The same is true about a traumatic event - suffering abuse, an accident, an operation, a divorce or a burn out.
