@@ -2,7 +2,7 @@
 title: About
 subtitle: 
 description:  My name is Claus, I am a certified Manuvision body therapist, and look forward to meeting you.
-featured_image: /images/profile2crop.jpg
+featured_image: /images/profile2crop4.jpg
 date: 2023-11-03 00:00:00
 ---
 
