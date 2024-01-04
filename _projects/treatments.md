@@ -35,7 +35,7 @@ I regularly work in English, Dutch and Spanish. I can also work in rusty French.
 ### Pricing
 
 I work with solidarity prices.
-This means you can pay any amount between 60 and 110 euros, based on your financial situation.
+This means you can pay any amount between 60 and 120 euros, based on your financial situation.
 I do this to try keep care accessible to as many people as possible.
 
 ### What to wear
