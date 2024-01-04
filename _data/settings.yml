@@ -20,7 +20,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Because empathy matters
+  footer_tagline: Body therapy based on empathy
 
 hero_settings:
   overlay_opacity: 0.6
