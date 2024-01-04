@@ -12,6 +12,8 @@ menu_settings:
       url: '/bodytherapy'
     - title: 'Treatments'
       url: '/treatments'    
+    - title: 'Trainings'
+      url: '/trainings'         
     - title: 'About'
       url: '/about'
     - title: 'Contact'
