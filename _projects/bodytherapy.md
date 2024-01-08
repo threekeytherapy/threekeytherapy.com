@@ -6,13 +6,13 @@ featured_image: '/images/treatment2.jpg'
 date: 2023-11-01 00:00:00
 ---
 
-## In a nutshell
-
 Each experience leaves a trace, remembered by the body, conditioning the mind.
 
 Working with your nervous system you can release old physical tensions, integrate unprocessed emotions, and let go of unhelpful subconscious reflexes.
 
 Unblocking your body, you unblock your mind - untangling yourself from worn-out narratives, sticky thought loops, and toxic behaviour patterns.
+
+---
 
 ## How does it work?
 
