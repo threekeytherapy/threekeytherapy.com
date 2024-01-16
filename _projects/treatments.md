@@ -18,6 +18,18 @@ Or feel a sudden desire to sign up to a pottery course and start wearing purple 
 
 ---
 
+## Testimonials
+
+"I feel like more has happened in one session, than my past year of doing talk therapy." -  Naomi
+
+"This made me realise just how important the body is for the healing process." - Sander
+
+"Claus is like a facilitator for vulnerability - I feel I can really open up to myself." - Conti
+
+"Wow, what a trip. I have never experienced anything like this!" - Irene
+
+---
+
 ## Practical
 
 ### Duration
