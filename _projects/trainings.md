@@ -26,8 +26,9 @@ Monday 19.00 - 21.00
 
 ### Where?
 
-Studio Here Now, Frederik Hendrikstraat 115
+Studio Here Now, Frederik Hendrikstraat 115, Amsterdam West
 
 ### How much?
 
-On donation
+On donation, suggested range 5 to 20 euros
+
