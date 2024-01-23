@@ -24,6 +24,14 @@ We usually close with a small sharing circle.
 
 Monday 19.00 - 21.00
 
+**Confirmed dates**:
+
+January 15, 22, 29
+
+February 5, 12, 19, 26
+
+March 4, 11, 18
+
 ### Where?
 
 Studio Here Now, Frederik Hendrikstraat 115, Amsterdam West
