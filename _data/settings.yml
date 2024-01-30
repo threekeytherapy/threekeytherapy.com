@@ -34,6 +34,12 @@ contact_settings:
   email_subject: 'Three Key Therapy - Thank you for reaching out'
   send_button_text: 'Send Message'
 
+newsletter_settings:
+  form_action: 'https://formspree.io/f/maygvkpq'
+  confirmation_url: '/thanks'
+  email_subject: 'Three Key Therapy - Thank you for signing up'
+  send_button_text: 'Sign up'
+
 social_settings:
   facebook_url: ''
   twitter_url: ''
