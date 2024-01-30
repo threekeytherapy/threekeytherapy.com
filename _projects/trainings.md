@@ -24,7 +24,7 @@ We usually close with a small sharing circle.
 
 Monday 19.00 - 21.00
 
-**Confirmed dates**:
+#### Confirmed dates
 
 January 15, 22, 29
 
