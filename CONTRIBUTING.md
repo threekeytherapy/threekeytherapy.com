@@ -1,7 +1,7 @@
 
 ## Images
 
-Hero images  1600 px wide x 900 px high
+Hero images recommened 1600 px wide x 900 px high
 
 ## Editing colour settings: 
 
