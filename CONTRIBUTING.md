@@ -19,6 +19,13 @@ color_settings:
   
 ## Colours
 
+font options
+
+theme light #ABB7B7
+theme mid #6c7a89
+darker #5d6976
+darkest #4e5964
+
 Soft creme #FAF6DB
 Clay yellow # FFCD7E
 Burnt tangerine #F7941D
