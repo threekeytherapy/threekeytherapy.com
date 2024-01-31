@@ -38,11 +38,20 @@ Treatments take between 1h and 1h 30min, based on what you and your body need at
 
 ### Location 
 
-I have my workspace set up at home, on the Groen van Prinsterestraat 52,1ste 1051 EN. 
+#### All days:
+
+Groen van Prinstererstraat 52,1ste  
+Amsterdam West - 1051 EN
+
+#### Fridays and sometimes Mondays:
+
+Newtonstraat 4 (bel - Serire)  
+Amsterdam Oost - 1098 HD
 
 ### Working languages
 
-I regularly work in English, Dutch and Spanish. I can also work in rusty French.
+I regularly work in English, Dutch and Spanish.
+I can also work in rusty French.
 
 ### Pricing
 
