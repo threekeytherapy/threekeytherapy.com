@@ -57,7 +57,7 @@ I can also work in rusty French.
 
 I work with solidarity prices.
 
-This means you can pay any amount between 60 and 120 euros, based on your financial situation.
+This means you can pay any amount between 70 and 120 euros, based on your financial situation.
 
 I do this to try keep care accessible to as many people as possible.
 If this is not within your range, please contact me and we can find a solution.
