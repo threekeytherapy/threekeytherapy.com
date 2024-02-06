@@ -34,7 +34,7 @@ Or feel a sudden desire to sign up to a pottery course and start wearing purple 
 
 ### Duration
 
-Treatments take between 1h and 1h 30min, based on what you and your body need at that moment. 
+Treatments take between 1h 15min and 1h 30min, based on what you and your body need at that moment. 
 
 ### Location 
 
