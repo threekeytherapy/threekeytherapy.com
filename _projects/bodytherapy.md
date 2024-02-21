@@ -5,6 +5,7 @@ description: Manuvision body therapy is a form of treatment that addresses physi
 featured_image: '/images/treatment2.jpg'
 date: 2023-11-01 00:00:00
 redirects_from:
+  - /_pages/treatments
   - /treatments
 ---
 
