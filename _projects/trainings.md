@@ -1,7 +1,7 @@
 ---
 title: Manuvision Trainings
 subtitle: 
-description: Work with your body to learn more about your inner self. Manuvision trainings combine elements from body therapy, reflexology, traditional karate, and yoga.
+description: Manuvision training is about getting you back into your body and learning about your inner self. It takes the best from body therapy, yoga, and karate.
 featured_image: images/mv-training2.jpg
 date: 2023-11-03 00:00:00
 ---
