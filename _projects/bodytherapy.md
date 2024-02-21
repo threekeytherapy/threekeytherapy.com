@@ -6,8 +6,6 @@ featured_image: '/images/treatment2.jpg'
 date: 2023-11-01 00:00:00
 ---
 
-Manuvision body therapy is a form of treatment that addresses physical and psychological disorders through the body. We release the tension behind the body's symptoms, create balance in the nervous system, and kickstart the body's natural healing processes. In English, Dutch, Spanish, and rusty French.
-
 Each experience leaves a trace, remembered by the body, conditioning the mind.
 
 Working with your nervous system you can release old physical tensions, integrate unprocessed emotions, and let go of unhelpful subconscious reflexes.
