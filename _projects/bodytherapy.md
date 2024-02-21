@@ -1,10 +1,12 @@
 ---
-title: What is body therapy?
+title: Manuvision body therapy
 subtitle: 
-description: All of you matters. Whether you are struggling with emotional knots, negative thought loops, or chronic physical conditions, body therapy takes you seriously as a whole human being.
+description: Manuvision body therapy is a form of treatment that addresses physical and psychological disorders through the body. We release the tension behind the body's symptoms, create balance in the nervous system, and kickstart the body's natural healing processes. In English, Dutch, Spanish, and rusty French.
 featured_image: '/images/treatment2.jpg'
 date: 2023-11-01 00:00:00
 ---
+
+Manuvision body therapy is a form of treatment that addresses physical and psychological disorders through the body. We release the tension behind the body's symptoms, create balance in the nervous system, and kickstart the body's natural healing processes. In English, Dutch, Spanish, and rusty French.
 
 Each experience leaves a trace, remembered by the body, conditioning the mind.
 
