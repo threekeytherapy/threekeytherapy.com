@@ -1,20 +1,12 @@
 ---
-title: Treatments
+title: Manuvision Treatments
 subtitle: 
 description: Decompress and free your nervous system. A hands-on opportunity to resolve the subconscious tensions at the root of your emotional, mental and physical blockages. In English, Dutch, Spanish, and if you are patient, French.
 featured_image: /images/treatment3.jpg
 date: 2023-11-02 00:00:00
 ---
 
-During treatments I use massage techniques to surface your subconscious physical tensions, along with their underlying psycho-emotional causes - whether unprocessed stress, anxiety, fear, anger, sadness, ...
-
-Once surfaced, you have the opportunity to work with your breathing, mind and nervous system to let go of these old tensions, as well as the restrictive thoughts, feelings and behaviour patterns associated with them.
-
-Treatments will help you feel relaxed and present in your body, with a clearer mind, and more able to fully enjoy life and navigate change.
-
-Or feel a sudden desire to sign up to a pottery course and start wearing purple ¯\\_(ツ)_/¯
-
-<a href="/contact" class="button button--large">Book a session</a>
+Manuvision treatments focus on releasing the tension at the root of emotional, mental and physical blockages. 
 
 ---
 
@@ -27,6 +19,19 @@ Or feel a sudden desire to sign up to a pottery course and start wearing purple 
 "Claus is like a facilitator for vulnerability - I feel I can really open up to myself." - Conti
 
 "Wow, what a trip. I have never experienced anything like this!" - Irene
+
+---
+
+## What to expect 
+During treatments I use massage techniques to surface your subconscious physical tensions, along with their underlying psycho-emotional causes - whether unprocessed stress, anxiety, fear, anger, sadness, ...
+
+Once surfaced, you have the opportunity to work with your breathing, mind and nervous system to let go of these old tensions, as well as the restrictive thoughts, feelings and behaviour patterns associated with them.
+
+Treatments will help you feel relaxed and present in your body, with a clearer mind, and more able to fully enjoy life and navigate change.
+
+Or feel a sudden desire to sign up to a pottery course and start wearing purple ¯\\_(ツ)_/¯
+
+<a href="/contact" class="button button--large">Book a session</a>
 
 ---
 
