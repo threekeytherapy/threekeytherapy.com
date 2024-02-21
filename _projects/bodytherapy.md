@@ -91,14 +91,11 @@ That connection has a direct connection to our nervous system, and it is also on
 
 During a body therapy treament, I will work with you to:
 
-* create balance in your nervous system
-* opening up the breathing
-* activate flow in the body's energy system
 * relax muscles, release joints and loosen up the neck and back from a combination of deep massage techniques, joint release, acupressure and zone points
 * read and remedy disturbances in the nervous system that can result in everything from digestive problems and neck tension to stress , anxiety and depression
 * create a connection between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states
 
-When there is flow and movement, the body's own self-healing processes are automatically set in motion.
+This helps to create balance in your nervous system, open up the breathing, and activate flow in the body's energy system. When there is flow and movement, the body's own self-healing processes are automatically set in motion.
 
 ---
 
@@ -139,4 +136,4 @@ If this is not within your range, please contact me and we can find a solution.
 Treatments involve touch, and the nervous system responds most to skin contact.
 For this reason, treatments work best without big items of clothing.
 I recommend wearing underwear that is not revealing and a sports bra.
-If you are not comfortable with this, it is of course possible to treat with clothing.
+If you are not comfortable with this, it is of course possible to receive a treatment with clothing.
