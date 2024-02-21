@@ -24,8 +24,8 @@ In English, Dutch, Spanish, and rusty French.
 
 Jump to:
 * [Testimonials](#testimonials)
-* [How can it help you?](#how-can-it-help-you)
 * [How does it work?](#how-it-works)
+* [How can it help you?](#how-can-it-help-you)
 * [Practical](#practical)
 
 ---
@@ -39,6 +39,32 @@ Jump to:
 "Claus is like a facilitator for vulnerability - I feel I can really open up to myself." - Conti
 
 "Wow, what a trip. I have never experienced anything like this!" - Irene
+
+---
+
+## How it works
+
+Body and psyche are connected.
+
+If there is pain in the body, it affects the psyche, and if you are under psychological pressure, it settles in the body.
+It is always the body that first draws attention to the fact that something is wrong.
+And it is the body that suffers the consequences of all our actions – or lack thereof.
+These consequences manifest as tension, blockages and thus pain in our body.
+
+Manuvision body therapy helps you break free.
+We do this by opening the body and loosening the tensions and blockages that lie behind the physical and psychological ailments.
+
+The many impressions and expressions of the past and everyday life are stored in the body.
+Your body depicts your mental well-being – and the physical and the psyche are thus not two separate elements, but a whole.
+That connection has a direct connection to our nervous system, and it is also one of the reasons why Manuvision body therapy works through the nervous system.
+
+During a body therapy treament, I will work with you to:
+
+* relax muscles, release joints and loosen up the neck and back from a combination of deep massage techniques, joint release, acupressure and zone points
+* read and remedy disturbances in the nervous system that can result in everything from digestive problems and neck tension to stress , anxiety and depression
+* create a connection between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states
+
+This helps to create balance in your nervous system, open up the breathing, and activate flow in the body's energy system. When there is flow and movement, the body's own self-healing processes are automatically set in motion.
 
 ---
 
@@ -70,32 +96,6 @@ Typical psychological problems:
 * Grief
 
 [Find out how more about how Manuvision treatments can help address the above](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
-
----
-
-## How it works
-
-Body and psyche are connected.
-
-If there is pain in the body, it affects the psyche, and if you are under psychological pressure, it settles in the body.
-It is always the body that first draws attention to the fact that something is wrong.
-And it is the body that suffers the consequences of all our actions – or lack thereof.
-These consequences manifest as tension, blockages and thus pain in our body.
-
-Manuvision body therapy helps you break free.
-We do this by opening the body and loosening the tensions and blockages that lie behind the physical and psychological ailments.
-
-The many impressions and expressions of the past and everyday life are stored in the body.
-Your body depicts your mental well-being – and the physical and the psyche are thus not two separate elements, but a whole.
-That connection has a direct connection to our nervous system, and it is also one of the reasons why Manuvision body therapy works through the nervous system.
-
-During a body therapy treament, I will work with you to:
-
-* relax muscles, release joints and loosen up the neck and back from a combination of deep massage techniques, joint release, acupressure and zone points
-* read and remedy disturbances in the nervous system that can result in everything from digestive problems and neck tension to stress , anxiety and depression
-* create a connection between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states
-
-This helps to create balance in your nervous system, open up the breathing, and activate flow in the body's energy system. When there is flow and movement, the body's own self-healing processes are automatically set in motion.
 
 ---
 
