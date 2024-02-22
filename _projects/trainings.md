@@ -32,8 +32,6 @@ This means trainings help you:
 
 In this way, Manuvision training is also a supplement to body therapy, because you get to work directly with the tensions behind the physical and psychological ailments for which you go for treatment.
 
-<a href="/contact" class="button button--large">Sign up</a>
-
 > Practical
 
 **When?** 
@@ -49,3 +47,5 @@ Studio Here Now, Frederik Hendrikstraat 115, Amsterdam West
 
 **How much?**
 On donation, suggested range 5 to 20 euros
+
+<a href="/contact" class="button button--large">Sign up</a>
