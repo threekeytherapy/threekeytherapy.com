@@ -20,7 +20,6 @@ Trainings usually close with a small sharing circle.
 
 > Manuvision training as self-treatment
 
-Manuvision training is also a form of treatment.
 In a therapy treatment, you get help from the outside to work with your tensions.
 In the training, you learn to do the work yourself, so you can maintain the body and prevent injuries.
 
