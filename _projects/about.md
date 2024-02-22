@@ -6,6 +6,8 @@ featured_image: /images/profile2crop4.jpg
 date: 2023-11-04 00:00:00
 ---
 
+
+
 ## About Me
 
 My name is Claus and I am a certified Manuvision therapist.

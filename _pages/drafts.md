@@ -1,5 +1,58 @@
 # Stash for code snippets
 
+
+Jump to:
+* [Testimonials](#testimonials)
+* [How does it work?](#how-it-works)
+* [How can it help you?](#how-can-it-help-you)
+* [Practical](#practical) 
+
+
+
+Each experience leaves a trace, remembered by the body, conditioning the mind.
+
+Working with your nervous system you can release old physical tensions, integrate unprocessed emotions, and let go of unhelpful subconscious reflexes.
+
+Unblocking your body, you unblock your mind - untangling yourself from worn-out narratives, sticky thought loops, and toxic behaviour patterns.
+
+
+## What to expect 
+During treatments I use massage techniques to surface your subconscious physical tensions, along with their underlying psycho-emotional causes - whether unprocessed stress, anxiety, fear, anger, sadness, ...
+
+Once surfaced, you have the opportunity to work with your breathing, mind and nervous system to let go of these old tensions, as well as the restrictive thoughts, feelings and behaviour patterns associated with them.
+
+Treatments will help you feel relaxed and present in your body, with a clearer mind, and more able to fully enjoy life and navigate change.
+
+Or feel a sudden desire to sign up to a pottery course and start wearing purple ¯\\_(ツ)_/¯
+
+
+
+## How does it work?
+
+The nervous system is our central communication channel.
+It helps us navigate the physical and social world we live in.
+
+It works to keep us safe by remembering what felt safe and what felt as a threat - that time my boundaries were not respected, I was praised or punished for being loud/quiet, dominant/submissive, openly sad/joyful/angry.
+
+As such, it also shapes our bodily reactions and personality construct - when we tense, when we relax, how secure we feel in interpersonal relations, what role we take in a group dynamic, and most importantly when and where we allow ourselves to let go and express core emotions of anger, sadness, joy and fear.
+
+And the things that really hurt - well, they stick.
+
+> Old fears, pains and angers create a constant strain on the nervous system, the body, and our sense of freedom to be ourselves.
+
+A constant tension in the stomach or jaw, a constant worry about how others perceive me, or a constant background feeling of being trapped, unheard, and constrained.
+
+The same is true about a traumatic event - suffering abuse, an accident, an operation, a divorce or a burn out.
+
+So by surfacing, acknowledging and letting go of these old experiences and blockages, the nervous system is freed, unblocking your body, your mind, and you!
+
+One step towards a more happy, peaceful and free life :)
+
+## What method do you use?
+
+Find out more about [how I treat](/treatments) and the [Manuvision](/about) body therapy technique I am trained in.
+
+
 ### Taglines
 	We work by creating a space of trust and presence in which people can open up to vulnerability, be seen and heard, and feel supported to overcome their struggle.
 
