@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: 
-description:  My name is Claus, I am a certified Manuvision body therapist, and I look forward to meeting you.
+description: My name is Claus, I am a certified Manuvision therapist, and I look forward to working with you. Manuvision is a research-based treatment method with 25 years of experience with liberating the nervous system.
 featured_image: /images/profile2crop4.jpg
 date: 2023-11-04 00:00:00
 ---
