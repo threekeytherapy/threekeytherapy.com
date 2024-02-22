@@ -28,7 +28,7 @@ Manuvision therapists have been proven to help soldiers with PTSD in clinical st
 
 Manuvision draws from Chinese traditional medicine, Western physiotherapy, Jungian psychology and shadow work, breathwork, inner child work, as well as various other traditions. 
 
-Read more about [Manuvision body therapy](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), [Manuvision treatments](https://manuvision-dk.translate.goog/hvad-er-kropsterapi/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), and [Manuvision training](https://manuvision-dk.translate.goog/traening/hvad-er-manuvision-traening/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
+Read more about [Manuvision body therapy](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), [Manuvision treatments](https://manuvision-dk.translate.goog/hvad-er-manuvision-kropsterapi/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), and [Manuvision training](https://manuvision-dk.translate.goog/manuvisiontraening/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
 
 <div class="gallery" data-columns="2">
 	<img src="/images/profile2.jpg">

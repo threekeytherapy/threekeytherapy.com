@@ -11,22 +11,6 @@ claus@threekeytherapy.com
 
 +31 638 700 278
 
-## Where I work
-
-#### All days
-
-Groen van Prinstererstraat 52,1ste
-
-Amsterdam West - 1051 EN
-
-#### Friday and sometimes Monday
-
-Newtonstraat 4 (bel - Serire)
-
-Amsterdam Oost - 1098 HD
-
-## Send me a message
-
 {% include contact-form.html %}
 
 ## Availability
@@ -40,3 +24,4 @@ If none of these work for you, please reach out and we can find another time.
     sandbox="allow-scripts allow-same-origin allow-top-navigation"
     allowTransparency="true" scrolling="no" 
     frameborder="0" height="600px" width="100%"></iframe>
+    

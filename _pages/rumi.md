@@ -2,6 +2,8 @@
 title: Rumi Poems
 description: Collection of resources
 featured_image: /images/demo/about.jpg
+redirect_from:
+  - _pages/testimonials
 ---
 
 ## Demo content
