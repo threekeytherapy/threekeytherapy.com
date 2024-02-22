@@ -1,12 +1,12 @@
 ---
-title: Trainings
+title: Manuvision Trainings
 subtitle: 
-description: Work with your body to learn more about your inner self. Trainings combine elements from body therapy, reflexology, traditional karate, and yoga.
+description: Work with your body to learn more about your inner self. Manuvision trainings combine elements from body therapy, reflexology, traditional karate, and yoga.
 featured_image: images/mv-training2.jpg
 date: 2023-11-03 00:00:00
 ---
 
-Trainings combine elements from body therapy, reflexology, traditional karate, and yoga to open up the body and mind.
+Manuvision trainings combine elements from body therapy, reflexology, traditional karate, and yoga to open up the body and mind.
 
 There is a strong emphasis on grounding, becoming more aware how you handle limits, escape or face internal resistance, and can move from a deeper presence.
 
@@ -24,7 +24,7 @@ We usually close with a small sharing circle.
 
 Monday 19.00 - 21.00
 
-#### Confirmed dates
+#### Confirmed dates:
 
 January 15, 22, 29
 
