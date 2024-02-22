@@ -9,28 +9,35 @@ redirects_from:
   - /treatments
 ---
 
-The body remembers the life it has lived.
-Each experience leaves a trace, remembered by the body, conditioning the mind.
+> The body remembers the life it has lived.
 
-Working with your nervous system you can release old physical tensions, integrate unprocessed emotions, and let go of unhelpful subconscious reflexes.
+Body and psyche are connected.
+The many impressions and expressions of the past and everyday life are stored in the body.
+Your body depicts your mental well-being – the physical and the psyche are not two separate elements, but a whole.
 
-Unblocking your body, you unblock your mind - untangling yourself from worn-out narratives, sticky thought loops, and toxic behaviour patterns.
+If there is pain in the body, it affects the psyche, and if you are under psychological pressure, it settles in the body.
 
-In English, Dutch, Spanish, and rusty French.
+It is always the body that first draws attention to the fact that something is wrong.
+And it is the body that suffers the consequences of all our actions – or lack thereof.
+These consequences manifest as tension, blockages and thus pain in our body.
 
-<a href="/contact" class="button button--large">Book a session</a>
+That connection has a direct connection to our nervous system, and it is also one of the reasons why Manuvision body therapy works through the nervous system.
 
----
+> Manuvision body therapy helps you break free
 
-Jump to:
-* [Testimonials](#testimonials)
-* [How does it work?](#how-it-works)
-* [How can it help you?](#how-can-it-help-you)
-* [Practical](#practical)
+We do this by opening the body and loosening the tensions and blockages that lie behind the physical and psychological ailments.
 
----
+During a body therapy treament, I will work with you to:
 
-## Testimonials
+* relax muscles, release joints and loosen up the neck and back from a combination of deep massage techniques, joint release, acupressure and zone points
+* read and remedy disturbances in the nervous system that can result in everything from digestive problems and neck tension to stress , anxiety and depression
+* create a connection between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states
+
+This helps to create balance in your nervous system, open up the breathing, and activate flow in the body's energy system.
+
+When there is flow and movement, the body's own self-healing processes are automatically set in motion
+
+> What people have said
 
 "I feel like more has happened in one session, than my past year of doing talk therapy." -  Naomi
 
@@ -40,99 +47,59 @@ Jump to:
 
 "Wow, what a trip. I have never experienced anything like this!" - Irene
 
----
-
-## How it works
-
-Body and psyche are connected.
-
-If there is pain in the body, it affects the psyche, and if you are under psychological pressure, it settles in the body.
-It is always the body that first draws attention to the fact that something is wrong.
-And it is the body that suffers the consequences of all our actions – or lack thereof.
-These consequences manifest as tension, blockages and thus pain in our body.
-
-Manuvision body therapy helps you break free.
-We do this by opening the body and loosening the tensions and blockages that lie behind the physical and psychological ailments.
-
-The many impressions and expressions of the past and everyday life are stored in the body.
-Your body depicts your mental well-being – and the physical and the psyche are thus not two separate elements, but a whole.
-That connection has a direct connection to our nervous system, and it is also one of the reasons why Manuvision body therapy works through the nervous system.
-
-During a body therapy treament, I will work with you to:
-
-* relax muscles, release joints and loosen up the neck and back from a combination of deep massage techniques, joint release, acupressure and zone points
-* read and remedy disturbances in the nervous system that can result in everything from digestive problems and neck tension to stress , anxiety and depression
-* create a connection between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states
-
-This helps to create balance in your nervous system, open up the breathing, and activate flow in the body's energy system. When there is flow and movement, the body's own self-healing processes are automatically set in motion.
-
----
-
-## How can it help you?
+> How can it help you?
 
 Manuvision body therapy can remedy a wide spectrum of physical and mental disorders, which can be rooted in everything from work injuries and physiological imbalances to mental states caused by stress, shock or trauma.
 
 Typical physical problems:
 
 * Back, neck and lower back pain
-* Pain in shoulders, elbows and wrists (tennis elbow, golfer's elbow and mouse arm)
+* Pain in shoulders, elbows and wrists
 * Pain in knees, ankles and hips
-* Tension headache
-* Migraine
+* Tension headache and migraine
 * Digestive problems
-* Concussion
-* Whiplash
-* Sports injuries
+* Concussions, whiplash and sports injuries
 * Pregnancy and postpartum complications
 
 Typical psychological problems:
 
-* Stress
+* Stress, anxiety and burnout
+* Eating and sleep disorders
 * Depression
-* Anxiety
-* PTSD (post-traumatic stress reaction)
-* Eating disorders
-* Sleep disorders
+* PTSD (post-traumatic stress disorder)
 * Grief
 
-[Find out how more about how Manuvision treatments can help address the above](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+General inner work:
 
----
+* Embodiment and grounding
+* Gaining confidence and speaking up
+* Setting boundaries and saying no
+* Coming closer to yourself to live the life that you want to live
 
-## Practical
+[Read more about how Manuvision treatments can help address the above](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 
-### Duration
+> Practical
 
+**Duration**:
 Treatments take between 1h 15min and 1h 30min, based on what you and your body need at that moment. 
 
-### Location 
+**Amsterdam West**:
+Groen van Prinstererstraat 52,1ste 1051 EN
 
-#### All days:
+**Amsterdam East**:
+Newtonstraat 4, Serire, 1098 HD
+(only on Friday)
 
-Groen van Prinstererstraat 52,1ste  
-Amsterdam West - 1051 EN
+**Working languages**:
+English, Dutch, Spanish and rusty French.
 
-#### Fridays and sometimes Mondays:
-
-Newtonstraat 4 (bel - Serire)  
-Amsterdam Oost - 1098 HD
-
-### Working languages
-
-I regularly work in English, Dutch and Spanish.
-I can also work in rusty French.
-
-### Pricing
-
+**Pricing**:
 I work with solidarity prices.
-
 This means you can pay any amount between 70 and 120 euros, based on your financial situation.
-
 I do this to try keep care accessible to as many people as possible.
 If this is not within your range, please contact me and we can find a solution.
 
-### What to wear
-
+**What to wear**:
 Treatments involve touch, and the nervous system responds most to skin contact.
 For this reason, treatments work best without big items of clothing.
 I recommend wearing underwear that is not revealing and a sports bra.

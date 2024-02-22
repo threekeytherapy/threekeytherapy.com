@@ -1,6 +1,21 @@
 # Stash for code snippets
 
 
+Jump to:
+* [Testimonials](#testimonials)
+* [How does it work?](#how-it-works)
+* [How can it help you?](#how-can-it-help-you)
+* [Practical](#practical) 
+
+
+
+Each experience leaves a trace, remembered by the body, conditioning the mind.
+
+Working with your nervous system you can release old physical tensions, integrate unprocessed emotions, and let go of unhelpful subconscious reflexes.
+
+Unblocking your body, you unblock your mind - untangling yourself from worn-out narratives, sticky thought loops, and toxic behaviour patterns.
+
+
 ## What to expect 
 During treatments I use massage techniques to surface your subconscious physical tensions, along with their underlying psycho-emotional causes - whether unprocessed stress, anxiety, fear, anger, sadness, ...
 
