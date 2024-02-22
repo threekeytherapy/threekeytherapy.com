@@ -37,16 +37,6 @@ This helps to create balance in your nervous system, open up the breathing, and 
 
 When there is flow and movement, the body's own self-healing processes are automatically set in motion
 
-> What people have said
-
-"I feel like more has happened in one session, than my past year of doing talk therapy." -  Naomi
-
-"This made me realise just how important the body is for the healing process." - Sander
-
-"Claus is like a facilitator for vulnerability - I feel I can really open up to myself." - Conti
-
-"Wow, what a trip. I have never experienced anything like this!" - Irene
-
 > How can it help you?
 
 Manuvision body therapy can remedy a wide spectrum of physical and mental disorders, which can be rooted in everything from work injuries and physiological imbalances to mental states caused by stress, shock or trauma.
@@ -54,20 +44,17 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 **Typical physical problems:**
 
 * Back, neck and lower back pain
-* Pain in shoulders, elbows and wrists
-* Pain in knees, ankles and hips
+* Pain in shoulders, elbows, wrists, knees, ankles and hips
 * Tension headache and migraine
-* Digestive problems
 * Concussions, whiplash and sports injuries
 * Pregnancy and postpartum complications
+* Digestive problems
 
 **Typical psychological problems:**
 
 * Stress, anxiety and burnout
 * Eating and sleep disorders
-* Depression
-* PTSD (post-traumatic stress disorder)
-* Grief
+* Depression, grief and PTSD (post-traumatic stress disorder)
 
 **General inner work:**
 
@@ -77,6 +64,16 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 * Coming closer to yourself to live the life that you want to live
 
 **[Read more](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) about how Manuvision treatments can help address the above**
+
+> What people have said
+
+"I feel like more has happened in one session, than my past year of doing talk therapy." -  Naomi
+
+"This made me realise just how important the body is for the healing process." - Sander
+
+"Claus is like a facilitator for vulnerability - I feel I can really open up to myself." - Conti
+
+"Wow, what a trip. I have never experienced anything like this!" - Irene
 
 > Practical
 
@@ -105,4 +102,4 @@ For this reason, treatments work best without big items of clothing.
 I recommend wearing underwear that is not revealing and a sports bra.
 If you are not comfortable with this, it is of course possible to receive a treatment with clothing.
 
-<a href="/contact" class="button button--large">Book now</a>
+<a href="/contact" class="button button--large">Book a treatment</a>
