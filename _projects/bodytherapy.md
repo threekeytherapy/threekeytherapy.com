@@ -51,7 +51,7 @@ When there is flow and movement, the body's own self-healing processes are autom
 
 Manuvision body therapy can remedy a wide spectrum of physical and mental disorders, which can be rooted in everything from work injuries and physiological imbalances to mental states caused by stress, shock or trauma.
 
-Typical physical problems:
+**Typical physical problems:**
 
 * Back, neck and lower back pain
 * Pain in shoulders, elbows and wrists
@@ -61,7 +61,7 @@ Typical physical problems:
 * Concussions, whiplash and sports injuries
 * Pregnancy and postpartum complications
 
-Typical psychological problems:
+**Typical psychological problems:**
 
 * Stress, anxiety and burnout
 * Eating and sleep disorders
@@ -69,7 +69,7 @@ Typical psychological problems:
 * PTSD (post-traumatic stress disorder)
 * Grief
 
-General inner work:
+**General inner work:**
 
 * Embodiment and grounding
 * Gaining confidence and speaking up

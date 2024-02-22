@@ -6,9 +6,7 @@ featured_image: /images/profile2crop4.jpg
 date: 2023-11-04 00:00:00
 ---
 
-> About Me
-
-My name is Claus and I am a certified Manuvision therapist.
+> My name is Claus and I am a certified Manuvision therapist
 
 I have been working as a therapist since 2022, receiving Manuvision trainings and treatments since 2016, and generally dabbling with the existential arts since 2006.
 
@@ -18,9 +16,7 @@ My other passion is helping government organizations become more open, transpara
 
 I have a Belgian passport, grew up in Asia, and speak English, Dutch, Spanish & French.
 
-> About Manuvision
-
-Manuvision is a community of body therapists building on 25 years of research in liberating the nervous system. 
+> Manuvision is a community of body therapists building on 25 years of research in liberating the nervous system 
 
 We work by creating a space of trust and presence in which people can open up to vulnerability, be seen and heard, and feel supported to overcome their struggle.
 
