@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Book now
 subtitle: 
 description:
 featured_image: 

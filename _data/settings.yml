@@ -16,8 +16,8 @@ menu_settings:
       url: '/trainings'         
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'Book now'
+      url: '/book-now'
 
 footer_settings:
   footer_tagline: Body therapy based on empathy
