@@ -1,16 +1,12 @@
 ---
 title: About
 subtitle: 
-description: My name is Claus, I am a certified Manuvision therapist, and I look forward to working with you. Manuvision is a research-based treatment method with 25 years of experience with liberating the nervous system.
+description: My name is Claus and I am a certified Manuvision therapist. Manuvision is a research-based treatment method with 25 years of experience with liberating the nervous system.
 featured_image: /images/profile2crop4.jpg
 date: 2023-11-04 00:00:00
 ---
 
-
-
-## About Me
-
-My name is Claus and I am a certified Manuvision therapist.
+> My name is Claus and I am a certified Manuvision therapist
 
 I have been working as a therapist since 2022, receiving Manuvision trainings and treatments since 2016, and generally dabbling with the existential arts since 2006.
 
@@ -20,9 +16,7 @@ My other passion is helping government organizations become more open, transpara
 
 I have a Belgian passport, grew up in Asia, and speak English, Dutch, Spanish & French.
 
-## About Manuvision
-
-Manuvision is a community of body therapists building on 25 years of research in liberating the nervous system. 
+> Manuvision is a community of body therapists building on 25 years of research in liberating the nervous system 
 
 We work by creating a space of trust and presence in which people can open up to vulnerability, be seen and heard, and feel supported to overcome their struggle.
 
@@ -30,10 +24,4 @@ Manuvision therapists have been proven to help soldiers with PTSD in clinical st
 
 Manuvision draws from Chinese traditional medicine, Western physiotherapy, Jungian psychology and shadow work, breathwork, inner child work, as well as various other traditions. 
 
-Read more about [Manuvision body therapy](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), [Manuvision treatments](https://manuvision-dk.translate.goog/hvad-er-manuvision-kropsterapi/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), and [Manuvision training](https://manuvision-dk.translate.goog/manuvisiontraening/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
-
-<div class="gallery" data-columns="2">
-	<img src="/images/profile2.jpg">
-    <img src="/images/mv-community.jpg">
-    <img src="/images/mv-house.jpg">
-</div>
+Read more about [Manuvision](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
