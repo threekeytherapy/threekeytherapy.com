@@ -1,40 +1,105 @@
 ---
-title: What is body therapy?
+title: Manuvision body therapy
 subtitle: 
-description: All of you matters. Whether you are struggling with emotional knots, negative thought loops, or chronic physical conditions, body therapy takes you seriously as a whole human being.
+description: Manuvision body therapy is a form of treatment that addresses physical and psychological disorders through the body. We release the tension behind the body's symptoms, create balance in the nervous system, and kickstart the body's natural healing processes.
 featured_image: '/images/treatment2.jpg'
 date: 2023-11-01 00:00:00
+redirects_from:
+  - /_pages/treatments
+  - /treatments
 ---
 
-Each experience leaves a trace, remembered by the body, conditioning the mind.
+> The body remembers the life it has lived.
 
-Working with your nervous system you can release old physical tensions, integrate unprocessed emotions, and let go of unhelpful subconscious reflexes.
+Body and psyche are connected.
+The many impressions and expressions of the past and everyday life are stored in the body.
+Your body depicts your mental well-being – the physical and the psyche are not two separate elements, but a whole.
 
-Unblocking your body, you unblock your mind - untangling yourself from worn-out narratives, sticky thought loops, and toxic behaviour patterns.
+If there is pain in the body, it affects the psyche, and if you are under psychological pressure, it settles in the body.
 
----
+It is always the body that first draws attention to the fact that something is wrong.
+And it is the body that suffers the consequences of all our actions – or lack thereof.
+These consequences manifest as tension, blockages and thus pain in our body.
 
-## How does it work?
+That connection has a direct connection to our nervous system, and it is also one of the reasons why Manuvision body therapy works through the nervous system.
 
-The nervous system is our central communication channel.
-It helps us navigate the physical and social world we live in.
+> Manuvision body therapy helps you break free
 
-It works to keep us safe by remembering what felt safe and what felt as a threat - that time my boundaries were not respected, I was praised or punished for being loud/quiet, dominant/submissive, openly sad/joyful/angry.
+We do this by opening the body and loosening the tensions and blockages that lie behind the physical and psychological ailments.
 
-As such, it also shapes our bodily reactions and personality construct - when we tense, when we relax, how secure we feel in interpersonal relations, what role we take in a group dynamic, and most importantly when and where we allow ourselves to let go and express core emotions of anger, sadness, joy and fear.
+During a body therapy treament, I will work with you to:
 
-And the things that really hurt - well, they stick.
+* relax muscles, release joints and loosen up the neck and back from a combination of deep massage techniques, joint release, acupressure and zone points
+* read and remedy disturbances in the nervous system that can result in everything from digestive problems and neck tension to stress , anxiety and depression
+* create a connection between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states
 
-> Old fears, pains and angers create a constant strain on the nervous system, the body, and our sense of freedom to be ourselves.
+This helps to create balance in your nervous system, open up the breathing, and activate flow in the body's energy system.
 
-A constant tension in the stomach or jaw, a constant worry about how others perceive me, or a constant background feeling of being trapped, unheard, and constrained.
+When there is flow and movement, the body's own self-healing processes are automatically set in motion
 
-The same is true about a traumatic event - suffering abuse, an accident, an operation, a divorce or a burn out.
+> How can it help you?
 
-So by surfacing, acknowledging and letting go of these old experiences and blockages, the nervous system is freed, unblocking your body, your mind, and you!
+Manuvision body therapy can remedy a wide spectrum of physical and mental disorders, which can be rooted in everything from work injuries and physiological imbalances to mental states caused by stress, shock or trauma.
 
-One step towards a more happy, peaceful and free life :)
+**Typical physical problems:**
 
-## What method do you use?
+* Back, neck and lower back pain
+* Pain in shoulders, elbows, wrists, knees, ankles and hips
+* Tension headache and migraine
+* Concussions, whiplash and sports injuries
+* Pregnancy and postpartum complications
+* Digestive problems
 
-Find out more about [how I treat](/treatments) and the [Manuvision](/about) body therapy technique I am trained in.
+**Typical psychological problems:**
+
+* Stress, anxiety and burnout
+* Eating and sleep disorders
+* Depression, grief and PTSD (post-traumatic stress disorder)
+
+**General inner work:**
+
+* Embodiment and grounding
+* Gaining confidence and speaking up
+* Setting boundaries and saying no
+* Coming closer to yourself to live the life that you want to live
+
+**[Read more](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) about how Manuvision treatments can help address the above**
+
+> What people have said
+
+"I feel like more has happened in one session, than my past year of doing talk therapy." -  Naomi
+
+"This made me realise just how important the body is for the healing process." - Sander
+
+"Claus is like a facilitator for vulnerability - I feel I can really open up to myself." - Conti
+
+"Wow, what a trip. I have never experienced anything like this!" - Irene
+
+> Practical
+
+**Duration**:
+Treatments take between 1h 15min and 1h 30min, based on what you and your body need at that moment. 
+
+**Amsterdam West**:
+Groen van Prinstererstraat 52,1ste 1051 EN
+
+**Amsterdam East**:
+Newtonstraat 4, Serire, 1098 HD
+(only on Friday)
+
+**Working languages**:
+English, Dutch, Spanish and rusty French.
+
+**Pricing**:
+I work with solidarity prices.
+This means you can pay any amount between 70 and 120 euros, based on your financial situation.
+I do this to try keep care accessible to as many people as possible.
+If this is not within your range, please contact me and we can find a solution.
+
+**What to wear**:
+Treatments involve touch, and the nervous system responds most to skin contact.
+For this reason, treatments work best without big items of clothing.
+I recommend wearing underwear that is not revealing and a sports bra.
+If you are not comfortable with this, it is of course possible to receive a treatment with clothing.
+
+<a href="/contact" class="button button--large">Book a treatment</a>
