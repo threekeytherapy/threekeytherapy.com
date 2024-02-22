@@ -1,7 +1,7 @@
 ---
 title: Manuvision Trainings
 subtitle: 
-description: Manuvision training is about getting you back into your body. It combines the best from body therapy, yoga, and karate. Work with your body to learn more about your inner self.
+description: Manuvision training is about getting you back into your body. It combines the best from body therapy, yoga, and karate to help you learn more about your inner self.
 featured_image: images/mv-training2.jpg
 date: 2023-11-03 00:00:00
 ---
@@ -59,4 +59,3 @@ Studio Here Now, Frederik Hendrikstraat 115, Amsterdam West
 ### How much?
 
 On donation, suggested range 5 to 20 euros
-
