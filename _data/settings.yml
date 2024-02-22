@@ -16,7 +16,7 @@ menu_settings:
       url: '/trainings'         
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Book now'
       url: '/contact'
 
 footer_settings:

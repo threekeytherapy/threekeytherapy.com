@@ -1,9 +1,11 @@
 ---
-title: Contact
+title: Book now
 subtitle: 
 description:
 featured_image: 
 ---
+
+To book a treatment or sign up to a training, please get in touch with me via the options below.
 
 ## How to reach me
 
