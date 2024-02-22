@@ -48,4 +48,4 @@ Studio Here Now, Frederik Hendrikstraat 115, Amsterdam West
 **How much?**
 On donation, suggested range 5 to 20 euros
 
-<a href="/contact" class="button button--large">Sign up</a>
+<a href="/contact" class="button button--large">Try out a training</a>
