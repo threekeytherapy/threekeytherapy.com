@@ -8,6 +8,9 @@ Jump to:
 * [Practical](#practical) 
 
 
+Manuvision treatments focus on releasing the tension at the root of emotional, mental and physical blockages. 
+
+Decompress and free your nervous system. A hands-on opportunity to resolve the subconscious tensions at the root of your emotional, mental and physical blockages. 
 
 Each experience leaves a trace, remembered by the body, conditioning the mind.
 
