@@ -1,9 +1,9 @@
 ---
 title: About
 subtitle: 
-description:  My name is Claus, I am a certified Manuvision body therapist, and look forward to meeting you.
-featured_image: /images/profile5.jpg
-order: 3
+description:  My name is Claus, I am a certified Manuvision body therapist, and I look forward to meeting you.
+featured_image: /images/profile2crop4.jpg
+date: 2023-11-04 00:00:00
 ---
 
 ## About Me
@@ -11,9 +11,12 @@ order: 3
 My name is Claus and I am a certified Manuvision therapist.
 
 I have been working as a therapist since 2022, receiving Manuvision trainings and treatments since 2016, and generally dabbling with the existential arts since 2006.
-I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow work, and being open to knowledge of self in whatever form it comes. 
 
-I also work as a coordinator and facilitator for international collaborations on (open source) software projects for governments, have a Belgian passport, grew up in Asia, and speak English, Dutch, Spanish & French.
+I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow work, and being open to 'knowledge of self' in whatever form it comes. 
+
+My other passion is helping government organizations become more open, transparant and collaborative, which I do as a coordinator and facilitator for international open source public sector software projects. 
+
+I have a Belgian passport, grew up in Asia, and speak English, Dutch, Spanish & French.
 
 ## About Manuvision
 
@@ -25,4 +28,10 @@ Manuvision therapists have been proven to help soldiers with PTSD in clinical st
 
 Manuvision draws from Chinese traditional medicine, Western physiotherapy, Jungian psychology and shadow work, breathwork, inner child work, as well as various other traditions. 
 
-Read more about [Manuvision body therapy](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), [Manuvision treatments](https://manuvision-dk.translate.goog/hvad-er-kropsterapi/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), and [Manuvision training](https://manuvision-dk.translate.goog/traening/hvad-er-manuvision-traening/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
+Read more about [Manuvision body therapy](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), [Manuvision treatments](https://manuvision-dk.translate.goog/hvad-er-manuvision-kropsterapi/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), and [Manuvision training](https://manuvision-dk.translate.goog/manuvisiontraening/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
+
+<div class="gallery" data-columns="2">
+	<img src="/images/profile2.jpg">
+    <img src="/images/mv-community.jpg">
+    <img src="/images/mv-house.jpg">
+</div>

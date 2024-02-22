@@ -12,16 +12,18 @@ menu_settings:
       url: '/bodytherapy'
     - title: 'Treatments'
       url: '/treatments'    
+    - title: 'Trainings'
+      url: '/trainings'         
     - title: 'About'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Because empathy matters
+  footer_tagline: Body therapy based on empathy
 
 hero_settings:
-  overlay_opacity: 0.9
+  overlay_opacity: 0.6
 
 post_settings:
   grid_spacing: 10
@@ -64,12 +66,12 @@ color_settings:
   background_color: '#FAF6DB'
   background_alt_color: '#FFCD7E'
   text_dark_color: '#7A1502'
-  text_medium_color: '#6C7A89'
-  text_light_color: '#ABB7B7'
+  text_medium_color: '#5d6976'
+  text_light_color: '#6C7A89'
   accent_color: '#D55A1F'
   border_color: '#7A1502'
   hero_background_color: '#7A1502'
-  hero_text_color: '#FFCD7E'
+  hero_text_color: '#FAF6DB'
   error_color: '#7A1502'
 
 font_settings:

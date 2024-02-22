@@ -29,7 +29,10 @@
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
 	<meta property="og:description" content="{{ page.description | strip_html | xml_escape }}" />
-	<meta property="og:image" content="https://threekeytherapy.com/images/logomahogony25.svg" />
+	<meta property="og:image" content="{{ page.featured_image | absolute_url }}" />
+
+	<!-- Google Site Verification -->
+	<meta name="google-site-verification" content="YXP5GIQdiBKHnfwU0JQbeXLHetJIicdcQ8EoJjEU7Ak" />
 
 	{% if site.data.settings.font_settings.font_embed %}
 	<!-- Font Embed Code -->

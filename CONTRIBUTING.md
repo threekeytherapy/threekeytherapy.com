@@ -1,7 +1,7 @@
 
 ## Images
 
-Hero images  1600 px wide x 900 px high
+Hero images recommened 1600 px wide x 900 px high
 
 ## Editing colour settings: 
 
@@ -19,6 +19,13 @@ color_settings:
   
 ## Colours
 
+font options
+
+theme light #ABB7B7
+theme mid #6c7a89
+darker #5d6976
+darkest #4e5964
+
 Soft creme #FAF6DB
 Clay yellow # FFCD7E
 Burnt tangerine #F7941D
@@ -26,3 +33,20 @@ Mahogony red #7A1502
 -
 Earth Orange #D55A1F
 Olive Green #747500
+
+## Images
+
+![](/images/demo/image.jpg)
+
+<div class="gallery" data-columns="3">
+	<img src="/images/demo/demo-portrait.jpg">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-square.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+
+
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
