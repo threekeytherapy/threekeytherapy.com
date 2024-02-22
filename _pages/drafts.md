@@ -7,6 +7,7 @@ Jump to:
 * [How can it help you?](#how-can-it-help-you)
 * [Practical](#practical) 
 
+# Old treatment page 
 
 Manuvision treatments focus on releasing the tension at the root of emotional, mental and physical blockages. 
 
@@ -17,7 +18,6 @@ Each experience leaves a trace, remembered by the body, conditioning the mind.
 Working with your nervous system you can release old physical tensions, integrate unprocessed emotions, and let go of unhelpful subconscious reflexes.
 
 Unblocking your body, you unblock your mind - untangling yourself from worn-out narratives, sticky thought loops, and toxic behaviour patterns.
-
 
 ## What to expect 
 During treatments I use massage techniques to surface your subconscious physical tensions, along with their underlying psycho-emotional causes - whether unprocessed stress, anxiety, fear, anger, sadness, ...
@@ -30,7 +30,7 @@ Or feel a sudden desire to sign up to a pottery course and start wearing purple 
 
 
 
-## How does it work?
+# Old body therapy? / How does it work?
 
 The nervous system is our central communication channel.
 It helps us navigate the physical and social world we live in.
@@ -54,7 +54,6 @@ One step towards a more happy, peaceful and free life :)
 ## What method do you use?
 
 Find out more about [how I treat](/treatments) and the [Manuvision](/about) body therapy technique I am trained in.
-
 
 ### Taglines
 	We work by creating a space of trust and presence in which people can open up to vulnerability, be seen and heard, and feel supported to overcome their struggle.
