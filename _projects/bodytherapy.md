@@ -102,4 +102,8 @@ For this reason, treatments work best without big items of clothing.
 I recommend wearing underwear that is not revealing and a sports bra.
 If you are not comfortable with this, it is of course possible to receive a treatment with clothing.
 
+**Cancellation**:
+If you cancel your appointment less than 24 hours in advance, or simply do not show up, you will be charged for a full session.
+
+
 <a href="/contact" class="button button--large">Book a treatment</a>
