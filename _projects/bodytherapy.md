@@ -56,7 +56,7 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 * Eating and sleep disorders
 * Depression, grief and PTSD (post-traumatic stress disorder)
 
-**General inner work:**
+**General personal work:**
 
 * Embodiment and grounding
 * Gaining confidence and speaking up
