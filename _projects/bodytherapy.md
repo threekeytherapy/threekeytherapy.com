@@ -56,7 +56,7 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 * Eating and sleep disorders
 * Depression, grief and PTSD (post-traumatic stress disorder)
 
-**General inner work:**
+**General personal work:**
 
 * Embodiment and grounding
 * Gaining confidence and speaking up
@@ -77,9 +77,6 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 
 > Practical
 
-**Duration**:
-Treatments take between 1h 15min and 1h 30min, based on what you and your body need at that moment. 
-
 **Amsterdam West**:
 Groen van Prinstererstraat 52,1ste 1051 EN
 
@@ -89,6 +86,9 @@ Newtonstraat 4, Serire, 1098 HD
 
 **Working languages**:
 English, Dutch, Spanish and rusty French.
+
+**Duration**:
+Treatments take between 1h and 1h 15min, based on what you and your body need at that moment. 
 
 **Pricing**:
 I work with solidarity prices.
@@ -101,5 +101,9 @@ Treatments involve touch, and the nervous system responds most to skin contact.
 For this reason, treatments work best without big items of clothing.
 I recommend wearing underwear that is not revealing and a sports bra.
 If you are not comfortable with this, it is of course possible to receive a treatment with clothing.
+
+**Cancellation**:
+If you cancel your appointment less than 24 hours in advance, or simply do not show up, you will be charged for a full session.
+
 
 <a href="/contact" class="button button--large">Book a treatment</a>

@@ -1,4 +1,10 @@
-# Stash for code snippets
+---
+title: Drafts
+description: Stash for text
+featured_image: /images/demo/about.jpg
+---
+
+# Stash for text
 
 
 Jump to:
