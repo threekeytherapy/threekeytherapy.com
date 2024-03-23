@@ -14,7 +14,7 @@ Trainings are designed to work the whole body - from facial muscles to the toes.
 We work with muscles and connective tissue, open up the breathing, stimulate circlation, loosen all the main joints, and improve overall stength and flexibility.
 
 We also train presence and awareness, with a strong emphasis on grounding.
-The helps becoming more aware how you handle limits, escape or face internal resistance, and can move from a deeper presence.
+This helps becoming more aware how you handle limits, escape or face internal resistance, and can move from a deeper presence.
 
 Trainings usually close with a small sharing circle.
 
