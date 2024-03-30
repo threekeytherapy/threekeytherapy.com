@@ -5,7 +5,7 @@ description:
 featured_image: 
 ---
 
-> Book a treatment or try our a training via the options below 
+> Book a treatment or try out a training via the options below 
 
 ### [claus@threekeytherapy.com](mailto:claus@threekeytherapy.com)
 
