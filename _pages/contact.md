@@ -1,19 +1,21 @@
 ---
-title: Contact
+title: Book now
 subtitle: 
 description:
 featured_image: 
 ---
 
-## How to reach me
+> Book a treatment or try our a training via the options below 
 
-claus@threekeytherapy.com
+### [claus@threekeytherapy.com](mailto:claus@threekeytherapy.com)
 
-+31 638 700 278
+### +31 638 700 278
+
+### Or send me a message
 
 {% include contact-form.html %}
 
-## Availability
+### Availability
 
 Here are times I am available.
 If none of these work for you, please reach out and we can find another time.

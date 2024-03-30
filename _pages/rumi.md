@@ -3,7 +3,8 @@ title: Rumi Poems
 description: Collection of resources
 featured_image: /images/demo/about.jpg
 redirect_from:
-  - _pages/testimonials
+  - /testimonials
+  - /_pages/testimonials
 ---
 
 ## Demo content
@@ -11,6 +12,8 @@ redirect_from:
 Poem
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque accumsan lectus dolor, nec ullamcorper ex pretium et. Vestibulum nec odio mauris. Aliquam erat volutpat. Sed nec sollicitudin arcu, quis porta enim. Aliquam molestie eu nunc eget efficitur. Suspendisse massa lacus, gravida accumsan elementum ut, interdum id tellus. Nunc felis sem, hendrerit ut maximus a, euismod eget arcu. Duis sed luctus nisi. Proin magna nisi, fermentum sed ipsum et, laoreet molestie odio. Nunc gravida sit amet dolor vel tincidunt. Etiam sed tortor semper, elementum ex vel, accumsan lacus. Pellentesque eu dignissim eros.
+
+> Old fears, pains and angers create a constant strain on the nervous system, the body, and our sense of freedom to be ourselves.
 
 Duis fringilla auctor tortor vitae dignissim. Pellentesque quis porttitor eros. Integer lacinia nunc hendrerit nisi tempus, non fringilla nibh mollis. Maecenas orci eros, scelerisque vitae ultricies eu, feugiat a diam. Cras quis turpis dictum, pellentesque augue eget, semper orci. Nunc molestie, turpis sit amet tristique porttitor, tellus sapien tempor tellus, eu porttitor risus tortor ac dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras at faucibus lectus. Sed ac consequat tellus, vitae tempor nisl. Aliquam nec enim sollicitudin, placerat lorem sed, mollis massa. Mauris volutpat metus at lectus porttitor, in gravida sapien volutpat. Etiam venenatis lectus orci, sed iaculis nisi volutpat nec. Vivamus aliquet justo ut tortor molestie porta. Cras vehicula neque ac neque semper, ut sagittis turpis mollis. Mauris faucibus leo in risus vestibulum iaculis. Donec vel consequat tortor.
 

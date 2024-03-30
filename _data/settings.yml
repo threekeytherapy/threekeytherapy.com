@@ -8,15 +8,13 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Body therapy?'
+    - title: 'Body therapy'
       url: '/bodytherapy'
-    - title: 'Treatments'
-      url: '/treatments'    
     - title: 'Trainings'
       url: '/trainings'         
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Book now'
       url: '/contact'
 
 footer_settings:
