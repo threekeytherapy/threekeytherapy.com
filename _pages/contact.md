@@ -17,7 +17,7 @@ featured_image:
 
 ### Availability
 
-Here are times I am available.
+Here are some times I am still available.
 If none of these work for you, please reach out and we can find another time.
 
 <iframe id="open-web-calendar" 
