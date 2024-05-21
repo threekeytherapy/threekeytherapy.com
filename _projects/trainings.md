@@ -38,7 +38,7 @@ Monday 19.00 - 20.30
 Friday 9.30 - 11.00
 
 **Where?**
-Subject to change - send me a message if you'd like to join
+Subject to change - send me a message if you'd like to join.
 
 **How much?**
 On donation.
