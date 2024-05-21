@@ -34,13 +34,14 @@ In this way, Manuvision training is also a supplement to body therapy, because y
 > Practical
 
 **When?** 
-Monday 19.00 - 21.00
+Monday 19.00 - 20.30
+Friday 9.30 - 11.00
 
 **Where?**
-Studio Here Now, Frederik Hendrikstraat 115, Amsterdam West
+Subject to change - send me a message if you'd like to join.
 
 **How much?**
-On donation, suggested range 5 to 15 euros.
+On donation.
 First one free.
 
 <a href="/contact" class="button button--large">Try out a training</a>
