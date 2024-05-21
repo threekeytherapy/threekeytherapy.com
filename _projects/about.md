@@ -12,7 +12,7 @@ I have been working as a therapist since 2022, receiving Manuvision trainings an
 
 I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow work, and being open to 'knowledge of self' in whatever form it comes. 
 
-My other passion is helping government organizations become more open, transparant and collaborative, which I do as a coordinator and facilitator for international open source public sector software projects. 
+My other passion is helping government organizations become more open, transparant and collaborative. I do this as a coordinator and facilitator for international open source software projects that serve a public interest. 
 
 I have a Belgian passport, grew up in Asia, and speak English, Dutch, Spanish & French.
 
