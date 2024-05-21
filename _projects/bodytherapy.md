@@ -35,7 +35,7 @@ During a body therapy treament, I will work with you to:
 
 This helps to create balance in your nervous system, open up the breathing, and activate flow in the body's energy system.
 
-When there is flow and movement, the body's own self-healing processes are automatically set in motion
+When there is flow and movement, the body's own self-healing processes are automatically set in motion.
 
 > How can it help you?
 
