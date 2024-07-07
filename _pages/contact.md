@@ -15,6 +15,8 @@ featured_image:
 
 {% include contact-form.html %}
 
+
+<!-- 
 ### Availability
 
 Here are some times I am still available.
@@ -27,3 +29,4 @@ If none of these work for you, please reach out and we can find another time.
     allowTransparency="true" scrolling="no" 
     frameborder="0" height="600px" width="100%"></iframe>
     
+  -->
