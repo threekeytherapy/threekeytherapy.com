@@ -15,10 +15,6 @@ I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow wor
 
 My other passion is helping government organizations become more open, transparant and collaborative. I have a Belgian passport, grew up in Asia, and speak English, Dutch, Spanish & French.
 
-<div class="gallery" data-columns="3">
-    <img src="/images/clausportrait.jpg">
-</div>
-
 > Manuvision is a community of body therapists building on 25 years of research in liberating the nervous system 
 
 We work by creating a space of trust and presence in which people can open up to vulnerability, be seen and heard, and feel supported to overcome their struggle.
