@@ -2,7 +2,8 @@
 title: Manuvision body therapy
 subtitle: 
 description: Manuvision body therapy is a form of treatment that addresses physical and psychological disorders through the body. We release the tension behind the body's symptoms, create balance in the nervous system, and kickstart the body's natural healing processes.
-featured_image: '/images/treatment2.jpg'
+featured_image: /images/treatment2.jpg
+homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
 redirects_from:
   - /_pages/treatments

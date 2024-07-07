@@ -3,10 +3,9 @@ title: About
 subtitle: 
 description: My name is Claus and I am a certified Manuvision therapist. Manuvision is a research-based treatment method with 25 years of experience with liberating the nervous system.
 featured_image: /images/clauslandscapestudio.jpg
+homepage_image: /images/clausportrait.jpg
 date: 2023-11-04 00:00:00
 ---
-
-![profilepicture](images/clausportrait.jpg)
 
 My name is Claus and I am a certified Manuvision therapist.
 
@@ -15,6 +14,10 @@ I have been working as a therapist since 2022, receiving Manuvision trainings an
 I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow work, and being open to 'knowledge of self' in whatever form it comes. 
 
 My other passion is helping government organizations become more open, transparant and collaborative. I have a Belgian passport, grew up in Asia, and speak English, Dutch, Spanish & French.
+
+<div class="gallery" data-columns="3">
+    <img src="/images/clausportrait.jpg">
+</div>
 
 > Manuvision is a community of body therapists building on 25 years of research in liberating the nervous system 
 
@@ -25,3 +28,4 @@ Manuvision therapists have been proven to help soldiers with PTSD in clinical st
 Manuvision draws from Chinese traditional medicine, Western physiotherapy, Jungian psychology and shadow work, breathwork, inner child work, as well as various other traditions. 
 
 Read more about [Manuvision](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
+
