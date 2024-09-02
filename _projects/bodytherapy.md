@@ -78,23 +78,23 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 
 > Practical
 
-**Amsterdam West**:
-Groen van Prinstererstraat 52,1ste 1051 EN
-
 **Amsterdam East**:
-Newtonstraat 4, Serire, 1098 HD
-(only on Friday)
+Monday and Friday - Newtonstraat 4, 1098 HD (bel: Serire)
+
+**Amsterdam West**:
+Thursday - Keizersgracht 166a, 1015 CZ, (bel: Equilibrium Massage Therapy)
+
+Tuesday and Wednesday - Groen van Prinstererstraat 52,1ste 1051 EN (bel: Claus)
 
 **Working languages**:
-English, Dutch, Spanish and rusty French.
+English, Dutch, Spanish and rusty French
 
 **Duration**:
-Treatments take between 1h and 1h 15min, based on what you and your body need at that moment. 
+1h 15min, first one can take up to 1h 30min
 
 **Pricing**:
-I work with solidarity prices.
-This means you can pay any amount between 70 and 120 euros, based on your financial situation.
-I do this to try keep care accessible to as many people as possible.
+95 euros regular rate, 85 euros reduced rate (students, unemployed, and otherwise financially challenged).
+Discounts available when booking multiple sessions.
 If this is not within your range, please contact me and we can find a solution.
 
 **What to wear**:
@@ -105,6 +105,5 @@ If you are not comfortable with this, it is of course possible to receive a trea
 
 **Cancellation**:
 If you cancel your appointment less than 24 hours in advance, or simply do not show up, you will be charged for a full session.
-
 
 <a href="/contact" class="button button--large">Book a treatment</a>
