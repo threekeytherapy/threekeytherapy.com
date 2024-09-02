@@ -84,8 +84,6 @@ Monday and Friday - Newtonstraat 4, 1098 HD (bel: Serire)
 **Amsterdam West**:
 Thursday - Keizersgracht 166a, 1015 CZ, (bel: Equilibrium Massage Therapy)
 
-Tuesday and Wednesday - Groen van Prinstererstraat 52,1ste 1051 EN (bel: Claus)
-
 **Working languages**:
 English, Dutch, Spanish and rusty French
 
