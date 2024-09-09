@@ -91,9 +91,9 @@ English, Dutch, Spanish and rusty French
 1h 15min, first one can take up to 1h 30min
 
 **Pricing**:
-95 euros regular rate, 85 euros reduced rate (students, unemployed, and otherwise financially challenged).
+95 euros regular rate, 85 euros reduced rate (students, unemployed, and otherwise financially challenged). If this is not within your range, please contact me and we can find a solution.
+
 Discounts available when booking multiple sessions.
-If this is not within your range, please contact me and we can find a solution.
 
 **What to wear**:
 Treatments involve touch, and the nervous system responds most to skin contact.

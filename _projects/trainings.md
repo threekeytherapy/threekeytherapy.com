@@ -42,7 +42,6 @@ Friday 9.30 - 11.00
 Subject to change - send me a message if you'd like to join.
 
 **How much?**
-On donation.
-First one free.
+15 euros regular rate, 10 euros reduced rate (students, unemployed, and otherwise financially challenged). If this is not within your range, please contact me and we can find a solution.
 
 <a href="/contact" class="button button--large">Try out a training</a>
