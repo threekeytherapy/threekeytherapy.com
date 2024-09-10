@@ -1,7 +1,7 @@
 ---
 title: Manuvision body therapy
 subtitle: 
-description: Manuvision body therapy is a form of treatment that addresses physical and psychological disorders through the body. We release the tension behind the body's symptoms, create balance in the nervous system, and kickstart the body's natural healing processes.
+description: Manuvision body therapy is a treatment method that addresses physical and psychological disorders through the body. We release the tension behind the body's symptoms, create balance in the nervous system, and kickstart the body's natural healing processes. Available in English, Dutch, Spanish, and (rusty) French.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -91,9 +91,9 @@ English, Dutch, Spanish and rusty French
 1h 15min, first one can take up to 1h 30min
 
 **Pricing**:
-95 euros regular rate, 85 euros reduced rate (students, unemployed, and otherwise financially challenged).
+95 euros regular rate, 85 euros reduced rate (students, unemployed, and otherwise financially challenged). If this is not within your range, please contact me and we can find a solution.
+
 Discounts available when booking multiple sessions.
-If this is not within your range, please contact me and we can find a solution.
 
 **What to wear**:
 Treatments involve touch, and the nervous system responds most to skin contact.
