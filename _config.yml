@@ -14,7 +14,7 @@ collections:
     output: true
     permalink: /:slug
   workshops:
-    output: ture
+    output: true
     permalink: /workshops/:slug
 
 defaults:
