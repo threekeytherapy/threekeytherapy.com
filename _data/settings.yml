@@ -12,6 +12,8 @@ menu_settings:
       url: '/bodytherapy'
     - title: 'Workshops'
       url: '/workshops/'         
+    - title: 'Pricing'
+      url: '/pricing'           
     - title: 'About'
       url: '/about'
     - title: 'Book now'
