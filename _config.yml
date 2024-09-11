@@ -46,7 +46,7 @@ defaults:
       path: ""
       type: "workshops"
     values:
-      layout: "workshops"
+      layout: "workshop"
 
 markdown: kramdown
 
