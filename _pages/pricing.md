@@ -7,31 +7,24 @@ featured_image:
 
 ## Individual body therapy sessions
 
-Duration: 1h 15min
+Duration: 1h 15min, intake 1h 30min
 
-Standard rate: 95 euros incl VAT
+Standard: 95 euros incl VAT
 
-Reduced rate: 85 euros incl VAT (for unemployed, students and otherwise financially challenged)
+Reduced: 85 euros incl VAT (for unemployed, students and financial difficulty)
 
-Business rate: 95 euros excl VAT (for business invoices)
+Business: 95 euros excl VAT (for business invoices)
 
 Discount available when paying multiple sessions upfront
 
-[Cancellation policy]
-
-Invoices payable within 10 working days
+Cancellations less than 24 hours in advance and no shows are charged at 100%
 
 ## Weekly training sessions
 
 Duration: 1h 30min
 
-Standard rate: 15 euros incl VAT
+Standard: 15 euros incl VAT
 
-Reducated rate: 10 euros incl VAT (for unemployed, students and otherwise financially challenged)
+Reducated: 10 euros incl VAT (for unemployed, students and otherwise financially challenged)
 
 Discount available when paying multiple sessions upfront
-
-## Other Workshops 
-
-Please see details on page
-
