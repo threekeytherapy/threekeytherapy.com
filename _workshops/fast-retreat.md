@@ -1,15 +1,12 @@
 ---
 title: Fasting retreat 9-11 May 2025
 subtitle: 
-description: 
+description: A full body reset through an intensive fasting and bodywork retreat, that cleanses muscles, organs, emotions and the mind. The retreat will be lead by Steffen Lundgaard, who has 15 years of experience with leading fasting retreats.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
-date: 2023-11-01 00:00:00
+date: 2023-11-02 00:00:00
 redirects_from:
 ---
-
-A full body reset through an intensive fasting and bodywork retreat, that cleanses muscles, organs, emotions and the mind.
-The retreat will be lead by Steffen Lundgaard, who has 15 years of experience with leading fasting retreats.
 
 ### Overview
 
