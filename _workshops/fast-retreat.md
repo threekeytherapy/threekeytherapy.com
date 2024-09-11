@@ -1,17 +1,30 @@
 ---
 title: Fasting retreat 9-11 May 2025
 subtitle: 
-description: A full body reset through an intensive fasting and bodywork retreat, that cleanses muscles, organs, emotions and the mind. The retreat will be lead by Steffen Lundgaard, who has 15 years of experience with leading fasting retreats.
+description: Give your body a full reset with an intensive fasting and body therapy retreat, designed tp cleanse muscles, organs, emotions and the mind. Lead by Steffen Lundgaard, with over 15 years of experience in leading fasting retreats.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-02 00:00:00
 redirects_from:
 ---
 
+### Introduction
+
+A fast is a much-needed rest and reset for the body and psyche.
+By challenging our bodily habits, exploring its potential and unlocking its ability to move and regenerate, we can gain a sense of freedom, energy and reflection.
+
+Some of the benefits of the retreat:
+- Strengthen circulation
+- Sharpen your senses
+- Excretes waste products built up your organs over the years
+- Reset and regulate your metabolism
+- Learn about the functioning of the organs
+- A lot of self-knowledge and the chance to get to meet yourself in a new way
+
 ### Overview
 
 10 days preparation diet at home
-4 days retreat on location
+4 days retreat in a beautiful farmhouse surrounded by nature
 10 days post fasting diet at home
 
 ### Diet
