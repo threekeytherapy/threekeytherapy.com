@@ -17,6 +17,10 @@ Business rate: 95 euros excl VAT (for business invoices)
 
 Discount available when paying multiple sessions upfront
 
+[Cancellation policy]
+
+Invoices payable within 10 working days
+
 ## Weekly training sessions
 
 Duration: 1h 30min
