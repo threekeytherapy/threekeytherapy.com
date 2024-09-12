@@ -10,8 +10,8 @@ menu_settings:
   menu_items:
     - title: 'Body therapy'
       url: '/bodytherapy'
-    - title: 'Trainings'
-      url: '/trainings'
+    - title: 'Workshops'
+      url: '/workshops/'         
     - title: 'Pricing'
       url: '/pricing'           
     - title: 'About'
