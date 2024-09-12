@@ -1,5 +1,5 @@
 ---
-title: Weekly Manuvision Trainings
+title: Weekly Manuvision Training
 subtitle: 
 description: Manuvision training is about getting you back into your body. It combines the best from body therapy, yoga, and karate to help you learn more about your inner self.
 featured_image: images/mv-training2.jpg
@@ -11,8 +11,7 @@ date: 2023-11-01 00:00:00
 
 It combines traditional karate, yoga, and reflexology with body therapy's knowledge of the how muscle tension, energy pathways and emotions are connected.
 
-Trainings are designed to work the whole body - from facial muscles to the toes.
-We work with muscles and connective tissue, open up the breathing, stimulate circlation, loosen all the main joints, and improve overall stength and flexibility.
+We work the whole body - with muscles and connective tissue, open up the breathing, stimulate circlation, loosen all the main joints, and improve overall stength and flexibility.
 
 We also train presence and awareness, with a strong emphasis on grounding.
 This helps becoming more aware how you handle limits, escape or face internal resistance, and can move from a deeper presence.
