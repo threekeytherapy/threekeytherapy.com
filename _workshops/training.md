@@ -5,6 +5,8 @@ description: Manuvision training is about getting you back into your body. It co
 featured_image: images/mv-training2.jpg
 homepage_image: /images/mv-training2.jpg
 date: 2023-11-01 00:00:00
+redirects_from:
+  - /trainings
 ---
 
 > Manuvision training is about getting you back into your body.
