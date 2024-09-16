@@ -1,18 +1,17 @@
 ---
-title: Manuvision Trainings
+title: Weekly Manuvision Training
 subtitle: 
 description: Manuvision training is about getting you back into your body. It combines the best from body therapy, yoga, and karate to help you learn more about your inner self.
 featured_image: images/mv-training2.jpg
 homepage_image: /images/mv-training2.jpg
-date: 2023-11-03 00:00:00
+date: 2023-11-01 00:00:00
 ---
 
 > Manuvision training is about getting you back into your body.
 
 It combines traditional karate, yoga, and reflexology with body therapy's knowledge of the how muscle tension, energy pathways and emotions are connected.
 
-Trainings are designed to work the whole body - from facial muscles to the toes.
-We work with muscles and connective tissue, open up the breathing, stimulate circlation, loosen all the main joints, and improve overall stength and flexibility.
+We work the whole body - with muscles and connective tissue, open up the breathing, stimulate circlation, loosen all the main joints, and improve overall stength and flexibility.
 
 We also train presence and awareness, with a strong emphasis on grounding.
 This helps becoming more aware how you handle limits, escape or face internal resistance, and can move from a deeper presence.
@@ -35,14 +34,9 @@ In this way, Manuvision training is also a supplement to body therapy, because y
 > Practical
 
 **When?** 
-Monday 19.00 - 20.30
-Friday 9.30 - 11.00
+Monday 19.30 - 21.00
 
 **Where?**
-Subject to change - send me a message if you'd like to join.
+Amsterdam West, subject to change - send me a message if you'd like to join.
 
-**How much?**
-15 euros regular rate, 10 euros reduced rate (students, unemployed, and otherwise financially challenged).
-If this is not within your range, please contact me and we can find a solution.
-
-<a href="/contact" class="button button--large">Try out a training</a>
+<a href="/contact" class="button button--large">Join a training</a>

@@ -88,20 +88,12 @@ Thursday - Keizersgracht 166a, 1015 CZ, (bel: Equilibrium Massage Therapy)
 English, Dutch, Spanish and rusty French
 
 **Duration**:
-1h 15min, first one can take up to 1h 30min
-
-**Pricing**:
-95 euros regular rate, 85 euros reduced rate (students, unemployed, and otherwise financially challenged). If this is not within your range, please contact me and we can find a solution.
-
-Discounts available when booking multiple sessions.
+1h 15min, intake 1h 30min
 
 **What to wear**:
 Treatments involve touch, and the nervous system responds most to skin contact.
 For this reason, treatments work best without big items of clothing.
 I recommend wearing underwear that is not revealing and a sports bra.
 If you are not comfortable with this, it is of course possible to receive a treatment with clothing.
-
-**Cancellation**:
-If you cancel your appointment less than 24 hours in advance, or simply do not show up, you will be charged for a full session.
 
 <a href="/contact" class="button button--large">Book a treatment</a>
