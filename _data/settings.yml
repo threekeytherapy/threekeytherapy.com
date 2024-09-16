@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Body therapy'
+    - title: 'Individual Sessions'
       url: '/bodytherapy'
     - title: 'Workshops'
       url: '/workshops/'         
