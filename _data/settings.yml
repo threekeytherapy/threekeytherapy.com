@@ -14,7 +14,7 @@ menu_settings:
       url: '/workshops/'         
     - title: 'Pricing'
       url: '/pricing'           
-    - title: 'About'
+    - title: 'About Me'
       url: '/about'
     - title: 'Book now'
       url: '/contact'
