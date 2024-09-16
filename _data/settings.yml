@@ -8,13 +8,13 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Body therapy'
+    - title: 'Individual Sessions'
       url: '/bodytherapy'
     - title: 'Workshops'
       url: '/workshops/'         
     - title: 'Pricing'
       url: '/pricing'           
-    - title: 'About'
+    - title: 'About Me'
       url: '/about'
     - title: 'Book now'
       url: '/contact'

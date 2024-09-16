@@ -1,7 +1,7 @@
 ---
-title: Manuvision body therapy
+title: Individual sessions
 subtitle: 
-description: Manuvision body therapy is a treatment method that addresses physical and psychological disorders through the body. We release the tension behind the body's symptoms, create balance in the nervous system, and kickstart the body's natural healing processes. Available in English, Dutch, Spanish, and (rusty) French.
+description: Release the tension behind your body's symptoms, create balance in your nervous system, and kickstart your body's natural healing processes. Combines massage techniques, pressure points, breathing and conversation. In English, Dutch, Spanish, and (rusty) French.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
