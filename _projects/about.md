@@ -3,7 +3,7 @@ title: About Me
 subtitle: 
 description: My name is Claus, and I am a certified Manuvision therapist. Manuvision is a research-based method built on 25 years of experience in freeing the nervous system.
 featured_image: /images/clauslandscapestudio.jpg
-homepage_image: /images/clauslandscapestudio.jpg
+homepage_image: /images/clausportrait_wide.jpg
 date: 2023-11-04 00:00:00
 ---
 
