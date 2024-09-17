@@ -15,7 +15,7 @@ I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow wor
 
 I have a background in political science and 10 years of experience in helping governments become more open and collaborative - as an executive, coordinator and facilitator in public software and public procurement projects.
 
-Whether it's individual therapy, group workshops, or institutional reform, I work to open up spaces for vulnerable exchange, mutual understanding and compassion, and better thus collaboration.
+Whether it's individual therapy, group workshops, or institutional reform, I work to open up spaces for vulnerable exchange, enable mutual understanding and compassion, and thus better collaboration.
 
 I have a Belgian passport, grew up across Asia, and speak English, Dutch, Spanish & some French.
 
