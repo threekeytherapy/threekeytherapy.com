@@ -7,7 +7,7 @@ featured_image:
 
 > Book a treatment or try out a training via the options below 
 
-### [claus@threekeytherapy.com](mailto:claus@threekeytherapy.com)
+### [claus(@)threekeytherapy.com](mailto:claus@threekeytherapy.com)
 
 ### +31 638 700 278
 
