@@ -66,16 +66,6 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 
 **[Read more](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) about how Manuvision treatments can help address the above**
 
-> What people have said
-
-"I feel like more has happened in one session, than my past year of doing talk therapy." -  Naomi
-
-"This made me realise just how important the body is for the healing process." - Sander
-
-"Claus is like a facilitator for vulnerability - I feel I can really open up to myself." - Conti
-
-"Wow, what a trip. I have never experienced anything like this!" - Irene
-
 > Practical
 
 **Amsterdam East**:
