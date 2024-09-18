@@ -29,4 +29,4 @@ Discount available when paying multiple sessions upfront
 
 ## Terms and conditions
 
-[See full terms and conditions](../terms-and-conditions.md)
+[See full terms and conditions](../terms-and-conditions)

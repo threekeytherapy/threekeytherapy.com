@@ -5,13 +5,11 @@ description:
 featured_image: 
 ---
 
-## General Terms and Conditions Three Key Therapy | Claus Mullie
-
 ### Article 1: Definitions
 
 In these general terms and conditions, the following terms are defined as:
 
-- **Contractor**: Therapist Claus Mullie | Three Key Therapy.
+- **Contractor**: Therapist Claus Mullie - Three Key Therapy.
 - **Contracting party**: The client and/or employer.
 - **Client**: The individual receiving therapy, coaching, or other services provided by the contractor.
 - **Services**: All work commissioned or arising from the assignment, in the broadest sense.
@@ -68,7 +66,7 @@ In these general terms and conditions, the following terms are defined as:
 ### Article 10: Personal Data
 
 1. By entering into an agreement with the contractor, the contracting party consents to the automatic processing of personal data obtained in the context of the agreement. This personal data will only be used for purposes related to the agreement.
-2. Three Key Therapy privacy policy is available [here](../privacy-policy.md).
+2. Three Key Therapy privacy policy is available [here](../privacy-policy).
 
 ### Article 11: Cancellation Conditions
 
