@@ -1,24 +1,28 @@
-# Three Key Therapy Privacy Policy
+---
+title: Privacy Policy
+subtitle: 
+description:
+featured_image: 
+---
 
 Three Key Therapy is committed to protecting your privacy.
 This privacy policy will explain how our organization uses the personal data we collect from you when you use our website.
 
 ## Topics:
 
-- [Three Key Therapy Privacy Policy](#three-key-therapy-privacy-policy)
-  - [Topics:](#topics)
-  - [What data do we collect?](#what-data-do-we-collect)
-  - [How do we collect your data?](#how-do-we-collect-your-data)
-  - [How will we use your data?](#how-will-we-use-your-data)
-  - [How do we store your data?](#how-do-we-store-your-data)
-  - [Marketing](#marketing)
-  - [What are your data protection rights?](#what-are-your-data-protection-rights)
-  - [Cookies](#cookies)
-  - [How do we use cookies?](#how-do-we-use-cookies)
-  - [Privacy policies of other websites](#privacy-policies-of-other-websites)
-  - [Changes to our privacy policy](#changes-to-our-privacy-policy)
-  - [How to contact us](#how-to-contact-us)
-  - [How to contact the appropriate authorities](#how-to-contact-the-appropriate-authorities)
+- [Topics:](#topics)
+- [What data do we collect?](#what-data-do-we-collect)
+- [How do we collect your data?](#how-do-we-collect-your-data)
+- [How will we use your data?](#how-will-we-use-your-data)
+- [How do we store your data?](#how-do-we-store-your-data)
+- [Marketing](#marketing)
+- [What are your data protection rights?](#what-are-your-data-protection-rights)
+- [Cookies](#cookies)
+- [How do we use cookies?](#how-do-we-use-cookies)
+- [Privacy policies of other websites](#privacy-policies-of-other-websites)
+- [Changes to our privacy policy](#changes-to-our-privacy-policy)
+- [How to contact us](#how-to-contact-us)
+- [How to contact the appropriate authorities](#how-to-contact-the-appropriate-authorities)
 
 ## What data do we collect?
 
