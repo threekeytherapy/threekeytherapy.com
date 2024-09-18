@@ -15,6 +15,7 @@ featured_image:
 
 {% include contact-form.html %}
 
+[Privacy policy](../privacy-policy)
 
 <!-- 
 ### Availability
