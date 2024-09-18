@@ -11,7 +11,7 @@ Standard: 95 euros incl VAT
 
 Reduced: 85 euros incl VAT (for unemployed, students and financial difficulty)
 
-Supporter: 105 euros incl VAT (if you would like to support me in growing my practice)
+Supporter: 105 euros incl VAT (enables me to offer reduced sessions for those who need it)
 
 Business invoices: 95 euros excl VAT
 
@@ -26,3 +26,7 @@ Standard: 15 euros incl VAT
 Reducated: 10 euros incl VAT (for unemployed, students and financial difficulty)
 
 Discount available when paying multiple sessions upfront
+
+## Terms and conditions
+
+[See full terms and conditions](../terms-and-conditions)

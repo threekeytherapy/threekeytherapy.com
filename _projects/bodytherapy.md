@@ -1,7 +1,7 @@
 ---
 title: Individual sessions
 subtitle: 
-description: Release the tension behind your body's symptoms, create balance in your nervous system, and kickstart your body's natural healing processes. Combines massage techniques, pressure points, breathing and conversation. In English, Dutch, Spanish, and (rusty) French.
+description: By using touch, breathing, and conversation, we can work together to relieve the tensions underneath your symptoms, restore balance in your nervous system, and activate your body’s natural healing processes. Available in English, Dutch, Spanish, and (rusty) French.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -65,16 +65,6 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 * Coming closer to yourself to live the life that you want to live
 
 **[Read more](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) about how Manuvision treatments can help address the above**
-
-> What people have said
-
-"I feel like more has happened in one session, than my past year of doing talk therapy." -  Naomi
-
-"This made me realise just how important the body is for the healing process." - Sander
-
-"Claus is like a facilitator for vulnerability - I feel I can really open up to myself." - Conti
-
-"Wow, what a trip. I have never experienced anything like this!" - Irene
 
 > Practical
 
