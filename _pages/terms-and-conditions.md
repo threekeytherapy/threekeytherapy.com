@@ -68,7 +68,7 @@ In these general terms and conditions, the following terms are defined as:
 ### Article 10: Personal Data
 
 1. By entering into an agreement with the contractor, the contracting party consents to the automatic processing of personal data obtained in the context of the agreement. This personal data will only be used for purposes related to the agreement.
-2. Three Key Therapy privacy policy is available [here].
+2. Three Key Therapy privacy policy is available [here](../privacy-policy.md).
 
 ### Article 11: Cancellation Conditions
 
