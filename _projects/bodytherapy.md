@@ -1,7 +1,7 @@
 ---
 title: Individual sessions
 subtitle: 
-description: Release the tension behind your body's symptoms, restore balance in your nervous system, and kickstart your body's natural healing processes. The treatment combines massage techniques, breathing techniques and conversation. Available in English, Dutch, Spanish, and (rusty) French.
+description: By using touch, breathing, and conversation, we can work together to relieve the tension causing your symptoms, restore your nervous system's balance, and activate your body’s natural healing processes. Available in English, Dutch, Spanish, and (rusty) French.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
