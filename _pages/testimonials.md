@@ -10,7 +10,7 @@ I met Claus through a client of his. I was at a really low point, dealing with s
 
 ---
 
-Mijn ervaring bij Claus was echt levensveranderend. Vanaf het begin voelde ik me op mijn gemak en veilig bij hem. Zijn rustige en begripvolle aanpak maakte dat ik me kon openstellen en vertrouwen had in het proces. Door Claus' begeleiding voel ik me emotioneel lichter en veel meer in balans. Ik heb inmiddels al mijn vrienden met elke klacht naar Claus gestuurd, en zonder uitzondering zijn ze allemaal enorm geholpen en dankbaar voor zijn steun. Claus, bedankt voor alles wat je voor mij en mijn omgeving hebt gedaan! Ik blijf bij deze zin; Ik voel me nu zo goed de laatste tijd, dat ik vergeet waarom ik naar hem toe ging :) 😊
+Mijn ervaring bij Claus was echt levensveranderend. Vanaf het begin voelde ik me op mijn gemak en veilig bij hem. Zijn rustige en begripvolle aanpak maakte dat ik me kon openstellen en vertrouwen had in het proces. Door Claus' begeleiding voel ik me emotioneel lichter en veel meer in balans. Ik heb inmiddels al mijn vrienden met elke klacht naar Claus gestuurd, en zonder uitzondering zijn ze allemaal enorm geholpen en dankbaar voor zijn steun. Claus, bedankt voor alles wat je voor mij en mijn omgeving hebt gedaan! Ik blijf bij deze zin; Ik voel me nu zo goed de laatste tijd, dat ik vergeet waarom ik naar hem toe ging 😊
 
 – **Marcela, 34**
 
