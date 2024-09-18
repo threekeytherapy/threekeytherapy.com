@@ -25,7 +25,7 @@ In these general terms and conditions, the following terms are defined as:
 
 ### Article 3: Applicable Regulations
 
-1. The contractor performs services in accordance with the Ethical Code. Three Key Therapy is affiliated with the professional association CAT (Collectief Alternatieve Therapeuten).
+1. The contractor performs services in accordance with the Ethical Code. Three Key Therapy is affiliated with the professional association CAT (Collectief Alternatieve Therapeuten), which includes insurance partner BAT (Beroepsverzekeraar Aanvullende Therapeuten) and an independant complaints and disputes commission GAT (Geschilleninstantie Alternatieve Therapeuten), in accordance with WKKGZ (Wet kwaliteit, klachten en geschillen zorg).
 
 ### Article 4: Execution of the Agreement
 
