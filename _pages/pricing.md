@@ -26,3 +26,7 @@ Standard: 15 euros incl VAT
 Reducated: 10 euros incl VAT (for unemployed, students and financial difficulty)
 
 Discount available when paying multiple sessions upfront
+
+## Terms and conditions
+
+[See full terms and conditions](../terms-and-conditions)
