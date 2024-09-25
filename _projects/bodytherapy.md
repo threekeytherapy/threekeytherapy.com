@@ -28,11 +28,17 @@ That connection has a direct connection to our nervous system, and it is also on
 
 We do this by opening the body and loosening the tensions and blockages that lie behind the physical and psychological ailments.
 
-During a body therapy treament, I will work with you to:
+During a therapy session, I will work with you to:
 
-* relax muscles, release joints and loosen up the neck and back from a combination of deep massage techniques, joint release, acupressure and zone points
-* read and remedy disturbances in the nervous system that can result in everything from digestive problems and neck tension to stress , anxiety and depression
-* create a connection between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states
+* **Relieve Tensions:** 
+  Use deep massage techniques, joint release, acupressure, and zone points to relax muscles, release joints, and ease neck and back tension.
+
+* **Restore Nervous System Balance:** 
+  Remedy disturbances that can cause issues like digestive problems, neck tension, stress, anxiety, and depression.
+
+
+* **Connect Mind and Body:** 
+  Explore the relationship between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states
 
 This helps to create balance in your nervous system, open up the breathing, and activate flow in the body's energy system.
 
