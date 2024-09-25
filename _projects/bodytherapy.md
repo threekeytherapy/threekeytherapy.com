@@ -85,8 +85,6 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 * Setting boundaries and saying no
 * Coming closer to yourself to live the life that you want to live
 
-Manuvision can address a wide range of physical and mental disorders, including:
-
 [Read more](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) about how Manuvision treatments can help address these issues
 
 ## Practical Information
