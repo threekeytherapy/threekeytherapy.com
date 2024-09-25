@@ -9,7 +9,7 @@ redirects_from:
   - /trainings
 ---
 
-> Manuvision training is about getting you back into your body.
+## Manuvision training is about getting you back into your body
 
 It combines traditional karate, yoga, and reflexology with body therapy's knowledge of the how muscle tension, energy pathways and emotions are connected.
 
@@ -20,7 +20,7 @@ This helps becoming more aware how you handle limits, escape or face internal re
 
 Trainings usually close with a small sharing circle.
 
-> Manuvision training as self-treatment
+## Manuvision training as self-treatment
 
 In a therapy treatment, you get help from the outside to work with your tensions.
 In the training, you learn to do the work yourself, so you can maintain the body and prevent injuries.
@@ -33,7 +33,7 @@ This means trainings help you:
 
 In this way, Manuvision training is also a supplement to body therapy, because you get to work directly with the tensions behind the physical and psychological ailments for which you go for treatment.
 
-> Practical
+## Practical
 
 **When?** 
 Monday 19.30 - 21.00
