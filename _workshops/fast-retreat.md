@@ -44,7 +44,7 @@ There will be opportunities for walks, swims and sauna.
 
 Day 4 the completion of the fast is celebrated with a bowl of soup, and return home
 
-## Online support grops
+## Online support groups
 
 Online gatherings wil be organized before and after the retreat designed for peer-to-peer support, questions
 and sharings.
