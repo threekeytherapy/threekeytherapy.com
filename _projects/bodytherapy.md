@@ -21,19 +21,8 @@ Read more about:
 - [Address your symptoms at the root](#address-your-symptoms-at-the-root)
 - [Why work with the nervous system?](#why-work-with-the-nervous-system)
 - [What can I expect in a session?](#what-can-i-expect-in-a-session)
-  - [Relieve Tensions](#relieve-tensions)
-  - [Restore Nervous System Balance](#restore-nervous-system-balance)
-  - [Connect Mind and Body](#connect-mind-and-body)
-  - [Activate Self-healing Processes](#activate-self-healing-processes)
 - [What issues can it help me with?](#what-issues-can-it-help-me-with)
-  - [Typical Physical Problems](#typical-physical-problems)
-  - [Typical Psychological Problems](#typical-psychological-problems)
-  - [General Personal Work](#general-personal-work)
 - [Practical Information](#practical-information)
-  - [Location](#location)
-  - [Working Languages](#working-languages)
-  - [Duration](#duration)
-  - [What to Wear](#what-to-wear)
 
 ## Why work with the nervous system?
 
