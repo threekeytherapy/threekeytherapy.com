@@ -1,7 +1,7 @@
 ---
 title: Individual sessions
 subtitle: 
-description: Experience relief from your symptoms by releasing the underlying tension in your body, restoring balance to your nervous system, and activating your natural healing process. Available in English, Dutch, Spanish, and (rusty) French.
+description: Experience relief from your symptoms by releasing the underlying tension in your body, restoring balance to your nervous system, and activating your natural healing processes. Available in English, Dutch, Spanish, and (rusty) French.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
