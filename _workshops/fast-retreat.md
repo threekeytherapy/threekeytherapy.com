@@ -1,7 +1,7 @@
 ---
 title: Fasting retreat 9-11 May 2025
 subtitle: 
-description: Give your body a full reset with an intensive fasting and body therapy retreat, designed tp cleanse muscles, organs, emotions and the mind. Lead by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years.
+description: Give your body a full reset with an intensive fasting and body therapy retreat, designed to cleanse muscles, organs, emotions and the mind. Lead by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years.
 featured_image: /images/mv-fast.jpg
 homepage_image: /images/mv-fast.jpg
 date: 2023-11-02 00:00:00
