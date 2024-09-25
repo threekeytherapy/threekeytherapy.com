@@ -39,7 +39,7 @@ The nervous system is where these two connect, which is one of the reasons why M
 
 ## What can I expect in a session?
 
-During a therapy session I will work with you to open the body and loosening the tensions and blockages that lie behind the physical and psychological ailments. 
+During a therapy session I will work with you to open the body and loosen the tensions and blockages that lie behind the physical and psychological ailments. 
 This can include:
 
 ### Relieve Tensions
@@ -52,7 +52,7 @@ Remedy disturbances that can cause issues like digestive problems, neck tension,
 
 ### Connect Mind and Body
 
-Explore the relationship between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states
+Explore the relationship between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states.
 
 ### Activate Self-healing Processes
 
