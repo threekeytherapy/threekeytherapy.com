@@ -10,7 +10,7 @@ redirects_from:
   - /treatments
 ---
 
-> The body remembers the life it has lived.
+## The body remembers the life it has lived.
 
 Body and psyche are connected.
 The many impressions and expressions of the past and everyday life are stored in the body.
@@ -24,7 +24,7 @@ These consequences manifest as tension, blockages and thus pain in our body.
 
 That connection has a direct connection to our nervous system, and it is also one of the reasons why Manuvision body therapy works through the nervous system.
 
-> Manuvision body therapy helps you break free
+## Manuvision body therapy helps you break free
 
 We do this by opening the body and loosening the tensions and blockages that lie behind the physical and psychological ailments.
 
@@ -38,11 +38,11 @@ This helps to create balance in your nervous system, open up the breathing, and 
 
 When there is flow and movement, the body's own self-healing processes are automatically set in motion.
 
-> How can it help you?
+## Benefits of Manuvision Body Therapy
 
 Manuvision body therapy can remedy a wide spectrum of physical and mental disorders, which can be rooted in everything from work injuries and physiological imbalances to mental states caused by stress, shock or trauma.
 
-**Typical physical problems:**
+### Typical Physical Problems:
 
 * Back, neck and lower back pain
 * Pain in shoulders, elbows, wrists, knees, ankles and hips
@@ -51,22 +51,27 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 * Pregnancy and postpartum complications
 * Digestive problems
 
-**Typical psychological problems:**
+### Typical Psychological Problems:
 
 * Stress, anxiety and burnout
 * Eating and sleep disorders
 * Depression, grief and PTSD (post-traumatic stress disorder)
 
-**General personal work:**
+### General Personal Work:
 
 * Embodiment and grounding
 * Gaining confidence and speaking up
 * Setting boundaries and saying no
 * Coming closer to yourself to live the life that you want to live
 
-**[Read more](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) about how Manuvision treatments can help address the above**
 
-> Practical
+Manuvision can address a wide range of physical and mental disorders, including:
+
+[Read more](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) about how Manuvision treatments can help address these issues
+
+## Practical Information
+
+### Location
 
 **Amsterdam East**:
 Monday and Friday - Newtonstraat 4, 1098 HD (bel: Serire)
@@ -74,14 +79,14 @@ Monday and Friday - Newtonstraat 4, 1098 HD (bel: Serire)
 **Amsterdam West**:
 Thursday - Keizersgracht 166a, 1015 CZ, (bel: Equilibrium Massage Therapy)
 
-**Working languages**:
+### Working Languages:
 English, Dutch, Spanish and rusty French
 
-**Duration**:
+### Duration:  
 1h 15min, intake 1h 30min
 
-**What to wear**:
-Treatments involve touch, and the nervous system responds most to skin contact.
+### What to Wear:
+Treatments involve touch, and the nervous system responds best to skin contact.
 For this reason, treatments work best without big items of clothing.
 I recommend wearing underwear that is not revealing and a sports bra.
 If you are not comfortable with this, it is of course possible to receive a treatment with clothing.
