@@ -13,11 +13,12 @@ redirects_from:
 ## Address your symptoms at the root
 
 Most emotional, psychological, and physical disorders are caused by subconscious tension in the body.
-Manuvision body therapy works with the nervous system to let go of these tensions.
+These subconscious 
 
-During a session, we can work together through a combination of touch, breathing and conversation to release the tensions that are holding you back.
+During a session, we can work together to release these tensions at the root - the nervous system.
+This involves a combination of touch, breathing and conversation.
 
-Read more about:
+On this page:
 - [Why work with the nervous system?](#why-work-with-the-nervous-system)
 - [What can I expect in a session?](#what-can-i-expect-in-a-session)
 - [What issues can it help me with?](#what-issues-can-it-help-me-with)
