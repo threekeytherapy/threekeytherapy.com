@@ -18,7 +18,6 @@ Manuvision body therapy works with the nervous system to let go of these tension
 During a session, we can work together through a combination of touch, breathing and conversation to release the tensions that are holding you back.
 
 Read more about:
-- [Address your symptoms at the root](#address-your-symptoms-at-the-root)
 - [Why work with the nervous system?](#why-work-with-the-nervous-system)
 - [What can I expect in a session?](#what-can-i-expect-in-a-session)
 - [What issues can it help me with?](#what-issues-can-it-help-me-with)
