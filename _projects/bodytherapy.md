@@ -13,9 +13,8 @@ redirects_from:
 ## Address your symptoms at the root
 
 Most emotional, psychological, and physical disorders are caused by subconscious tension in the body.
-These subconscious 
 
-During a session, we can work together to release these tensions at the root - the nervous system.
+During a session, we can work together to release these tensions at their root, by freeing the nervous system.
 This involves a combination of touch, breathing and conversation.
 
 On this page:
