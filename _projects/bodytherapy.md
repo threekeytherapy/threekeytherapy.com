@@ -1,7 +1,7 @@
 ---
 title: Individual sessions
 subtitle: 
-description: Experience relief from your symptoms by releasing the underlying tension in your body, restoring balance to your nervous system, and activating your natural healing processes. Available in English, Dutch, Spanish, and (rusty) French.
+description: Restore balance to your nervous system and activate your body’s natural healing processes by releasing the tension underlying your symptoms. Sessions available in English, Dutch, Spanish, and (basic) French.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -10,12 +10,9 @@ redirects_from:
   - /treatments
 ---
 
-## Address your symptoms at the root
+> Most emotional, psychological, and physical issues are caused by tension stored in the body and nervous system.
 
-Most emotional, psychological, and physical disorders are caused by subconscious tension in the body.
-
-During a session, we can work together to release these tensions at their root, by freeing the nervous system.
-This involves a combination of touch, breathing and conversation.
+In an individual therapy session, we can work together to release this tension using a combination of touch, breathing, and conversation.
 
 On this page:
 - [Why work with the nervous system?](#why-work-with-the-nervous-system)
@@ -42,28 +39,16 @@ The nervous system is where these two connect, which is one of the reasons why M
 During a therapy session I will work with you to open the body and loosen the tensions and blockages that lie behind the physical and psychological ailments. 
 This can include:
 
-### Relieve Tensions
-
-Use deep massage techniques, joint release, acupressure, and zone points to relax muscles, release joints, and ease neck and back tension.
-
-### Restore Nervous System Balance
-
-Remedy disturbances that can cause issues like digestive problems, neck tension, stress, anxiety, and depression.
-
-### Connect Mind and Body
-
-Explore the relationship between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states.
-
-### Activate Self-healing Processes
-
-Create balance in your nervous system, open up the breathing, and activate flow in the body's energy system.
-When there is flow and movement, the body's own self-healing processes are automatically set in motion.
+- **Relieve Tensions**: Use deep massage techniques, joint release, acupressure, and zone points to relax muscles, release joints, and ease neck and back tension.  
+- **Restore Nervous System Balance**: Remedy disturbances that can cause issues like digestive problems, neck tension, stress, anxiety, and depression.  
+- **Connect Mind and Body**: Explore the relationship between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states.  
+- **Activate Self-healing Processes**: Create balance in your nervous system, open up the breathing, and activate flow in the body's energy system. When there is flow and movement, the body's own self-healing processes are automatically set in motion.
 
 ## What issues can it help me with?
 
 Manuvision body therapy can remedy a wide spectrum of physical and mental disorders, which can be rooted in everything from work injuries and physiological imbalances to mental states caused by stress, shock or trauma.
 
-### Typical Physical Problems
+**Typical Physical Problems**
 
 * Back, neck and lower back pain
 * Pain in shoulders, elbows, wrists, knees, ankles and hips
@@ -72,13 +57,13 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 * Pregnancy and postpartum complications
 * Digestive problems
 
-### Typical Psychological Problems
+**Typical Psychological Problems**
 
 * Stress, anxiety and burnout
 * Eating and sleep disorders
 * Depression, grief and PTSD (post-traumatic stress disorder)
 
-### General Personal Work
+**General Personal Work**
 
 * Embodiment and grounding
 * Gaining confidence and speaking up
@@ -89,23 +74,20 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 
 ## Practical Information
 
-### Location
+**Location**
 
-**Amsterdam East**
-Monday and Friday - Newtonstraat 4, 1098 HD (bel: Serire)
+Amsterdam East - Monday and Friday - Newtonstraat 4, 1098 HD (bel: Serire)  
+Amsterdam West - Thursday - Keizersgracht 166a, 1015 CZ, (bel: Equilibrium Massage Therapy)
 
-**Amsterdam West**
-Thursday - Keizersgracht 166a, 1015 CZ, (bel: Equilibrium Massage Therapy)
-
-### Working Languages
+**Working Languages**
 
 English, Dutch, Spanish and rusty French
 
-### Duration
+**Duration**
 
 1h 15min, intake 1h 30min
 
-### What to Wear
+**What to Wear**
 
 Treatments involve touch, and the nervous system responds best to skin contact.
 For this reason, treatments work best without big items of clothing.
