@@ -12,7 +12,7 @@ redirects_from:
 
 > Most emotional, psychological, and physical issues are caused by tension stored in the body and nervous system.
 
-In an individual therapy session, we can work together to release this tension using a combination of touch, breathing, and conversation.
+In an individual therapy session, we work together to release this tension using a combination of touch, breathing, and conversation.
 
 On this page:
 - [Why work with the nervous system?](#why-work-with-the-nervous-system)
@@ -24,31 +24,31 @@ On this page:
 
 Each experience leaves a trace, remembered by the body, conditioning the mind.
 
-Body and mind are deeply interconnected.
-If there is pain in the body, it affects the psyche, and if you are under psychological pressure, it settles in the body.
-Your body depicts your mental well-being – the physical and the psyche are not two separate elements, but a whole.
+The body and mind are deeply interconnected.
+If there is pain in the body, it affects the psyche; and if you are under psychological pressure, it manifests in the body.
+Your body reflects your mental well-being – the physical and mental are not two separate elements, but one whole.
 
-It is always the body that first draws attention to the fact that something is wrong.
-And it is the body that suffers the consequences of all our actions – or lack thereof.
-These consequences manifest as tension, blockages and thus pain in our body.
+The body is always the first to signal that something is wrong.
+And the body also suffers the consequences of all our actions – or lack thereof.
+These consequences manifest as tension, blockages, and pain in the body.
 
-The nervous system is where these two connect, which is one of the reasons why Manuvision body therapy works through the nervous system.
+The nervous system is where the body and mind connect, which is one of the reasons why Manuvision body therapy works through the nervous system.
 
 ## What can I expect in a session?
 
-During a therapy session I will work with you to open the body and loosen the tensions and blockages that lie behind the physical and psychological ailments. 
-This can include:
+During a therapy session, I will work with you to open the body and release the tensions and blockages underlying physical and psychological ailments.
+This may include:
 
 - **Relieve Tensions**: Use deep massage techniques, joint release, acupressure, and zone points to relax muscles, release joints, and ease neck and back tension.  
-- **Restore Nervous System Balance**: Remedy disturbances that can cause issues like digestive problems, neck tension, stress, anxiety, and depression.  
-- **Connect Mind and Body**: Explore the relationship between the head's narratives and the body's signals by examining the connection between mental, physical and emotional states.  
-- **Activate Self-healing Processes**: Create balance in your nervous system, open up the breathing, and activate flow in the body's energy system. When there is flow and movement, the body's own self-healing processes are automatically set in motion.
+- **Restore Nervous System Balance**:  Address disturbances that can cause issues such as digestive problems, neck tension, stress, anxiety, and depression.  
+- **Connect Mind and Body**: Explore the relationship between mental narratives and the body’s signals by examining the connection between mental, physical, and emotional states.  
+- **Activate Self-healing Processes**: Balance your nervous system, open your breathing, and activate the flow in your body’s energy system. When there is flow and movement, your body’s natural self-healing processes are set in motion.
 
 ## What issues can it help me with?
 
-Manuvision body therapy can remedy a wide spectrum of physical and mental disorders, which can be rooted in everything from work injuries and physiological imbalances to mental states caused by stress, shock or trauma.
+Manuvision body therapy can address a wide range of physical and mental disorders, which may stem from work injuries, physiological imbalances, or mental states caused by stress, shock, or trauma.
 
-**Typical Physical Problems**
+**Common Physical Problems**
 
 * Back, neck and lower back pain
 * Pain in shoulders, elbows, wrists, knees, ankles and hips
@@ -57,16 +57,16 @@ Manuvision body therapy can remedy a wide spectrum of physical and mental disord
 * Pregnancy and postpartum complications
 * Digestive problems
 
-**Typical Psychological Problems**
+**Common Psychological Problems**
 
 * Stress, anxiety and burnout
 * Eating and sleep disorders
 * Depression, grief and PTSD (post-traumatic stress disorder)
 
-**General Personal Work**
+**General Personal Development**
 
-* Embodiment and grounding
-* Gaining confidence and speaking up
+* Body awareness and grounding
+* Building confidence and speaking up
 * Setting boundaries and saying no
 * Coming closer to yourself to live the life that you want to live
 
@@ -89,9 +89,9 @@ English, Dutch, Spanish and rusty French
 
 **What to Wear**
 
-Treatments involve touch, and the nervous system responds best to skin contact.
-For this reason, treatments work best without big items of clothing.
-I recommend wearing underwear that is not revealing and a sports bra.
+Treatments involve touch, and the nervous system responds best to direct skin contact.
+For this reason, treatments are most effective with minimal clothing.
+I recommend wearing non-revealing underwear and a sports bra.
 If you are not comfortable with this, it is of course possible to receive a treatment with clothing.
 
 <a href="/contact" class="button button--large">Book a treatment</a>
