@@ -29,8 +29,6 @@ Discount available when paying multiple sessions upfront
 
 ## Payment details
 
-I usually send a Tikkie
-
 Claus Mullie  
 NL85 ASNB 0778 1960 03
 
