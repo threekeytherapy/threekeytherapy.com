@@ -18,7 +18,7 @@ Via een masseur kreeg ik de naam van Claus door. Het was een intense behandeling
 
 Diezelfde avond sliep ik voor het eerst weer 2 uur achter elkaar.  Nadien heb ik nog een aantal behandelingen van Claus gekregen. Mijn enthousiasme was zo groot dat ik direct met Claus een samenwerking ben aangegaan. Ik verwijs nu cliënten met vastzittend trauma naar Claus en ik ben heel blij met deze samenwerking!
 
-- **Coach**
+- **Danielle Dijkstra, www.visioncoaching.nl**
 
 ---
 
