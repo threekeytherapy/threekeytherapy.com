@@ -10,7 +10,7 @@ redirects_from:
   - /treatments
 ---
 
-> Most emotional, psychological, and physical issues are caused by tension stored in the body and nervous system.
+> Most emotional, psychological, and physical disorders are caused by tension in the nervous system
 
 In an individual therapy session, we work together to release this tension using a combination of touch, breathing, and conversation.
 
