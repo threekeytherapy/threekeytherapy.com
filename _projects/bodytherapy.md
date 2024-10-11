@@ -10,7 +10,7 @@ redirects_from:
   - /treatments
 ---
 
-> Most emotional, psychological, and physical issues are caused by tension stored in the body and nervous system.
+> Most emotional, psychological, and physical disorders are caused by tension in the nervous system
 
 In an individual therapy session, we work together to release this tension using a combination of touch, breathing, and conversation.
 
@@ -76,7 +76,8 @@ Manuvision body therapy can address a wide range of physical and mental disorder
 
 **Location**
 
-Amsterdam East - Monday and Friday - Newtonstraat 4, 1098 HD (bel: Serire)  
+Amsterdam East - Monday and Friday - Newtonstraat 4, 1098 HD (bel: Serire)
+
 Amsterdam West - Thursday - Keizersgracht 166a, 1015 CZ, (bel: Equilibrium Massage Therapy)
 
 **Working Languages**

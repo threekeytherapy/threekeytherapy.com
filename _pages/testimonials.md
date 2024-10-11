@@ -10,6 +10,18 @@ I met Claus through a client of his. I was at a really low point, dealing with s
 
 ---
 
+Na 2 weken in het ziekenhuis te hebben gelegen met een hersenvliesontsteking kwam ik zwaar getraumatiseerd thuis. Ik had in het ziekenhuis amper geslapen en werd helaas zeer koel en onvriendelijk behandelt door het verzorgend personeel.
+
+Mijn hoop was dat ik thuis weer zou kunnen slapen, maar helaas stond mijn zenuwstelsel volledig optilt. Langer dan 10 minuten kon ik niet slapen.
+
+Via een masseur kreeg ik de naam van Claus door. Het was een intense behandeling waarbij ik op enig moment de energie voelde lopen langs mijn ruggengraat naar mijn armen en benen. Na de behandeling voelde ik direct dat er een bepaalde spanning uit mijn lichaam weg was.
+
+Diezelfde avond sliep ik voor het eerst weer 2 uur achter elkaar.  Nadien heb ik nog een aantal behandelingen van Claus gekregen. Mijn enthousiasme was zo groot dat ik direct met Claus een samenwerking ben aangegaan. Ik verwijs nu cliënten met vastzittend trauma naar Claus en ik ben heel blij met deze samenwerking!
+
+- **Danielle Dijkstra, www.visioncoaching.nl**
+
+---
+
 Mijn ervaring bij Claus was echt levensveranderend. Vanaf het begin voelde ik me op mijn gemak en veilig bij hem. Zijn rustige en begripvolle aanpak maakte dat ik me kon openstellen en vertrouwen had in het proces. Door Claus' begeleiding voel ik me emotioneel lichter en veel meer in balans. Ik heb inmiddels al mijn vrienden met elke klacht naar Claus gestuurd, en zonder uitzondering zijn ze allemaal enorm geholpen en dankbaar voor zijn steun. Claus, bedankt voor alles wat je voor mij en mijn omgeving hebt gedaan! Ik blijf bij deze zin; Ik voel me nu zo goed de laatste tijd, dat ik vergeet waarom ik naar hem toe ging 😊
 
 – **Marcela, 34**

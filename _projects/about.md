@@ -3,11 +3,11 @@ title: About Me
 subtitle: 
 description: My name is Claus, and I am a certified Manuvision therapist. Manuvision is a research-based method built on 25 years of experience in freeing the nervous system.
 featured_image: /images/clauslandscapestudio.jpg
-homepage_image: /images/clauslandscapestudio.jpg
+homepage_image: /images/clausportrait_wide.jpg
 date: 2023-11-04 00:00:00
 ---
 
-My name is Claus, and I am a certified Manuvision therapist with a specialisation in shock and trauma.
+My name is Claus, and I am a certified Manuvision therapist.
 
 I have been working as a therapist since 2022, receiving Manuvision trainings and treatments since 2016, and dabbling with the existential arts since 2006.
 
