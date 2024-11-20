@@ -61,7 +61,7 @@ We offer online support before and after the retreat, where you can connect with
 
 The 2025 fast will take place at De Uelenspieghel, Winkelsteeg 5, 7975 PV Uffelte, Netherlands.
 
-This lovely old farmhouse is surrounded by a nature reserve with forest and a lake.
+Two hours from Amsterdam by public transport, this lovely old farmhouse is surrounded by a nature reserve with forest and a lake.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/fast-venue.jpg">
