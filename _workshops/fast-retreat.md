@@ -55,6 +55,6 @@ During the 4-day retreat, only water (and occasional herbal tea) will be consume
 
 We offer online support before and after the retreat, where you can connect with others, ask questions, and share your experiences. These peer-to-peer gatherings ensure ongoing support and a sense of community throughout your journey.
 
-### More details to follow
+## More details to follow
 
 <a href="/contact" class="button button--large">I'm interested, tell me more!</a>
