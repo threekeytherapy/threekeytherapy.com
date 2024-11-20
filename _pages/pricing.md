@@ -9,7 +9,7 @@ featured_image:
 
 **Standard**: 95 euros incl VAT
 
-**Reduced**: 85 euros incl VAT (for unemployed and students, further reduction possible if needed - ask me)
+**Reduced**: 85 euros incl VAT (for people with low & no income, further reduction possible if needed - ask me)
 
 **Supporter**: 105 euros incl VAT (enables me to offer reduced sessions for those who need it)
 
