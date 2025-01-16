@@ -5,7 +5,7 @@ description:
 featured_image: 
 ---
 
-## Individual body therapy sessions
+## Individual body therapy
 
 **Standard**: 95 euros incl VAT
 
