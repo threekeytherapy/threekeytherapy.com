@@ -12,7 +12,7 @@ redirects_from:
 
 A Manuvision fast offers a deep reset for both your body and mind.
 
-You'll experience a sense of freedom, renewed energy, and personal growth by challenging your body’s habits, exploring its potential, and unlocking its natural ability to heal and regenerate.
+You'll experience a sense of freedom, renewed energy, and personal growth by challenging your body's habits, exploring its potential, and unlocking its natural ability to heal and regenerate.
 
 The fast will be lead by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), who has been facilitating fast retreats for over 15 years.
 
@@ -25,7 +25,7 @@ Some of the benefits of the retreat:
 - Sharpened senses
 - Detoxification of organs, flushing out years of built-up waste
 - Reset and regulate your metabolism
-- Learn about the functioning of your organs
+- Learn about the functioning of your organs and meridians
 - Deep self-awareness and the opportunity to reconnect with yourself in a new way
 
 Manuvision fasts have helped people recover from various issues including, for example:
@@ -37,9 +37,9 @@ Manuvision fasts have helped people recover from various issues including, for e
 
 ## Overview
 
-- **10 days** of a preparatory diet at home  
+- **10 days** of pre-fasting preparatory diet at home  
 - **4-day retreat** in a serene farmhouse surrounded by nature  
-- **10 days** of post-fasting dietary guidance at home  
+- **10 days** of post-fasting diet at home  
 
 ## Diet
 
@@ -49,7 +49,7 @@ During the 4-day retreat, only water (and occasional herbal tea) will be consume
 
 ## Retreat programme
 
-- **Day 1:** Arrival day – a quiet, peaceful time to settle in. You’ll begin the water-only fast.
+- **Day 1:** Arrival day – a quiet, peaceful time to settle in. You'll begin the water-only fast.
 - **Days 2 & 3:** Full, active days dedicated to physical training, stretching, and bodywork, designed to cleanse and energize each organ. You'll also have opportunities for nature walks, swimming, and enjoying the sauna.
 - **Day 4:** The completion of the fast is celebrated with a bowl of soup, and you'll return home.
 
