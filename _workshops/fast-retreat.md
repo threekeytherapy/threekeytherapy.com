@@ -11,14 +11,15 @@ redirects_from:
 ## Introduction
 
 A Manuvision fast offers a deep reset for both your body and mind.
-
-You'll experience a sense of freedom, renewed energy, and personal growth by challenging your body's habits, exploring its potential, and unlocking its natural ability to heal and regenerate.
+It combines 20 days of cleansing diet with a 4 day fasting retreat including extensive body work, training and massage.
 
 The fast will be lead by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), who has been facilitating fast retreats for over 15 years.
 
 <a href="/contact" class="button button--large">I'm interested, tell me more!</a>
 
 ## Benefits 
+
+You'll experience a sense of freedom, renewed energy, and personal growth by challenging your body's habits, exploring its potential, and unlocking its natural ability to heal and regenerate.
 
 Some of the benefits of the retreat:
 - Improved circulation
@@ -31,9 +32,10 @@ Some of the benefits of the retreat:
 Manuvision fasts have helped people recover from various issues including, for example:
 - Sleep and digestive disorders
 - Long-standing infections
-- Anxiety and depression
+- Anxiety, indecision and depression
 - Skin conditions
-- Improved vision
+- Improved vision and reduced eye strain
+- Reduced intensity of autoimmune diseases
 
 ## Overview
 
@@ -45,7 +47,8 @@ Manuvision fasts have helped people recover from various issues including, for e
 
 Before and after the retreat, you'll follow a tailored diet with specific restrictions (a detailed list will be provided).
 
-During the 4-day retreat, only water (and occasional herbal tea) will be consumed. On the final day, we will break the fast together with a nourishing bowl of soup.
+During the 4-day retreat, only water (and occasional herbal tea) will be consumed.
+On the final day, we will break the fast together with a nourishing bowl of soup.
 
 ## Retreat programme
 
