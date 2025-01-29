@@ -8,34 +8,44 @@ date: 2023-11-02 00:00:00
 redirects_from:
 ---
 
-## Introduction
+> It takes 3 days until the last thing you consumed leaves your body. Without a longer fast, your organs do not **ever** get the chance to rest.
 
-A Manuvision fast offers a deep reset for both your body and mind.
-It combines 20 days of cleansing diet with a 4 day fasting retreat including extensive body work, training and massage.
+## A deep reset for both your body and mind
 
-The fast will be lead by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), who has been facilitating fast retreats for over 15 years.
+A Manuvision fast combines 20 days of cleansing diet with a 4 day fasting retreat, including extensive body work, training and massage.
 
-<a href="/contact" class="button button--large">I'm interested, tell me more!</a>
+The fast will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), who has been facilitating fast retreats for over 15 years.
 
-## Benefits 
+## An opportunity to work on mind, body and emotions
 
-You'll experience a sense of freedom, renewed energy, and personal growth by challenging your body's habits, exploring its potential, and unlocking its natural ability to heal and regenerate.
+This fast aims to let every organ rest, with each day's activities focusing on caring for the organs that reach rest on that particular day.
 
-Some of the benefits of the retreat:
-- Improved circulation
-- Sharpened senses
-- Detoxification of organs, flushing out years of built-up waste
-- Reset and regulate your metabolism
-- Learn about the functioning of your organs and meridians
-- Deep self-awareness and the opportunity to reconnect with yourself in a new way
+### Physically, the fast helps to:
+- Improve circulation
+- Sharpen the senses
+- Detoxify organs, flush out years of built-up waste
+- Reset and regulate metabolism
+- Unlock the body's natural ability to heal and regenerate
 
-Manuvision fasts have helped people recover from various issues including, for example:
+### Emotionally, the fast is an invitation to feel yourself:
+- Without habitual escape patterns (tobacco, coffee, snacking, ...)
+- With less expendable energy, becoming aware of how much your 'mask' (ie personality of being funny, helpful to others, smart and calm, etc) starts to cost, and what it means to take this off
+- Surrendering to the being in the group simply as yourself (whether grumpy, tired, sad or angry)
+
+### Mentally, the fast is an opportunity to:
+- Learn about the functioning of your organs, related muscle groups and meridian systems
+- Understand and reflect on your habit patterns
+- Experience a deep sense of self-awareness and freedom, with renewed energy.
+
+### Removing old blockages and imbalances can help recover from various issues including, for example:
 - Sleep and digestive disorders
 - Long-standing infections
 - Anxiety, indecision and depression
 - Skin conditions
 - Improved vision and reduced eye strain
 - Reduced intensity of autoimmune diseases
+
+What it can do really depends on what is blocked in your system.
 
 ## Overview
 
@@ -48,6 +58,7 @@ Manuvision fasts have helped people recover from various issues including, for e
 Before and after the retreat, you'll follow a tailored diet with specific restrictions (a detailed list will be provided).
 
 During the 4-day retreat, only water (and occasional herbal tea) will be consumed.
+
 On the final day, we will break the fast together with a nourishing bowl of soup.
 
 ## Retreat programme
@@ -65,6 +76,8 @@ We offer online support before and after the retreat, where you can connect with
 The 2025 fast will take place at De Uelenspieghel, Winkelsteeg 5, 7975 PV Uffelte, Netherlands.
 
 Two hours from Amsterdam by public transport, this lovely old farmhouse is surrounded by a nature reserve with forest and a lake.
+
+<a href="/contact" class="button button--large">I'm interested, tell me more!</a>
 
 <div class="gallery" data-columns="1">
 	<img src="/images/fast-venue.jpg">
