@@ -8,7 +8,7 @@ date: 2023-11-02 00:00:00
 redirects_from:
 ---
 
-> It takes 3 days until the last thing you consumed leaves your body. Without a longer fast, your organs do not **ever** get the chance to rest.
+> It takes 3 days until the last thing you consumed leaves your body. Without a longer fast, your organs do not **ever** get the chance to fully rest.
 
 ## A deep reset for both your body and mind
 
