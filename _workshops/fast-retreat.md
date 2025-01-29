@@ -12,7 +12,7 @@ redirects_from:
 
 ## A deep reset for both your body and mind
 
-A Manuvision fast combines 20 days of cleansing diet with a 4 day fasting retreat, including extensive body work, training and massage.
+A Manuvision fast combines 20 days of cleansing diet with a 3 day fasting retreat, including extensive body work, training and massage.
 
 The fast will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), who has been facilitating fast retreats for over 15 years.
 
@@ -57,15 +57,15 @@ What it can do really depends on what is blocked in your system.
 
 Before and after the retreat, you'll follow a tailored diet with specific restrictions (a detailed list will be provided).
 
-During the 4-day retreat, only water (and occasional herbal tea) will be consumed.
+During the 3-day retreat, only water (and occasional herbal tea) will be consumed.
 
 On the final day, we will break the fast together with a nourishing bowl of soup.
 
 ## Retreat programme
 
-- **Day 1:** Arrival day – a quiet, peaceful time to settle in. You'll begin the water-only fast.
-- **Days 2 & 3:** Full, active days dedicated to physical training, stretching, and bodywork, designed to cleanse and energize each organ. You'll also have opportunities for nature walks, swimming, and enjoying the sauna.
-- **Day 4:** The completion of the fast is celebrated with a bowl of soup, and you'll return home.
+- **8 May:** You'll begin the water-only fast, and we'll meet at the venue in the afternoon/evening to settle in.
+- **9 and 10 May:** Full, active days dedicated to physical training, stretching, and bodywork, designed to cleanse and energize each organ. You'll also have opportunities for nature walks, swimming, and enjoying the sauna.
+- **11 May:** The completion of the fast is celebrated with a bowl of soup, and you'll return home.
 
 ## Online support groups
 
