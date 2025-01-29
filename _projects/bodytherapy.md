@@ -78,7 +78,9 @@ Manuvision body therapy can address a wide range of physical and mental disorder
 
 Amsterdam East - Monday and Friday - Newtonstraat 4, 1098 HD (bel: Serire)
 
-Amsterdam West - Thursday - Keizersgracht 166a, 1015 CZ, (bel: Equilibrium Massage Therapy)
+Amsterdam West - Wednesday and Thursday - Jordaan
+
+Utrecht - Tuesday - Utrecht Hooghiemstraplein 78
 
 **Working Languages**
 
