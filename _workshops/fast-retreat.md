@@ -1,5 +1,5 @@
 ---
-title: Fasting retreat 9-11 May 2025
+title: Fasting retreat 8-11 May 2025
 subtitle: Unique combination of fasting and bodywork developed by Manuvision
 description: Give your body a full reset with an intensive fasting and body therapy retreat, designed to cleanse muscles, organs, emotions and the mind. Lead by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years.
 featured_image: /images/mv-fast.jpg
@@ -50,7 +50,7 @@ What it can do really depends on what is blocked in your system.
 ## Overview
 
 - **10 days** of pre-fasting preparatory diet at home  
-- **4-day retreat** in a serene farmhouse surrounded by nature  
+- **3-day retreat** in a serene farmhouse surrounded by nature  
 - **10 days** of post-fasting diet at home  
 
 ## Diet
@@ -61,15 +61,20 @@ During the 3-day retreat, only water (and occasional herbal tea) will be consume
 
 On the final day, we will break the fast together with a nourishing bowl of soup.
 
-## Retreat programme
+## Retreat schedule
 
-- **8 May:** You'll begin the water-only fast, and we'll meet at the venue in the afternoon/evening to settle in.
-- **9 and 10 May:** Full, active days dedicated to physical training, stretching, and bodywork, designed to cleanse and energize each organ. You'll also have opportunities for nature walks, swimming, and enjoying the sauna.
-- **11 May:** The completion of the fast is celebrated with a bowl of soup, and you'll return home.
+- **Mid April:** Conference call with all participants with preparatory instructions and setting up online support groups.
+- **25 April to 7 May:** Preparatory diet 
+- **8 May:** You'll begin the water-only fast. We will gather at the venue in the afternoon/evening and settle in (you can arrive any time after 14:00, tbc).
+- **9 and 10 May:** Full, active days dedicated to physical training, stretching, and bodywork - designed to cleanse and energize each organ. There will be opportunities for nature walks, swimming, and enjoying the sauna.
+- **11 May:** Morning with active sessions, and a bowl of soup for lunch to celebrate the completion of the fast. We'll finish up and be ready to leave around 14:00.
+- **12 -21 May:** Post-fast diet  (the hardest part!) 
+- **Mid June:** Optional conference call with a space to share reflections and learnings.
 
 ## Online support groups
 
-We offer online support before and after the retreat, where you can connect with others, ask questions, and share your experiences. These peer-to-peer gatherings ensure ongoing support and a sense of community throughout your journey.
+We offer online support before and after the retreat, where you can connect with others, ask questions, and share your experiences.
+These peer-to-peer gatherings ensure ongoing support and a sense of community throughout your journey.
 
 ## Venue
 
