@@ -14,8 +14,8 @@ redirects_from:
 
 On this page:
 - [Why work with the nervous system?](#why-work-with-the-nervous-system)
-- [What can I expect in a session?](#what-can-i-expect-in-a-session)
 - [What issues can it help me with?](#what-issues-can-it-help-me-with)
+- [What can I expect in a session?](#what-can-i-expect-in-a-session)
 - [Practical Information](#practical-information)
 
 ## Why work with the nervous system?
@@ -31,17 +31,6 @@ And the body also suffers the consequences of all our actions – or lack thereo
 These consequences manifest as tension, blockages, and pain in the body.
 
 The nervous system is where the body and mind connect, which is one of the reasons why Manuvision body therapy works through the nervous system.
-
-## What can I expect in a session?
-
-During a therapy session we work together with a combination of touch, breathing, and conversation to release the tensions and blockages underlying your physical and psychological symptoms.
-
-This may include:
-
-- **Relieve Tensions**: Use deep massage techniques, joint release, acupressure, and zone points to relax muscles, release joints, and ease neck and back tension.  
-- **Restore Nervous System Balance**:  Address disturbances that can cause issues such as digestive problems, neck tension, stress, anxiety, and depression.  
-- **Connect Mind and Body**: Explore the relationship between mental narratives and the body’s signals by examining the connection between mental, physical, and emotional states.  
-- **Activate Self-healing Processes**: Balance your nervous system, open your breathing, and activate the flow in your body’s energy system. When there is flow and movement, your body’s natural self-healing processes are set in motion.
 
 ## What issues can it help me with?
 
@@ -71,6 +60,17 @@ Manuvision body therapy can address a wide range of physical and mental disorder
 * Coming closer to yourself to live the life that you want to live
 
 [Read more](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) about how Manuvision treatments can help address these issues
+
+## What can I expect in a session?
+
+During a therapy session we work together with a combination of touch, breathing, and conversation to release the tensions and blockages underlying your physical and psychological symptoms.
+
+This may include:
+
+- **Relieve Tensions**: Use deep massage techniques, joint release, acupressure, and zone points to relax muscles, release joints, and ease neck and back tension.  
+- **Restore Nervous System Balance**:  Address disturbances that can cause issues such as digestive problems, neck tension, stress, anxiety, and depression.  
+- **Connect Mind and Body**: Explore the relationship between mental narratives and the body’s signals by examining the connection between mental, physical, and emotional states.  
+- **Activate Self-healing Processes**: Balance your nervous system, open your breathing, and activate the flow in your body’s energy system. When there is flow and movement, your body’s natural self-healing processes are set in motion.
 
 ## Practical Information
 
