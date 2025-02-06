@@ -1,7 +1,7 @@
 ---
-title: Individual sessions
+title: Individual therapy sessions
 subtitle: 
-description: Restore balance to your nervous system and activate your body’s natural healing processes by releasing the tension underlying your symptoms. Sessions available in English, Dutch, Spanish, and (basic) French.
+description: Release old tensions, restore balance to your nervous system, and activate your body’s natural healing processes. Sessions involve touch, breathing, and conversation. Available in English, Dutch, Spanish, and (basic) French.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -11,8 +11,6 @@ redirects_from:
 ---
 
 > Most emotional, psychological, and physical disorders are caused by tension in the nervous system
-
-In an individual therapy session, we work together to release this tension using a combination of touch, breathing, and conversation.
 
 On this page:
 - [Why work with the nervous system?](#why-work-with-the-nervous-system)
@@ -36,7 +34,8 @@ The nervous system is where the body and mind connect, which is one of the reaso
 
 ## What can I expect in a session?
 
-During a therapy session, I will work with you to open the body and release the tensions and blockages underlying physical and psychological ailments.
+During a therapy session we work together with a combination of touch, breathing, and conversation to release the tensions and blockages underlying your physical and psychological symptoms.
+
 This may include:
 
 - **Relieve Tensions**: Use deep massage techniques, joint release, acupressure, and zone points to relax muscles, release joints, and ease neck and back tension.  
