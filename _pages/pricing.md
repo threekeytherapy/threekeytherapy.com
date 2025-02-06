@@ -13,7 +13,7 @@ featured_image:
 
 **Supporter**: 105 euros incl VAT (enables me to offer reduced sessions for those who need it)
 
-**Business invoices**: 95 euros excl VAT
+**Business invoices**: 105 euros incl VAT
 
 Discount available when paying multiple sessions upfront
 
