@@ -47,6 +47,13 @@ This may include:
 
 Manuvision body therapy can address a wide range of physical and mental disorders, which may stem from work injuries, physiological imbalances, or mental states caused by stress, shock, or trauma.
 
+**Common Psychological Problems**
+
+* Stress, anxiety, panic attacks and burnout
+* Eating and sleep disorders
+* Depression, grief and PTSD (post-traumatic stress disorder)
+* Birth, childhood and intergenerational trauma
+
 **Common Physical Problems**
 
 * Back, neck and lower back pain
@@ -55,12 +62,6 @@ Manuvision body therapy can address a wide range of physical and mental disorder
 * Concussions, whiplash and sports injuries
 * Pregnancy and postpartum complications
 * Digestive problems
-
-**Common Psychological Problems**
-
-* Stress, anxiety and burnout
-* Eating and sleep disorders
-* Depression, grief and PTSD (post-traumatic stress disorder)
 
 **General Personal Development**
 
