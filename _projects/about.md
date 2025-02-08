@@ -25,7 +25,7 @@ Manuvision is a community of body therapists with over 25 years of experience in
 
 Our method is grounded in creating a space of trust and presence, where individuals can embrace vulnerability, feel seen and heard, and find the support they need to overcome their challenges.
 
-Manuvision therapists have been clinically proven to help veterans with PTSD[^1], work with world-class athletes—including Olympians—and support senior political and corporate leaders in becoming more effective and compassionate leaders.
+Manuvision therapists have been proven to help veterans with PTSD in a peer reviewed study[^1], regularly work with world-class athletes, including Olympians, and support senior political and corporate leaders in becoming more effective and compassionate leaders.
 
 Manuvision integrates a diverse range of traditions, including Chinese traditional medicine, Western physiotherapy, Jungian psychology, shadow work, breathwork, and inner child work.
 
