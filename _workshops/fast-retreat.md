@@ -32,10 +32,12 @@ This fast aims to let every organ rest, with each day's activities focusing on c
 - With less expendable energy, becoming aware of how much your 'mask' (ie personality of being funny, helpful to others, smart and calm, etc) starts to cost, and what it means to take this off
 - Surrendering to being in the group simply as yourself (whether grumpy, tired, sad or angry)
 
+This increased vulnerability makes for a beautiful, honest and open group dyanmic with fantastic sharings
+
 ### Mentally, the fast is an opportunity to:
 - Learn about the functioning of your organs, related muscle groups and meridian systems
 - Understand and reflect on your habit patterns
-- Experience a deep sense of self-awareness and freedom, with renewed energy.
+- Experience a deep sense of self-awareness and freedom, with renewed energy
 
 ### Removing old blockages and imbalances can help recover from various issues including, for example:
 - Sleep and digestive disorders
