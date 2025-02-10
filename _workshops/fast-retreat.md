@@ -30,7 +30,7 @@ This fast aims to let every organ rest, with each day's activities focusing on c
 ### Emotionally, the fast is an invitation to feel yourself:
 - Without habitual escape patterns (tobacco, coffee, snacking, ...)
 - With less expendable energy, becoming aware of how much your 'mask' (ie personality of being funny, helpful to others, smart and calm, etc) starts to cost, and what it means to take this off
-- Surrendering to the being in the group simply as yourself (whether grumpy, tired, sad or angry)
+- Surrendering to being in the group simply as yourself (whether grumpy, tired, sad or angry)
 
 ### Mentally, the fast is an opportunity to:
 - Learn about the functioning of your organs, related muscle groups and meridian systems
