@@ -1,7 +1,7 @@
 ---
 title: Fasting retreat 8-11 May 2025
 subtitle: Unique combination of fasting and bodywork developed by Manuvision
-description: Give your body a full reset with an intensive fasting and body therapy retreat, designed to cleanse muscles, organs, emotions and the mind. Lead by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years.
+description: Give your body a full reset with an intensive fasting and body therapy retreat, designed to cleanse muscles, organs, emotions and the mind. Led by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years.
 featured_image: /images/mv-fast.jpg
 homepage_image: /images/mv-fast.jpg
 date: 2023-11-02 00:00:00
@@ -28,9 +28,9 @@ This fast aims to let every organ rest, with each day's activities focusing on c
 - Unlock the body's natural ability to heal and regenerate
 
 ### Emotionally, the fast is an invitation to feel yourself:
-- Without habitual escape patterns (tobacco, coffee, snacking, ...)
+- Without habitual escape patterns (tobacco, coffee, sugar, snacking, ...)
 - With less expendable energy, becoming aware of how much your 'mask' (ie personality of being funny, helpful to others, smart and calm, etc) starts to cost, and what it means to take this off
-- Surrendering to the being in the group simply as yourself (whether grumpy, tired, sad or angry)
+- Surrendering to being in the group simply as yourself (whether grumpy, tired, sad or angry)
 
 ### Mentally, the fast is an opportunity to:
 - Learn about the functioning of your organs, related muscle groups and meridian systems
