@@ -16,7 +16,7 @@ menu_settings:
       url: '/testimonials'        
     - title: 'Pricing'
       url: '/pricing'           
-    - title: 'About Me'
+    - title: 'About'
       url: '/about'
     - title: 'Book now'
       url: '/contact'
