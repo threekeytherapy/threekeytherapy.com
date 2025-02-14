@@ -13,6 +13,10 @@ Jump to:
 * [How can it help you?](#how-can-it-help-you)
 * [Practical](#practical) 
 
+# old bio info
+
+In my work, whether through individual therapy, group workshops, or institutional reforms, I strive to create spaces for vulnerable exchange. My goal is to foster mutual understanding, compassion, and better collaboration.
+
 # Old treatment page 
 
 Manuvision treatments focus on releasing the tension at the root of emotional, mental and physical blockages. 

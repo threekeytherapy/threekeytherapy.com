@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About Me & Manuvision
 subtitle: 
 description: My name is Claus, and I am a certified Manuvision therapist. Manuvision is a research-based method built on 25 years of experience in freeing the nervous system.
 featured_image: /images/clauslandscapestudio.jpg
@@ -7,16 +7,16 @@ homepage_image: /images/clausportrait_wide.jpg
 date: 2023-11-04 00:00:00
 ---
 
+## About Me
+
 My name is Claus, and I am a certified Manuvision therapist.
 
 I have been working as a therapist since 2022, receiving Manuvision trainings and treatments since 2016, and dabbling with the existential arts since 2006.
 
 I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow work, dance improvisation, and being open to 'knowledge of self' in whatever form it comes. 
 
-I have a background in political science, with 10 years of experience in helping governments become more open and collaborative. I have served in various roles - executive, coordinator and facilitator - focused on public software and procurement projects.
-
-In my work, whether through individual therapy, group workshops, or institutional reforms, I strive to create spaces for vulnerable exchange. My goal is to foster mutual understanding, compassion, and better collaboration.
-
+I have a background in political science, with 10 years of experience in helping governments become more open and collaborative.
+I have served in various roles - executive, coordinator and facilitator - focused on public software and procurement projects. 
 I hold a Belgian passport, grew up across Asia, and speak English, Dutch, Spanish & some French.
 
 ## About Manuvision
