@@ -32,4 +32,4 @@ Manuvision integrates a diverse range of traditions, including Chinese tradition
 Read more about [Manuvision](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
 
 [^1]: [Study on Manuvision body therapy and PTSD](https://manuvision-dk.translate.goog/forskning/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
-[^2]: [From Alberto Contador and Peter Sagan to world cup teams](https://manuvision-dk.translate.goog/elitesport/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+[^2]: [From Alberto Contador and Peter Sagan to Olympic and world cup teams](https://manuvision-dk.translate.goog/elitesport/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
