@@ -5,7 +5,7 @@ description:
 featured_image: 
 ---
 
-### [claus(@)threekeytherapy.com](mailto:claus@threekeytherapy.com) - <a href="mailto:claus@threekeytherapy.com" class="button button--small">Email me</a>
+### claus(@)threekeytherapy.com - <a href="mailto:claus@threekeytherapy.com" class="button button--small">Email me</a>
 
 ### 0031 638 700 278 - <a href="tel:0031638700278" class="button button--small">Call me</a> or <a href="https://wa.me/31638700278?text=I'm%20interested%20in%20booking%20a%20body%20therapy%20session" class="button button--small">WhatsApp me</a>
 
