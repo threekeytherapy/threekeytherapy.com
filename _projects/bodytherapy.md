@@ -96,5 +96,3 @@ Treatments involve touch, and the nervous system responds best to direct skin co
 For this reason, treatments are most effective with minimal clothing.
 I recommend wearing non-revealing underwear and a sports bra.
 If you are not comfortable with this, it is of course possible to receive a treatment with clothing.
-
-<a href="/contact" class="button button--large">Book a treatment</a>
