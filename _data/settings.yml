@@ -18,7 +18,7 @@ menu_settings:
       url: '/pricing'           
     - title: 'About'
       url: '/about'
-    - title: 'Book now'
+    - title: <a href="/contact" class="button button--small"><b>Book now</b></a>
       url: '/contact'
 
 footer_settings:

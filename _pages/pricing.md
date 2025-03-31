@@ -11,8 +11,6 @@ featured_image:
 
 **Reduced**: 85 euros incl VAT (for people with low & no income, further reduction possible if needed - ask me)
 
-**Supporter**: 105 euros incl VAT (enables me to offer reduced sessions for those who need it)
-
 **Business invoices**: 105 euros incl VAT
 
 Discount available when paying multiple sessions upfront
@@ -21,11 +19,9 @@ Cancellations less than 24 hours in advance and no shows are charged at 100%
 
 ## Weekly training sessions
 
-**Standard**: 15 euros incl VAT
+**Regular clients**: Free participation in training sessions for regular body therapy clients
 
-**Reducated**: 10 euros incl VAT (for unemployed, students and financial difficulty)
-
-Discount available when paying multiple sessions upfront
+**Single session**: 15 euros standard / 10 euros reduced incl VAT 
 
 ## Payment details
 
