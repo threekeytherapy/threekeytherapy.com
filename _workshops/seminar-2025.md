@@ -4,7 +4,7 @@ subtitle: Introduction to working with the breath, emotions and nervous system
 description: Intensive 2-day course to learn the basic Manuvision techniques, including body mechanics, releasing muscles and joints, and working with the nervous system and breathing
 featured_image: /images/mv-content-vert7.jpg
 homepage_image: /images/mv-content-vert7.jpg
-date: 2023-11-03 00:00:00
+date: 2023-11-02 00:00:00
 redirects_from:
 ---
 
