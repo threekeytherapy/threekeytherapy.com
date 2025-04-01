@@ -36,7 +36,7 @@ In this way, Manuvision training complements body therapy. It allows you to work
 ## Practical
 
 **When?** 
-Monday 19.30 - 21.00
+Monday evenings
 
 **Where?**
 Amsterdam West, subject to change - send me a message if you'd like to join.
