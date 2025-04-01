@@ -30,6 +30,8 @@ featured_image:
 **KvK:** 90334949  
 **BTW:** NL004807772B79  
 
+---
+
 ## Terms and conditions
 
 [See full terms and conditions](../terms-and-conditions)

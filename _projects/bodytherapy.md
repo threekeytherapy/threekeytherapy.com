@@ -12,11 +12,15 @@ redirects_from:
 
 > Body therapy releases tension, restores balance, and reconnects mind and body.
 
+---
+
 On this page:
 - [What can I expect in a session?](#what-can-i-expect-in-a-session)
 - [What issues can it help me with?](#what-issues-can-it-help-me-with)
 - [Why work with the nervous system?](#why-work-with-the-nervous-system)
 - [Practical Information](#practical-information)
+
+---
 
 ## What can I expect in a session?
 
@@ -28,6 +32,8 @@ This may include:
 - **Restore Nervous System Balance**:  Address disturbances that can cause issues such as digestive problems, neck tension, stress, anxiety, and depression.  
 - **Connect Mind and Body**: Explore the relationship between mental narratives and the body’s signals by examining the connection between mental, physical, and emotional states.  
 - **Activate Self-healing Processes**: Balance your nervous system, open your breathing, and activate the flow in your body’s energy system. When there is flow and movement, your body’s natural self-healing processes are set in motion.
+
+---
 
 ## What issues can it help me with?
 
@@ -58,7 +64,11 @@ Manuvision body therapy can address a wide range of physical and mental disorder
 
 [Read more](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) about how Manuvision treatments can help address these issues
 
+---
+
 > Most emotional, psychological, and physical disorders are caused by tension in the nervous system
+
+---
 
 ## Why work with the nervous system?
 
@@ -74,6 +84,8 @@ These consequences manifest as tension, blockages, and pain in the body.
 
 The nervous system is where the body and mind connect, which is one of the reasons why Manuvision body therapy works through the nervous system.
 
+---
+
 ## Practical Information
 
 **Working Languages** - English, Dutch, Spanish and rusty French
@@ -84,9 +96,7 @@ The nervous system is where the body and mind connect, which is one of the reaso
 **Amsterdam West** - Wednesday and Thursday - Jordaan  
 **Utrecht** - Tuesday - Utrecht Hooghiemstraplein 78  
 
-**What to Wear**
-
-Treatments involve touch, and the nervous system responds best to direct skin contact.
+**What to Wear** - Treatments involve touch, and the nervous system responds best to direct skin contact.
 For this reason, treatments are most effective with minimal clothing.
 I recommend wearing non-revealing underwear and a sports bra.
 If you are not comfortable with this, it is of course possible to receive a treatment with clothing.
