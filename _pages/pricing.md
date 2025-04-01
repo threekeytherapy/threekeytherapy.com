@@ -5,34 +5,30 @@ description:
 featured_image: 
 ---
 
-## Individual body therapy
+## Individual Body Therapy
 
-| **Type**              | **Price** |  |
-|-----------------------|-----------|----------------------------|
-| **Standard**          | 95 €      |                            |
-| **Reduced**           | 85 €      | for people with low & no income |
-| **Business** | 105 €     | including invoice |
+**Standard:** 95 €  
+**Reduced:** 85 € (for people with low & no income)  
+**Business Invoice:** 105 €
 
-Discount available when paying multiple sessions upfront
+*Discount available when paying for multiple sessions upfront.*  
+*Cancellations less than 24 hours in advance and no-shows are charged at 100%.*  
 
-Cancellations less than 24 hours in advance and no shows are charged at 100%
+---
 
-## Weekly training sessions
+## Weekly Training Sessions
 
-| **Type**            | **Price**      |                      |
-|---------------------|----------------|-------------------------------------------------|
-| **Regular clients** | Free           | Free participation in training sessions for regular body therapy clients |
-| **Single session**  | 15 € standard / 10 € reduced |                        |
+**Regular body therapy clients**: Free participation  
+**Single Session:** 15 € (standard) / 10 € (reduced)  
 
+---
 
-## Financial information
+## Financial Information
 
-| **Type**            | **Details**                                      |
-|---------------------|--------------------------------------------------|
-| **Name**    | Claus Mullie, Three Key Therapy                          |
-| **Bank Account**    | NL85 ASNB 0778 1960 03                           |
-| **KvK**             | 90334949                                          |
-| **BTW**             | NL004807772B79                                    |
+**Name:** Claus Mullie, Three Key Therapy  
+**Bank Account:** NL85 ASNB 0778 1960 03  
+**KvK:** 90334949  
+**BTW:** NL004807772B79  
 
 ## Terms and conditions
 
