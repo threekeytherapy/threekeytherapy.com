@@ -1,7 +1,7 @@
 ---
 title: Weekly Manuvision Training
 subtitle: 
-description: Manuvision training is about bringing you back into your body. It combines the best from body therapy, yoga, and karate to help you learn more about your inner self.
+description: Manuvision training is about bringing you back into your body. It combines the best from body therapy, yoga, and karate to help you learn more about your inner self. Amsterdam West.
 featured_image: images/mv-training2.jpg
 homepage_image: /images/mv-training2.jpg
 date: 2023-11-03 00:00:00
