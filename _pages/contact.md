@@ -1,7 +1,7 @@
 ---
 title: Book now
-subtitle: 
-description:
+subtitle:
+description: 
 featured_image: 
 ---
 
@@ -10,6 +10,16 @@ featured_image:
 ---
 
 ### claus(@)threekeytherapy.com - 0031 638 700 278
+
+---
+
+#### English, Dutch, Spanish and rusty French
+
+---
+
+##### Monday and Friday - Amsterdam East - Newtonstraat 4, 1098 HD (bel: Serire)
+##### Wednesday and Thursday - Amsterdam West - Jordaan
+##### Tuesday - Utrecht - Utrecht Hooghiemstraplein 78
 
 ---
 

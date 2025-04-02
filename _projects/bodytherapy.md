@@ -92,9 +92,10 @@ The nervous system is where the body and mind connect, which is one of the reaso
 
 **Duration** - 1h 15min 
 
-**Amsterdam East** - Monday and Friday - Newtonstraat 4, 1098 HD (bel: Serire)  
-**Amsterdam West** - Wednesday and Thursday - Jordaan  
-**Utrecht** - Tuesday - Utrecht Hooghiemstraplein 78  
+**Cost** - see [pricing](/pricing)
+
+**Location** - Amsterdam East, Amsterdam West, and Utrecht.
+For address see [book now](/contact)
 
 **What to Wear** - Treatments involve massage techniques, and the nervous system responds best to direct skin contact.
 For this reason, treatments are most effective with minimal clothing.
