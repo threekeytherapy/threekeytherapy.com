@@ -1,7 +1,7 @@
 ---
 title: Individual therapy sessions
 subtitle: 
-description: Release old tensions, restore balance to your nervous system, and activate your body’s natural healing processes. Sessions involve touch, breathing, and conversation. Available in English, Dutch, Spanish, and (basic) French. Amsterdam West & East, and Utrecht.
+description: Release old tensions, restore balance to your nervous system, and activate your body’s natural healing processes. Sessions involve massage techniques, breathing, and conversation. Available in English, Dutch, Spanish, and (basic) French. Amsterdam West & East, and Utrecht.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -24,7 +24,7 @@ On this page:
 
 ## What can I expect in a session?
 
-During a therapy session we work together with a combination of touch, breathing, and conversation to release the tensions and blockages underlying your physical and psychological symptoms.
+During a therapy session we work together with a combination of massage techniques, breathing, and conversation to release the tensions and blockages underlying your physical and psychological symptoms.
 
 This may include:
 
@@ -96,7 +96,7 @@ The nervous system is where the body and mind connect, which is one of the reaso
 **Amsterdam West** - Wednesday and Thursday - Jordaan  
 **Utrecht** - Tuesday - Utrecht Hooghiemstraplein 78  
 
-**What to Wear** - Treatments involve touch, and the nervous system responds best to direct skin contact.
+**What to Wear** - Treatments involve massage techniques, and the nervous system responds best to direct skin contact.
 For this reason, treatments are most effective with minimal clothing.
 I recommend wearing non-revealing underwear and a sports bra.
 If you are not comfortable with this, it is of course possible to receive a treatment with clothing.

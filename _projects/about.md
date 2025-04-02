@@ -19,6 +19,8 @@ I have a background in political science, with 10 years of experience in helping
 I have served in various roles - executive, coordinator and facilitator - focused on public software and procurement projects. 
 I hold a Belgian passport, grew up across Asia, and speak English, Dutch, Spanish & some French.
 
+---
+
 ## About Manuvision
 
 Manuvision is a community of body therapists with over 25 years of experience in freeing the nervous system from stress and trauma.

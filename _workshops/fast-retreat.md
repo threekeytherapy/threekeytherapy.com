@@ -16,6 +16,8 @@ A Manuvision fast combines 20 days of cleansing diet with a 3 day fasting retrea
 
 The fast will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), who has been facilitating fast retreats for over 15 years.
 
+---
+
 ## An opportunity to work on mind, body and emotions
 
 This fast aims to let every organ rest, with each day's activities focusing on caring for the organs that reach rest on that particular day.
@@ -49,13 +51,17 @@ This increased vulnerability makes for a beautiful, honest and open group dyanmi
 
 What it can do really depends on what is blocked in your system.
 
-## Overview
+---
+
+## Practical
+
+### Overview
 
 - **10 days** of pre-fasting preparatory diet at home  
 - **3-day retreat** in a serene farmhouse surrounded by nature  
 - **10 days** of post-fasting diet at home  
 
-## Diet
+### Diet
 
 Before and after the retreat, you'll follow a tailored diet with specific restrictions (a detailed list will be provided).
 
@@ -63,7 +69,7 @@ During the 3-day retreat, only water (and occasional herbal tea) will be consume
 
 On the final day, we will break the fast together with a nourishing bowl of soup.
 
-## Retreat schedule
+### Retreat schedule
 
 - **16 April:** Conference call with all participants with preparatory instructions and setting up online support groups.
 - **25 April to 7 May:** Preparatory diet 
@@ -73,12 +79,12 @@ On the final day, we will break the fast together with a nourishing bowl of soup
 - **12 -21 May:** Post-fast diet  (the hardest part!) 
 - **28 May:** Optional conference call with a space to share reflections and learnings.
 
-## Online support groups
+### Online support groups
 
 We offer online support before and after the retreat, where you can connect with others, ask questions, and share your experiences.
 These peer-to-peer gatherings ensure ongoing support and a sense of community throughout your journey.
 
-## Venue
+### Venue
 
 The 2025 fast will take place at De Uelenspieghel, Winkelsteeg 5, 7975 PV Uffelte, Netherlands.
 
