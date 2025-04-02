@@ -20,6 +20,8 @@ This helps you become more aware of how you handle limits, whether you escape or
 
 Training sessions usually conclude with a brief sharing circle.
 
+---
+
 ## Manuvision training as self-treatment
 
 In a therapy treatment, you get help from the outside to work with your tensions.
@@ -32,6 +34,8 @@ This means trainings help you:
 * confront the places where we collapse because we lack strength in muscles and joints
 
 In this way, Manuvision training complements body therapy. It allows you to work directly with the underlying tensions behind the physical and psychological issues for which you seek treatment.
+
+---
 
 ## Practical
 
