@@ -71,7 +71,7 @@ On the final day, we will break the fast together with a nourishing bowl of soup
 
 ### Retreat schedule
 
-- **16 April:** Conference call with all participants with preparatory instructions and setting up online support groups.
+- **3 April:** Conference call with all participants with preparatory instructions and setting up online support groups.
 - **25 April to 7 May:** Preparatory diet 
 - **8 May:** You'll begin the water-only fast. We will gather at the venue in the afternoon/evening and settle in (you can arrive any time after 14:00).
 - **9 and 10 May:** Full, active days dedicated to physical training, stretching, and bodywork - designed to cleanse and energize each organ. There will be opportunities for nature walks, swimming, and enjoying the sauna.
