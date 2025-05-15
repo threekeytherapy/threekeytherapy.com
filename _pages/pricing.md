@@ -17,7 +17,7 @@ featured_image:
 
 ## Weekly Training Sessions
 
-**Regular body therapy clients**: 5 €
+**Regular body therapy clients**: 5 €  
 **Single Session:** 15 € (standard) / 10 € (reduced)  
 
 ---
