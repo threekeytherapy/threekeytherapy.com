@@ -24,4 +24,4 @@ The seminar will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-
 
 Amsterdam 
 
-## More details TBC
+<a href="/contact" class="button button--large">I'm interested, tell me more!</a>
