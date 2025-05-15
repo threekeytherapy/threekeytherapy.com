@@ -22,6 +22,6 @@ This knowledge will significantly enhance the quality of life for both the stude
 
 ## Hybrid location
 
-The program involves two years of intensive training and work, with intensive week-long retreats in Barcelona, and weekend courses in Amsterdam.
+The program involves two years of intensive training and work, with intensive week-long retreats in Barcelona, and meetings in Amsterdam.
 
 <a href="/contact" class="button button--large">I'm interested, tell me more!</a>
