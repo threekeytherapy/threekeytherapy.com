@@ -18,7 +18,7 @@ Throughout the program, students will learn to detect the body's signals, unders
 
 This knowledge will significantly enhance the quality of life for both the students and their clients.
 
-(More information about the program)[https://manuvision.es/language/en/academics/]
+[More information about the program](https://manuvision.es/language/en/academics/)
 
 ## Hybrid location
 
