@@ -10,15 +10,14 @@ featured_image:
 **Standard:** 95 €  
 **Reduced:** 85 € (for people with low & no income)  
 **Business Invoice:** 105 €
-
-*20 € discount when booking 3 sessions in advance.*  
+ 
 *Cancellations less than 24 hours in advance and no-shows are charged at 100%.*  
 
 ---
 
 ## Weekly Training Sessions
 
-**Regular body therapy clients**: 5 €
+**Regular body therapy clients**: 5 €  
 **Single Session:** 15 € (standard) / 10 € (reduced)  
 
 ---
