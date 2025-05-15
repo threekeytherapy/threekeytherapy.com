@@ -1,6 +1,6 @@
 ---
 title: Manuvision Two Year Education Program '26-'27
-subtitle: A career path and opportunity for personal discovery
+subtitle: 
 description: Intensive 2-year program with over 1000 hours of training and therapeutic practice, spread between Barcelona and Amsterdam
 featured_image: /images/education.jpg
 homepage_image: /images/education.jpg
@@ -8,7 +8,7 @@ date: 2023-11-03 00:00:00
 redirects_from:
 ---
 
-## Introduction to Manuvision
+## A career path and opportunity for personal discovery
 
 Manuvision Barcelona offer a comprehensive two-year training program comprising over 1000 hours of training and therapeutic practice.
 
@@ -20,7 +20,7 @@ This knowledge will significantly enhance the quality of life for both the stude
 
 (More information about the program)[https://manuvision.es/language/en/academics/]
 
-## Location
+## Hybrid location
 
 The program involves two years of intensive training and work, with intensive week-long retreats in Barcelona, and weekend courses in Amsterdam.
 
