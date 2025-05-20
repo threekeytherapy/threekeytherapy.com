@@ -12,7 +12,7 @@ redirects_from:
 
 Intensive 2-day course to learn the basic Manuvision techniques, including body mechanics, releasing muscles and joints, and working with the nervous system and breathing.
 
-This course is ideal for massage therapists and body therapists, those who are curious about doing our 2 year Education Program, or anyone wanting to dive a bit deeper into the body.
+This course is ideal for massage therapists and body therapists, those who are curious about doing our 2 year education program, or anyone wanting to dive a bit deeper into the body.
 
 This seminar is suited for people without experience as well as seasoned professionals.
 
@@ -20,8 +20,17 @@ This seminar is suited for people without experience as well as seasoned profess
 
 The seminar will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), founder of Manuvision Barcelona, who has been treating and teaching since 2007.
 
+[More about Manuvision treatments](../bodytherapy)  
+[More about the Manuvision school](../about#about-manuvision)
+[More about the 2 year education program](/workshops/education)
+
 ## Location
 
-Amsterdam 
+Praktijk Lijnbaansgracht Lijnbaansgracht 67-O 1015GV Amsterdam
+
+## Schedule
+
+Saturday 4 09:00 - 17:00
+Sunday 5 09:00 - 17:00
 
 <a href="/contact" class="button button--large">I'm interested, tell me more!</a>
