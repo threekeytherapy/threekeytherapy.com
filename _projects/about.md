@@ -31,7 +31,7 @@ Manuvision therapists have been proven to help veterans with PTSD in a peer revi
 
 Manuvision integrates a diverse range of traditions, including Chinese traditional medicine, Western physiotherapy, Jungian psychology, shadow work, breathwork, and inner child work.
 
-Read more about [Manuvision](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
+Read more about [Manuvision Denmark](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) and [Manuvision Barcelona](https://manuvision.es/language/en/home-english/).
 
 [^1]: [Study on Manuvision body therapy and PTSD](https://manuvision-dk.translate.goog/forskning/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 [^2]: [From Alberto Contador and Peter Sagan to Olympic and world cup teams](https://manuvision-dk.translate.goog/elitesport/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
