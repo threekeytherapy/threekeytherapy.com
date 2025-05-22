@@ -18,7 +18,10 @@ Throughout the program, students will learn to detect the body's signals, unders
 
 This knowledge will significantly enhance the quality of life for both the students and their clients.
 
-[More information about the program](https://manuvision.es/language/en/academics/)
+More about:
+* [The two year education program](https://manuvision.es/language/en/academics/)
+* [The Manuvision school](../about#about-manuvision)  
+* [Introductory seminar Oct '05](/workshops/seminar)
 
 ## Hybrid location
 
