@@ -4,7 +4,7 @@ subtitle:
 description: Intensive 2-year program with over 1000 hours of training and therapeutic practice, spread between Barcelona and Amsterdam
 featured_image: /images/education.jpg
 homepage_image: /images/education.jpg
-date: 2023-11-03 00:00:00
+date: 2023-11-02 00:00:00
 redirects_from:
 ---
 
