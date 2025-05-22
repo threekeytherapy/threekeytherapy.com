@@ -10,13 +10,13 @@ redirects_from:
 
 ## A career path and opportunity for personal discovery
 
-Manuvision Barcelona offer a comprehensive two-year training program comprising over 1000 hours of training and therapeutic practice.
+Manuvision offers a comprehensive two-year training program comprising over 1000 hours of training and therapeutic practice.
 
 This program is designed to teach a wide range of disciplines and tools, tailored to each student's experience level, whether they are new to or experienced in massage techniques.
 
-Throughout the program, students will learn to detect the body's signals, understand emotional movements, and identify mental blocks.
+Throughout the program, students will learn to detect the body's signals, understand emotional movements, and identify mental blocks. This knowledge will significantly enhance the quality of life for both the students and their clients.
 
-This knowledge will significantly enhance the quality of life for both the students and their clients.
+The program is taught by the founders of Manuvision Denmark.
 
 More about:
 * [The two year education program](https://manuvision.es/language/en/academics/)
