@@ -10,11 +10,17 @@ redirects_from:
 
 ## Introduction to working with the breath, emotions and nervous system
 
-Intensive 2-day course to learn the basic Manuvision techniques, including body mechanics, releasing muscles and joints, and working with the nervous system and breathing.
+In this 2-day hands-on seminar, we’ll explore some of the basic Manuvision techniques; pulsation, opening the breath, and releasing tension in the body.
 
-This course is ideal for massage therapists and body therapists, those who are curious about doing our 2 year education program, or anyone wanting to dive a bit deeper into the body.
+The focus is on helping clients become aware of their defense patterns (fight, flight, freeze, fawn, etc.), work through them, and connect with the emotions underneath.
+We’ll explore shifts between the  sympathetic and parasympathetic nervous system, and the role of the vagus nerve.
+
+Each day will include meditation, group sharing, training, and giving and receiving treatments.
+
+It’s a space to learn, connect, and grow - both as a practitioner and a person.
 
 This seminar is suited for people without experience as well as seasoned professionals.
+It's a great introduction to  our 2 year education program.
 
 ## Teacher
 
