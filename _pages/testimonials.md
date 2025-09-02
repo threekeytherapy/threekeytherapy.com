@@ -10,6 +10,18 @@ I met Claus through a client of his. I was at a really low point, dealing with s
 
 ---
 
+De dag na de eerste behandeling was het ontroerend mooi te observeren dat mijn beleving van mijn lichaam en de beleving van de wereld om me heen anders was. Mijn lichaam voelde zwaarder, voelde de zwaartekracht, en de wereld om me heen was milder, mooier, niet meer vijandig, stond meer open etc. Heb meerdere malen moeten huilen omdat ik daar zo naar verlangde en eindelijk weer in een staat van zijn was zoals het hoort in alle veiligheid. In de loop van de dag merkte ik ook mijn micro beweging naar de freeze meer op.
+
+– **Niels, 38**
+
+--- 
+
+"Claus is like a facilitator for vulnerability - I feel I can really open up to myself. My own anger, my own sadness and grief."
+
+– **Conti, 34, Researcher**
+
+---
+
 Na 2 weken in het ziekenhuis te hebben gelegen met een hersenvliesontsteking kwam ik zwaar getraumatiseerd thuis. Ik had in het ziekenhuis amper geslapen en werd helaas zeer koel en onvriendelijk behandelt door het verzorgend personeel.
 
 Mijn hoop was dat ik thuis weer zou kunnen slapen, maar helaas stond mijn zenuwstelsel volledig optilt. Langer dan 10 minuten kon ik niet slapen.
@@ -22,21 +34,15 @@ Diezelfde avond sliep ik voor het eerst weer 2 uur achter elkaar.  Nadien heb ik
 
 ---
 
-"Claus is like a facilitator for vulnerability - I feel I can really open up to myself. My own anger, my own sadness and grief."
+"I feel like more has happened in one session than my past year of doing talk therapy. It made me realise just how important the body is for the healing process. It's more direct, there is less bullshit." 
 
-– **Conti, 34, Researcher**
+– **Naomi, 29, Environmental Activist**
 
 ---
 
 Mijn ervaring bij Claus was echt levensveranderend. Vanaf het begin voelde ik me op mijn gemak en veilig bij hem. Zijn rustige en begripvolle aanpak maakte dat ik me kon openstellen en vertrouwen had in het proces. Door Claus' begeleiding voel ik me emotioneel lichter en veel meer in balans. Ik heb inmiddels al mijn vrienden met elke klacht naar Claus gestuurd, en zonder uitzondering zijn ze allemaal enorm geholpen en dankbaar voor zijn steun. Claus, bedankt voor alles wat je voor mij en mijn omgeving hebt gedaan! Ik blijf bij deze zin; Ik voel me nu zo goed de laatste tijd, dat ik vergeet waarom ik naar hem toe ging 😊
 
 – **Marcela, 34**
-
----
-
-"I feel like more has happened in one session than my past year of doing talk therapy. It made me realise just how important the body is for the healing process. It's more direct, there is less bullshit." 
-
-– **Naomi, 29, Environmental Activist**
 
 ---
 
