@@ -1,5 +1,5 @@
 ---
-title: Fasting retreat Spring 2026
+title: Fasting retreat 4 - 7 June 2026
 subtitle: Unique combination of fasting and bodywork developed by Manuvision
 description: Give your body a full reset with an intensive fasting and body therapy retreat, designed to cleanse muscles, organs, emotions and the mind. Led by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years.
 featured_image: /images/mv-fast.jpg
@@ -71,17 +71,13 @@ On the final day, we will break the fast together with a nourishing bowl of soup
 
 ### Retreat schedule
 
-Exact dates and schedule TBC
-
-<!--
-- **3 April:** Conference call with all participants with preparatory instructions and setting up online support groups.
-- **28 April to 7 May:** Preparatory diet 
-- **8 May:** You'll begin the water-only fast. We will gather at the venue in the afternoon/evening and settle in (you can arrive any time after 14:00).
-- **9 and 10 May:** Full, active days dedicated to physical training, stretching, and bodywork - designed to cleanse and energize each organ. There will be opportunities for nature walks, swimming, and enjoying the sauna.
-- **11 May:** Morning with active sessions, and a bowl of soup for lunch to celebrate the completion of the fast. We'll finish up and be ready to leave around 14:00.
-- **12 -21 May:** Post-fast diet  (the hardest part!) 
+- **TBC** Conference call with all participants with preparatory instructions and setting up online support groups.
+- **25 May to 3 June:** Preparatory diet 
+- **4 June:** You'll begin the water-only fast. We will gather at the venue in the afternoon/evening and settle in (you can arrive any time after 14:00).
+- **5 and 6 June:** Full, active days dedicated to physical training, stretching, and bodywork - designed to cleanse and energize each organ. There will be opportunities for nature walks, swimming, and enjoying the sauna.
+- **7 June:** Morning with active sessions, and a bowl of soup for lunch to celebrate the completion of the fast. We'll finish up and be ready to leave around 14:00.
+- **8 - 18 May:** Post-fast diet  (the hardest part!) 
 - **28 May:** Optional conference call with a space to share reflections and learnings.
--->
 
 ### Online support groups
 
