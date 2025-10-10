@@ -1,7 +1,7 @@
 ---
-title: Manuvision Seminar 4-5 October 2025
+title: Manuvision Seminar Series 2026
 subtitle: 
-description: Intensive 2-day course to learn the basic Manuvision techniques, including body mechanics, releasing muscles and joints, and working with the nervous system and breathing
+description: Intensive weekend courses to learn the basic Manuvision techniques, including body mechanics, releasing muscles and joints, and working with the nervous system and breathing
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-01 00:00:00
@@ -10,7 +10,7 @@ redirects_from:
 
 ## Introduction to working with the breath, emotions and nervous system
 
-In this 2-day hands-on seminar, we’ll explore some of the basic Manuvision techniques; pulsation, opening the breath, and releasing tension in the body.
+In these weekend hands-onn seminars, we’ll explore some of the basic Manuvision techniques; pulsation, opening the breath, and releasing tension in the body.
 
 The focus is on helping clients become aware of their defense patterns (fight, flight, freeze, fawn, etc.), work through them, and connect with the emotions underneath.
 We’ll explore shifts between the  sympathetic and parasympathetic nervous system, and the role of the vagus nerve.
@@ -37,7 +37,11 @@ Praktijk Lijnbaansgracht Lijnbaansgracht 67-O 1015GV Amsterdam
 
 ## Schedule
 
+Dates TBC
+
+<!--
 Saturday 4th, 09:30 - 17:30  
 Sunday 5th, 09:30 - 17:30
+-->
 
 <a href="/contact" class="button button--large">I'm interested, tell me more!</a>
