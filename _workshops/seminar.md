@@ -1,7 +1,7 @@
 ---
 title: Manuvision Seminars 18-19/04 & 16-17/05
 subtitle: 
-description: Intensive weekend courses titled "Body, Relation, and Empathy" and "Nervous System, the Past, and Presence", which can be combined or done separately
+description: Intensive weekend courses "Body, Relation, and Empathy" and "Nervous System, the Past, and Presence", which can be combined or done separately
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-01 00:00:00
@@ -15,19 +15,20 @@ During these weekend hands-on seminars we’ll explore some of the fundamental c
 Each day will include meditation, group sharing, training, and giving and receiving treatments.
 
 It’s a space to learn, connect, and grow - both as a practitioner and a person.
+They are suited for people without experience as well as seasoned professionals.
 
-This seminars are suited for people without experience as well as seasoned professionals.
-They can be combined or done separately. 
+Seminars can be combined or done separately. 
 Additional seminars will be organised later in the year. 
 
-## April 18-19: Body, Relation, and Empathy
+## April 18-19 2026: Body, Relation, and Empathy
 
-How do we sense through the body? How many ways can we be in contact with the other? Muscular, neurological or even at the cell level? 
+How do we sense through the body?
+How many ways can we be in contact with the other?
+Muscular, neurological or even at the cell level? 
 
-We will explore the physical roots of empathy.
-Through hands-on practice we’ll explore how our bodies mirror, protect, and open up to the people around us.
+We will explore the physical roots of empathy through hands-on practice, investigating how our bodies mirror, protect, and open up to the people around us.
 
-## May 16-17: Nervous System, the Past, and Presence
+## May 16-17 2026: Nervous System, the Past, and Presence
 
 Our nervous system carries the past and shapes how we meet the present.
 
@@ -39,7 +40,7 @@ Where, in this delicate balance, is the space to cultivate awareness and presenc
 
 ## Teacher
 
-The seminar will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), founder of Manuvision Barcelona, who has been treating and teaching since 2007.
+The seminar will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), founder of Manuvision Barcelona, who has been teaching since 2007.
 
 More about:
 * [Manuvision treatments](../bodytherapy)  
@@ -52,11 +53,11 @@ Praktijk Lijnbaansgracht Lijnbaansgracht 67-O 1015GV Amsterdam
 
 ## Schedule
 
-Dates TBC
+April 18th, 09:30 - 17:30  
+April 18th, 09:30 - 17:30
 
-<!--
-Saturday 4th, 09:30 - 17:30  
-Sunday 5th, 09:30 - 17:30
--->
+
+May 16th, 09:30 - 17:30  
+MAy 17th, 09:30 - 17:30
 
 <a href="/contact" class="button button--large">I'm interested, tell me more!</a>
