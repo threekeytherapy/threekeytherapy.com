@@ -1,26 +1,41 @@
 ---
-title: Manuvision Seminar Series 2026
+title: Manuvision Seminars 18-19/04 & 16-17/05
 subtitle: 
-description: Intensive weekend courses to learn the basic Manuvision techniques, including body mechanics, releasing muscles and joints, and working with the nervous system and breathing
+description: Intensive weekend courses titled "Body, Relation, and Empathy" and "Nervous System, the Past, and Presence", which can be combined or done separately
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-01 00:00:00
 redirects_from:
 ---
 
-## Introduction to working with the breath, emotions and nervous system
+## Manuvision Seminar Series
 
-In these weekend hands-onn seminars, we’ll explore some of the basic Manuvision techniques; pulsation, opening the breath, and releasing tension in the body.
-
-The focus is on helping clients become aware of their defense patterns (fight, flight, freeze, fawn, etc.), work through them, and connect with the emotions underneath.
-We’ll explore shifts between the  sympathetic and parasympathetic nervous system, and the role of the vagus nerve.
+During these weekend hands-on seminars we’ll explore some of the fundamental concepts that the Manuvision community has been researching over the past 25 years. 
 
 Each day will include meditation, group sharing, training, and giving and receiving treatments.
 
 It’s a space to learn, connect, and grow - both as a practitioner and a person.
 
-This seminar is suited for people without experience as well as seasoned professionals.
-It's a great introduction to  our 2 year education program.
+This seminars are suited for people without experience as well as seasoned professionals.
+They can be combined or done separately. 
+Additional seminars will be organised later in the year. 
+
+## April 18-19: Body, Relation, and Empathy
+
+How do we sense through the body? How many ways can we be in contact with the other? Muscular, neurological or even at the cell level? 
+
+We will explore the physical roots of empathy.
+Through hands-on practice we’ll explore how our bodies mirror, protect, and open up to the people around us.
+
+## May 16-17: Nervous System, the Past, and Presence
+
+Our nervous system carries the past and shapes how we meet the present.
+
+What importance shall I give my automatic response mechanisms?
+Do they carry a deep and profound (embodied) wisdom? 
+Or are they outdated defence systems which no longer serve me, and distract me from what is actually here?
+
+Where, in this delicate balance, is the space to cultivate awareness and presence?
 
 ## Teacher
 
