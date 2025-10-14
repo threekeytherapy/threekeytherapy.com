@@ -4,7 +4,7 @@ subtitle:
 description: Intensive weekend courses "Body, Relation, and Empathy" and "Nervous System, the Past, and Presence", which can be combined or done separately
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
-date: 2023-11-01 00:00:00
+date: 2023-11-02 00:00:00
 redirects_from:
 ---
 
