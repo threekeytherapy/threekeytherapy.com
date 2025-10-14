@@ -22,7 +22,7 @@ Our nervous system carries the past and shapes how we meet the present.
 
 What importance shall I give my automatic response mechanisms?
 Do they carry a deep and profound (embodied) wisdom? 
-Or are they outdated defence systems which no longer serve me, and distract me from what is actually here?
+Or are they outdated defense systems which no longer serve me, and distract me from what is actually here?
 
 Where, in this delicate balance, do I cultivate my awareness and presence?
 
