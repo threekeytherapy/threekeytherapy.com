@@ -17,9 +17,9 @@ featured_image:
 
 ---
 
-##### Monday and Friday - Amsterdam East - Newtonstraat 4, 1098 HD (bel: Serire)
-##### Thursday - Amsterdam West - Lijnbaansgracht 67-O 
+##### Monday, Wednesday and Thursday - Amsterdam West - Lijnbaansgracht 67-O 
 ##### Tuesday - Utrecht - Hooghiemstraplein 78
+##### Friday - Amsterdam East - Newtonstraat 4, 1098 HD (bel: Serire)
 
 ---
 
