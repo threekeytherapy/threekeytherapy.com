@@ -8,8 +8,10 @@ featured_image:
 ## Individual Body Therapy
 
 **Standard:** 105 €  
-**Business Invoice:** 115 €
- **Reduced:** 85 € (for people with low & no income)  
+**Business Invoice:** 120 €
+**Reduced:** 90 € (for people with low & no income)  
+
+If this is not within your means, please reach out.
 
 *Cancellations less than 24 hours in advance and no-shows are charged at 100%.*  
 
