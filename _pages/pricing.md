@@ -8,7 +8,7 @@ featured_image:
 ## Individual Body Therapy
 
 **Standard:** 105 €  
-**Business Invoice:** 120 €
+**Business Invoice:** 120 €  
 **Reduced:** 90 € (for people with low & no income)  
 
 If this is not within your means, please reach out.
