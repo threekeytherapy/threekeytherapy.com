@@ -53,13 +53,13 @@ Praktijk Lijnbaansgracht Lijnbaansgracht 67-O 1015GV Amsterdam
 
 ## Schedule
 
-April 18th, 09:30 - 17:30  
-April 19th, 09:30 - 17:30
+April 18th, 09:00 - 18:00  
+April 19th, 09:00 - 18:00
 
 -
 
-May 16th, 09:30 - 17:30  
-May 17th, 09:30 - 17:30
+May 16th, 09:00 - 18:00  
+May 17th, 09:00 - 18:00
 
 -
 
