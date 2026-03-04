@@ -76,8 +76,8 @@ On the final day, we will break the fast together with a nourishing bowl of soup
 - **4 June:** You'll begin the water-only fast. We will gather at the venue in the afternoon/evening and settle in (you can arrive any time after 14:00).
 - **5 and 6 June:** Full, active days dedicated to physical training, stretching, and bodywork - designed to cleanse and energize each organ. There will be opportunities for nature walks, swimming, and enjoying the sauna.
 - **7 June:** Morning with active sessions, and a bowl of soup for lunch to celebrate the completion of the fast. We'll finish up and be ready to leave around 14:00.
-- **8 - 18 May:** Post-fast diet  (the hardest part!) 
-- **28 May:** Optional conference call with a space to share reflections and learnings.
+- **8 - 18 June:** Post-fast diet  (the hardest part!) 
+- **TBC:** Optional conference call with a space to share reflections and learnings.
 
 ### Online support groups
 
