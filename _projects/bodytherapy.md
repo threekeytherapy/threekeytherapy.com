@@ -1,7 +1,7 @@
 ---
 title: Individual therapy sessions
 subtitle: 
-description: Release old tensions, restore balance to your nervous system, and activate your body’s natural healing processes. Sessions involve massage techniques, breathing, and conversation. Available in English, Dutch, Spanish, and (basic) French. Amsterdam West & East, and Utrecht.
+description: Release old tensions, restore balance to your nervous system, and activate your body’s natural healing processes. Sessions involve massage techniques, breathing, and conversation. Available in English, Dutch, Spanish, and (basic) French. Amsterdam, Utrecht & Brussels.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
