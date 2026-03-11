@@ -90,7 +90,7 @@ The 2026 fast will take place at De Uelenspieghel, Winkelsteeg 5, 7975 PV Uffelt
 
 Two hours from Amsterdam by public transport, this lovely old farmhouse is surrounded by a nature reserve with forest and a lake.
 
-<a href="/contact" class="button button--large">I'm interested, tell me more!</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd9ouRfQgpI3izHKcU-LQGKPl7l33y6sqI_UlU-9qv7tVwNPQ/viewform?usp=dialog" class="button button--large">Sign up for the fast</a>
 
 <div class="gallery" data-columns="1">
 	<img src="/images/fast-venue.jpg">

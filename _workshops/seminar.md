@@ -16,6 +16,8 @@ Muscular, neurological or even at the cell level?
 
 We will explore the physical roots of empathy through hands-on practice, investigating how our bodies mirror, protect, and open up to the people around us.
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfedOwqgeUFkYRbSCpyEipGyT1pS77dvJDGM4vBJfvhPEI72g/viewform?usp=dialog)" class="button button--large">Sign up for April</a>
+
 ## May 16-17: Nervous System, the Past, and Presence
 
 Our nervous system carries the past and shapes how we meet the present.
@@ -25,6 +27,8 @@ Do they carry a deep and profound (embodied) wisdom?
 Or are they outdated defense systems which no longer serve me, and distract me from what is actually here?
 
 Where, in this delicate balance, do I cultivate my awareness and presence?
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdB7Ht1XsgjhJ_wUsZOTNzaklkYhHqHUIGBeScsImi8QX3eEQ/viewform?usp=dialog" class="button button--large">Sign up for May</a>
 
 ## Manuvision Seminar Series
 
@@ -60,7 +64,3 @@ April 19th, 09:00 - 18:00
 
 May 16th, 09:00 - 18:00  
 May 17th, 09:00 - 18:00
-
--
-
-<a href="/contact" class="button button--large">I'm interested, tell me more!</a>
