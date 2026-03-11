@@ -13,13 +13,15 @@ featured_image:
 
 ---
 
-#### English, Dutch, Spanish and rusty French
+##### Amsterdam East - Friday - Newtonstraat 4, 1098 HD (bel: Serire)
+##### Amsterdam West - Mon-Thurs - Lijnbaansgracht 67-O 
+
+##### Brussels - Once every 4 weeks - Julien Dillensplein 1, 1060 Sint-Gillis, België
+##### Utrecht - Once every 6 weeks - Hooghiemstraplein 78
 
 ---
 
-##### Monday, Wednesday and Thursday - Amsterdam West - Lijnbaansgracht 67-O 
-##### Tuesday - Utrecht - Hooghiemstraplein 78
-##### Friday - Amsterdam East - Newtonstraat 4, 1098 HD (bel: Serire)
+#### English, Dutch, Spanish and rusty French
 
 ---
 
