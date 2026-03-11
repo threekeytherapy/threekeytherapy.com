@@ -1,7 +1,7 @@
 ---
 title: Manuvision Seminars 18-19/04 & 16-17/05
 subtitle:
-description: Intensive weekend courses "Body, Relation, and Empathy" and "Nervous System, the Past, and Presence", which can be combined or done separately
+description: Intensive weekend courses "Body, Relation, and Empathy" and "Nervous System, the Past, and Presence", which can be combined or done separately. Amsterdam.
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-02 00:00:00
