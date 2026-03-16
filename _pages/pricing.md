@@ -8,7 +8,7 @@ featured_image:
 ## Individual Body Therapy
 
 **Standard:** 105 €  
-**Reduced:** 80-90 € (for people with low & no income)
+**Reduced:** 80-90 € (for people with low & no income)  
 **Business Invoice:** 120 €  
 **Brussels:** 20 € discount  
 
@@ -20,12 +20,12 @@ If this is not within your means, please reach out.
 
 ## Seminar
 **Standard:** 280 €  
-**Reduced:** 200-240 € (for people with low & no income)
+**Reduced:** 200-240 € (for people with low & no income)  
 **Business Invoice:** 320 €  
 
 ## Fast
 **Standard:** 580 €  
-**Reduced:** 500-540 € (for people with low & no income)
+**Reduced:** 500-540 € (for people with low & no income)  
 **Business Invoice:** 640 €  
 
 If this is not within your means, please reach out.
