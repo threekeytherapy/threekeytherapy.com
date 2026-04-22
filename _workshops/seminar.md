@@ -1,34 +1,12 @@
 ---
-title: Manuvision Seminars 18-19/04 & 16-17/05
+title: Manuvision Seminars
 subtitle:
-description: Intensive weekend courses "Body, Relation, and Empathy" and "Nervous System, the Past, and Presence", which can be combined or done separately. Amsterdam.
+description: Intensive weekend courses in Amsterdam. Future dates to be announced.
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
-date: 2023-11-02 00:00:00
+date: 2023-11-03 00:00:00
 redirects_from:
 ---
-
-## April 18-19: Body, Relation, and Empathy
-
-How do we sense through the body?
-How many ways can we be in contact with the other?
-Muscular, neurological or even at the cell level? 
-
-We will explore the physical roots of empathy through hands-on practice, investigating how our bodies mirror, protect, and open up to the people around us.
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfedOwqgeUFkYRbSCpyEipGyT1pS77dvJDGM4vBJfvhPEI72g/viewform?usp=dialog)" class="button button--large">Sign up for April</a>
-
-## May 16-17: Nervous System, the Past, and Presence
-
-Our nervous system carries the past and shapes how we meet the present.
-
-What importance shall I give my automatic response mechanisms?
-Do they carry a deep and profound (embodied) wisdom? 
-Or are they outdated defense systems which no longer serve me, and distract me from what is actually here?
-
-Where, in this delicate balance, do I cultivate my awareness and presence?
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdB7Ht1XsgjhJ_wUsZOTNzaklkYhHqHUIGBeScsImi8QX3eEQ/viewform?usp=dialog" class="button button--large">Sign up for May</a>
 
 ## Manuvision Seminar Series
 
@@ -57,10 +35,4 @@ Praktijk Lijnbaansgracht Lijnbaansgracht 67-O 1015GV Amsterdam
 
 ## Schedule
 
-April 18th, 09:00 - 18:00  
-April 19th, 09:00 - 18:00
-
--
-
-May 16th, 09:00 - 18:00  
-May 17th, 09:00 - 18:00
+To be announced - get in touch to receive updates
