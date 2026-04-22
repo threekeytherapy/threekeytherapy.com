@@ -18,20 +18,6 @@ If this is not within your means, please reach out.
 
 ---
 
-## Seminar
-**Standard:** 280 €  
-**Reduced:** 200-240 € (for people with low & no income)  
-**Business Invoice:** 320 €  
-
-## Fast
-**Standard:** 580 €  
-**Reduced:** 500-540 € (for people with low & no income)  
-**Business Invoice:** 640 €  
-
-If this is not within your means, please reach out.
-
----
-
 ## Weekly Training Sessions
 
 **Regular body therapy clients**: 5 €  
