@@ -36,3 +36,9 @@ Praktijk Lijnbaansgracht Lijnbaansgracht 67-O 1015GV Amsterdam
 ## Schedule
 
 To be announced - get in touch to receive updates
+
+## Pricing
+
+**Standard:** 280 €  
+**Reduced:** 200-240 € (for people with low & no income)  
+**Business Invoice:** 320 €  

@@ -72,6 +72,15 @@ What it can do really depends on what is blocked in your system.
 - **3-day retreat** in a serene farmhouse surrounded by nature  
 - **10 days** of post-fasting diet at home  
 
+### Pricing
+
+**Standard:** 580 €  
+**Reduced:** 500-540 € (for people with low & no income)  
+**Business Invoice:** 640 €  
+
+If this is not within your means but you would like to come, please reach out.
+We have several discounted spots available.
+
 ### Diet
 
 Before and after the retreat, you'll follow a tailored diet with specific restrictions (a detailed list will be provided).
