@@ -1,5 +1,5 @@
 ---
-title: Manuvision Two Year Education Program '26-'27
+title: Manuvision Two Year Education Program '28-'29
 subtitle: 
 description: Intensive 2-year program with over 1000 hours of training and therapeutic practice, spread between Barcelona and Amsterdam
 featured_image: /images/education.jpg

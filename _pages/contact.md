@@ -1,8 +1,10 @@
 ---
-title: 
-subtitle:
+title: Book an intro call to see if I can help you
+subtitle: Drop me your details and let me know when I can call you back
 description: 
 featured_image: 
+---
+
 ---
 
 **claus(@)threekeytherapy(.)com ~ 0031 638 700 278**

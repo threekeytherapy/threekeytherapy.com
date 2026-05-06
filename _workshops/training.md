@@ -37,6 +37,13 @@ In this way, Manuvision training complements body therapy. It allows you to work
 
 ---
 
+## Pricing
+
+**Regular body therapy clients**: 5 €  
+**Single Session:** 15 € (standard) / 10 € (reduced)  
+
+---
+
 ## Practical
 
 **When?** 

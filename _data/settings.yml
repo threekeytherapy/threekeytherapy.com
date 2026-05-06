@@ -10,13 +10,11 @@ menu_settings:
   menu_items:
     - title: 'Work with me'
       url: '/work-wth-me'
-    - title: 'Testimonials'
-      url: '/testimonials'        
-    - title: 'Pricing'
-      url: '/pricing'           
     - title: 'About me'
       url: '/about'
-    - title: <a href="/contact" class="button button--small"><b>Contact me</b></a>
+    - title: 'What others have said'
+      url: '/testimonials'                 
+    - title: <a href="/contact" class="button button--small"><b>Book an intro call</b></a>
       url: '/contact'
 
 footer_settings:

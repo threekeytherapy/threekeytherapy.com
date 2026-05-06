@@ -11,12 +11,11 @@ date: 2023-11-04 00:00:00
 
 My name is Claus, and I am a certified Manuvision therapist.
 
-I have been working as a therapist since 2022, receiving Manuvision trainings and treatments since 2016, and dabbling with the existential arts since 2006.
-
 I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow work, dance improvisation, and being open to 'knowledge of self' in whatever form it comes. 
 
-I have a background in political science, with 10 years of experience in helping governments become more open and collaborative.
-I have served in various roles - executive, coordinator and facilitator - focused on public software and procurement projects. 
+I have been working as a therapist since 2022, receiving Manuvision trainings and treatments since 2016, and dabbling with the existential arts since 2006.
+
+My other life is that of a facilitator and community manager, with 12 years of experience in helping governments become more open and collaborative.
 I hold a Belgian passport, grew up across Asia, and speak English, Dutch, Spanish & some French.
 
 ---
