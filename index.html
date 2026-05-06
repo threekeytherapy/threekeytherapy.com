@@ -13,9 +13,11 @@ featured_image: /images/treatment6crop2.jpg
 
 	<div class="wrap">
 
-		<h1>Somatic body therapy</h1>
+		<h1>Feeling stuck and can't find your way out?</h1>
 		<p><strong>
-			<b>Manuvision is a treatment method that addresses emotional, psychological, and physical disorders through the body</b>	
+		</br>
+		</br>
+		</br>
 		</strong></p>
 
 	</div>
@@ -25,7 +27,7 @@ featured_image: /images/treatment6crop2.jpg
 <section class="listing">
 
 	<div class="wrap">
-		
+
 		{% for project in site.projects %}
 
 		<article class="post">
@@ -36,8 +38,8 @@ featured_image: /images/treatment6crop2.jpg
 
 			<div class="post__content-wrap">
 				<div class="post__content">
-					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
 					<p class="post__description">{{ project.description }}</p>
+					<h2 class="post__title"><a href="/work-wth-me">{{ project.title }}</a></h2>
 				</div>
 			</div>
 
@@ -45,6 +47,7 @@ featured_image: /images/treatment6crop2.jpg
 
 		{% endfor %}
 
+<!-- Comments out clutter on homepage
 		{% for project in site.workshops %}
 
 		<article class="post">
@@ -63,6 +66,7 @@ featured_image: /images/treatment6crop2.jpg
 		</article>
 
 		{% endfor %}
+-->
 
 	</div>
 

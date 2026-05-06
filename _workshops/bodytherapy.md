@@ -1,7 +1,7 @@
 ---
-title: Individual therapy sessions
+title: Individual body therapy
 subtitle: 
-description: Release old tensions, restore balance to your nervous system, and activate your body’s natural healing processes. Sessions involve massage techniques, breathing, and conversation. Available in English, Dutch, Spanish, and (basic) French. Amsterdam, Utrecht & Brussels.
+description: Release old tensions, restore balance to your nervous system, and activate your body’s natural healing processes. </br></br> Sessions involve massage techniques, breathing, and conversation. Available in English, Dutch, Spanish, and (basic) French. Amsterdam, Utrecht & Brussels.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -10,7 +10,7 @@ redirects_from:
   - /treatments
 ---
 
-> Body therapy releases tension, restores balance, and reconnects mind and body.
+> Each experience leaves a trace, remembered by the body, conditioning the mind.
 
 ---
 
@@ -51,7 +51,6 @@ Manuvision body therapy can address a wide range of physical and mental disorder
 * Back, neck and lower back pain
 * Pain in shoulders, elbows, wrists, knees, ankles and hips
 * Tension headache and migraine
-* Concussions, whiplash and sports injuries
 * Pregnancy and postpartum complications
 * Digestive problems
 
@@ -61,8 +60,6 @@ Manuvision body therapy can address a wide range of physical and mental disorder
 * Building confidence and speaking up
 * Setting boundaries and saying no
 * Coming closer to yourself to live the life that you want to live
-
-[Read more](https://manuvision-dk.translate.goog/hvad-kan-kropsterapi-hjaelpe-med/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) about how Manuvision treatments can help address these issues
 
 ---
 
@@ -94,8 +91,7 @@ The nervous system is where the body and mind connect, which is one of the reaso
 
 **Cost** - see [pricing](/pricing)
 
-**Location** - Amsterdam East, Amsterdam West, and Utrecht.
-For address see [book now](/contact)
+**Location** - See [contact me](/contact)
 
 **What to Wear** - Treatments involve massage techniques, and the nervous system responds best to direct skin contact.
 For this reason, treatments are most effective with minimal clothing.

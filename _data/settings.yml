@@ -8,17 +8,15 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Individual Sessions'
-      url: '/bodytherapy'
-    - title: 'Workshops'
-      url: '/workshops/'
+    - title: 'Work with me'
+      url: '/work-wth-me'
     - title: 'Testimonials'
       url: '/testimonials'        
     - title: 'Pricing'
       url: '/pricing'           
-    - title: 'About'
+    - title: 'About me'
       url: '/about'
-    - title: <a href="/contact" class="button button--small"><b>Book now</b></a>
+    - title: <a href="/contact" class="button button--small"><b>Contact me</b></a>
       url: '/contact'
 
 footer_settings:
