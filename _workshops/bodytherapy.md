@@ -19,6 +19,7 @@ On this page:
 - [What issues can it help me with?](#what-issues-can-it-help-me-with)
 - [What to expect](#what-to-expect)
 - [Why work with the nervous system?](#why-work-with-the-nervous-system)
+- [Individual Body Therapy](#individual-body-therapy)
 - [Practical Information](#practical-information)
 
 ---
@@ -97,6 +98,19 @@ And the body also suffers the consequences of all our actions – or lack thereo
 These consequences manifest as tension, blockages, and pain in the body.
 
 The nervous system is where the body and mind connect, which is one of the reasons why Manuvision body therapy works through the nervous system.
+
+---
+
+## Individual Body Therapy
+
+**Standard:** 105 €  
+**Reduced:** 80-90 € (for people with low & no income)  
+**Business Invoice:** 120 €  
+**Brussels:** 20 € discount  
+
+If this is not within your means, please reach out.
+
+*Cancellations less than 24 hours in advance and no-shows are charged at 100%.*  
 
 ---
 
