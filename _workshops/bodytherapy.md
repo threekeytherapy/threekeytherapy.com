@@ -1,7 +1,7 @@
 ---
 title: Individual body therapy
 subtitle: 
-description: Release old tensions, restore balance to your nervous system, and activate your body’s natural healing processes. </br></br> Sessions involve massage techniques, breathing, and conversation. Available in English, Dutch, Spanish, and (basic) French. Amsterdam, Utrecht & Brussels.
+description: Work with me to get to the root of your problem; whether mental, emotional, physical, or just that existential itch you can't scratch.</br></br> I work in English, Dutch, Spanish, and (basic) French. Amsterdam, Utrecht & Brussels.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -10,49 +10,49 @@ redirects_from:
   - /treatments
 ---
 
-> Each experience leaves a trace, remembered by the body, conditioning the mind.
+> Old fears, pains and angers create a constant strain on the nervous system, the body, and our freedom to be ourselves.
 
 ---
 
 On this page:
-- [What can I expect in a session?](#what-can-i-expect-in-a-session)
+- [How working through the body can help you](#how-working-through-the-body-can-help-you)
 - [What issues can it help me with?](#what-issues-can-it-help-me-with)
+- [What to expect](#what-to-expect)
 - [Why work with the nervous system?](#why-work-with-the-nervous-system)
 - [Practical Information](#practical-information)
 
 ---
 
-## What can I expect in a session?
+## How working through the body can help you
 
-During a therapy session we work together with a combination of massage techniques, breathing, and conversation to release the tensions and blockages underlying your physical and psychological symptoms.
+The nervous system is our central communication channel.
+It helps us navigate the physical and social world we live in.
 
-This may include:
+It works to keep us safe by remembering what felt safe and what felt as a threat - that time my boundaries were not respected, I was praised or punished for being loud/quiet, dominant/submissive, openly sad/joyful/angry.
 
-- **Relieve Tensions**: Use deep massage techniques, joint release, acupressure, and zone points to relax muscles, release joints, and ease neck and back tension.  
-- **Restore Nervous System Balance**:  Address disturbances that can cause issues such as digestive problems, neck tension, stress, anxiety, and depression.  
-- **Connect Mind and Body**: Explore the relationship between mental narratives and the body’s signals by examining the connection between mental, physical, and emotional states.  
-- **Activate Self-healing Processes**: Balance your nervous system, open your breathing, and activate the flow in your body’s energy system. When there is flow and movement, your body’s natural self-healing processes are set in motion.
+As such, it also shapes our bodily reactions and personality construct - when we tense, when we relax, how secure we feel in interpersonal relations, what role we take in a group dynamic.
+And most importantly when and where we allow ourselves to let go and express core emotions of anger, sadness, joy and fear.
+
+> And the things that really hurt - well, they stick.
+
+A constant tension in the stomach or jaw, a constant worry about how others perceive me, or a constant background feeling of being trapped, unheard, and constrained.
+
+The same is true about a traumatic event - suffering abuse, an accident, an operation, a divorce or a burn out.
+
+So, by surfacing, acknowledging and letting go of these old experiences and blockages, the nervous system is freed, unblocking your body, your mind, and you!
+
+One step towards a more happy, peaceful and free life :)
 
 ---
 
 ## What issues can it help me with?
 
-Manuvision body therapy can address a wide range of physical and mental disorders, which may stem from work injuries, physiological imbalances, or mental states caused by stress, shock, or trauma.
-
 **Common Psychological Problems**
 
-* Stress, anxiety, panic attacks and burnout
-* Eating and sleep disorders
-* Depression, grief and PTSD (post-traumatic stress disorder)
 * Birth, childhood and intergenerational trauma
-
-**Common Physical Problems**
-
-* Back, neck and lower back pain
-* Pain in shoulders, elbows, wrists, knees, ankles and hips
-* Tension headache and migraine
-* Pregnancy and postpartum complications
-* Digestive problems
+* Stress, anxiety, panic attacks and burnout
+* Depression, grief and PTSD (post-traumatic stress disorder)
+* Eating, metabolic and sleep disorders
 
 **General Personal Development**
 
@@ -61,6 +61,25 @@ Manuvision body therapy can address a wide range of physical and mental disorder
 * Setting boundaries and saying no
 * Coming closer to yourself to live the life that you want to live
 
+**Common Physical Problems**
+
+* Tension headache and migraine
+* Pregnancy and postpartum complications
+* Digestive problems
+* Pains in the back, neck, shoulders, elbows, wrists, knees, ankles and hips
+
+---
+
+## What to expect 
+
+During treatments I use massage techniques to surface your subconscious physical tensions.
+This surfaces their underlying psycho-emotional causes - whether unprocessed stress, anxiety, fear, anger, sadness, ...
+
+Once surfaced, you have the opportunity to work with your breathing, mind and nervous system to let go of these old protection mechanisms. With it, you also release the restrictive thoughts, feelings and behaviour patterns associated with them.
+
+Treatments will help you feel relaxed and present in your body, with a clearer mind, and more able to fully enjoy life and navigate change.
+Or feel a sudden desire to sign up to a pottery course and start wearing purple ¯\\_(ツ)_/¯
+
 ---
 
 > Most emotional, psychological, and physical disorders are caused by tension in the nervous system
@@ -68,8 +87,6 @@ Manuvision body therapy can address a wide range of physical and mental disorder
 ---
 
 ## Why work with the nervous system?
-
-Each experience leaves a trace, remembered by the body, conditioning the mind.
 
 The body and mind are deeply interconnected.
 If there is pain in the body, it affects the psyche; and if you are under psychological pressure, it manifests in the body.
