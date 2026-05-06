@@ -120,8 +120,6 @@ If this is not within your means, please reach out.
 
 **Duration** - 1h 15min 
 
-**Cost** - see [pricing](/pricing)
-
 **Location** - See [contact me](/contact)
 
 **What to Wear** - Treatments involve massage techniques, and the nervous system responds best to direct skin contact.
