@@ -16,10 +16,10 @@ redirects_from:
 
 On this page:
 - [How working through the body can help you](#how-working-through-the-body-can-help-you)
-- [What issues can it help me with?](#what-issues-can-it-help-me-with)
+- [What issues it can help with](#what-issues-it-can-help-with)
 - [What to expect](#what-to-expect)
-- [Why work with the nervous system?](#why-work-with-the-nervous-system)
-- [Individual Body Therapy](#individual-body-therapy)
+- [Why we work with the nervous system](#why-we-work-with-the-nervous-system)
+- [Pricing](#pricing)
 - [Practical Information](#practical-information)
 
 ---
@@ -46,7 +46,7 @@ One step towards a more happy, peaceful and free life :)
 
 ---
 
-## What issues can it help me with?
+## What issues it can help with
 
 **Common Psychological Problems**
 
@@ -87,7 +87,7 @@ Or feel a sudden desire to sign up to a pottery course and start wearing purple 
 
 ---
 
-## Why work with the nervous system?
+## Why we work with the nervous system
 
 The body and mind are deeply interconnected.
 If there is pain in the body, it affects the psyche; and if you are under psychological pressure, it manifests in the body.
@@ -101,7 +101,7 @@ The nervous system is where the body and mind connect, which is one of the reaso
 
 ---
 
-## Individual Body Therapy
+## Pricing
 
 **Standard:** 105 €  
 **Reduced:** 80-90 € (for people with low & no income)  
