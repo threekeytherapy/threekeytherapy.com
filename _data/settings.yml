@@ -14,7 +14,7 @@ menu_settings:
       url: '/about'
     - title: 'What others have said'
       url: '/testimonials'                 
-    - title: <a href="/contact" class="button button--small"><b>Contact me</b></a>
+    - title: <a href="/contact" class="button button--small"><b>Book an intro call</b></a>
       url: '/contact'
 
 footer_settings:

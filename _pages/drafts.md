@@ -46,7 +46,7 @@ It helps us navigate the physical and social world we live in.
 
 It works to keep us safe by remembering what felt safe and what felt as a threat - that time my boundaries were not respected, I was praised or punished for being loud/quiet, dominant/submissive, openly sad/joyful/angry.
 
-As such, it also shapes our bodily reactions and personality construct - when we tense, when we relax, how secure we feel in interpersonal relations, what role we take in a group dynamic, and most importantly when and where we allow ourselves to let go and express core emotions of anger, sadness, joy and fear.
+As such, it also shapes our bodily reactions and personality construct - when we tense, when we relax, how secure we feel in interpersonal relations, what role we take in a group dynamic. And most importantly when and where we allow ourselves to let go and express core emotions of anger, sadness, joy and fear.
 
 And the things that really hurt - well, they stick.
 

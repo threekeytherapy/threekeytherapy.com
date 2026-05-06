@@ -1,7 +1,7 @@
 ---
 title: Individual body therapy
 subtitle: 
-description: Work with me to get to the root of your problem; whether mental, emotional, physical, or just that existential itch you can't scratch.</br></br> I work in English, Dutch, Spanish, and (basic) French. Amsterdam, Utrecht & Brussels.
+description: Work with me to get to the root of your problem; whether mental, emotional, physical. Or just to scratch that existential itch.</br></br> I can accompany you in English, Dutch, Spanish, and (basic) French. In Amsterdam, Utrecht & Brussels.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
