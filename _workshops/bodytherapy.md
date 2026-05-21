@@ -1,7 +1,7 @@
 ---
 title: Individual body therapy
 subtitle: 
-description: Work with me to get to the root of your problem; whether mental, emotional, physical. Or just to scratch that existential itch.</br></br> I can accompany you in English, Dutch, Spanish, and (basic) French. In Amsterdam, Utrecht & Brussels.
+description: Work directly with the body to free yourself from the old fears, pains and angers that strain your nervous system and body.</br></br> I can accompany you in English, Dutch, Spanish, and (basic) French. In Amsterdam, Utrecht & Brussels.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -73,6 +73,10 @@ One step towards a more happy, peaceful and free life :)
 
 ## What to expect 
 
+We start with a short conversation to explore what you want help with.
+We then move to the massage table to work with the body.
+We finish with a short conversation to integrate the experience.
+
 During treatments I use massage techniques to surface your subconscious physical tensions.
 This surfaces their underlying psycho-emotional causes - whether unprocessed stress, anxiety, fear, anger, sadness, ...
 
@@ -122,7 +126,7 @@ If this is not within your means, please reach out.
 
 **Location** - See [contact me](/contact)
 
-**What to Wear** - Treatments involve massage techniques, and the nervous system responds best to direct skin contact.
-For this reason, treatments are most effective with minimal clothing.
+**What to Wear** - Body therapy involves touch.
+Treatments are most effective with thin and minimal clothing.
 I recommend wearing non-revealing underwear and a sports bra.
-If you are not comfortable with this, it is of course possible to receive a treatment with clothing.
+If you are not comfortable with this, it is also possible to receive a treatment with clothing.
