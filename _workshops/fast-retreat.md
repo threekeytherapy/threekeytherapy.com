@@ -1,7 +1,7 @@
 ---
 title: Fasting retreat 4 - 7 June 2026
 subtitle: Unique combination of fasting and bodywork developed by Manuvision
-description: When you need a reset, but can't do it alone. A 3-day guided fast and body therapy retreat to cleanse muscles, organs, emotions and the mind. Led by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years. Near Amsterdam.
+description: When you need a reset, but can't do it alone.</br></br> A 3-day guided fast and body therapy retreat to cleanse muscles, organs, emotions and the mind. Led by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years. Near Amsterdam.
 featured_image: /images/mv-fast.jpg
 homepage_image: /images/mv-fast.jpg
 date: 2023-11-01 00:00:00
