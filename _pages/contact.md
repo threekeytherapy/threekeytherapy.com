@@ -25,7 +25,11 @@ featured_image:
 
 {% include contact-form.html %}
 
-[Privacy policy](../privacy-policy)
+[Privacy policy](../privacy-policy)  
+<a href="/terms-and-conditions"> Terms and conditions</a>  
+<a href="https://github.com/threekeytherapy/threekeytherapy.com"> This site on GitHub</a>  
+KvK: 90334949  
+BTW: NL004807772B79  
 
 <!-- 
 ### Availability
