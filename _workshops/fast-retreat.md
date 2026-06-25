@@ -1,5 +1,5 @@
 ---
-title: Fasting retreat 4 - 7 June 2026
+title: Fasting retreat spring 2027
 subtitle: Unique combination of fasting and bodywork developed by Manuvision
 description: When you need a reset, but can't do it alone.</br></br> A 3-day guided fast and body therapy retreat to cleanse muscles, organs, emotions and the mind. Led by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years. Near Amsterdam.
 featured_image: /images/mv-fast.jpg
@@ -89,6 +89,8 @@ During the 3-day retreat, only water (and occasional herbal tea) will be consume
 
 On the final day, we will break the fast together with a nourishing bowl of soup.
 
+<!--
+
 ### Retreat schedule
 
 - **TBC** Conference call with all participants with preparatory instructions and setting up online support groups.
@@ -99,6 +101,8 @@ On the final day, we will break the fast together with a nourishing bowl of soup
 - **8 - 18 June:** Post-fast diet  (the hardest part!) 
 - **TBC:** Optional conference call with a space to share reflections and learnings.
 
+-->
+
 ### Online support groups
 
 We offer online support before and after the retreat, where you can connect with others, ask questions, and share your experiences.
@@ -106,7 +110,7 @@ These peer-to-peer gatherings ensure ongoing support and a sense of community th
 
 ### Venue
 
-The 2026 fast will take place at De Uelenspieghel, Winkelsteeg 5, 7975 PV Uffelte, Netherlands.
+The fast will take place at De Uelenspieghel, Winkelsteeg 5, 7975 PV Uffelte, Netherlands.
 
 Two hours from Amsterdam by public transport, this lovely old farmhouse is surrounded by a nature reserve with forest and a lake.
 
