@@ -1,7 +1,7 @@
 ---
 title: Individual body therapy
 subtitle: 
-description: Work directly with the body to free yourself from the old fears, pains and angers that strain your nervous system and body.</br></br> I can accompany you in English, Dutch, Spanish, and (basic) French. In Amsterdam, Utrecht & Brussels.
+description: Opening up the space for you to explore and process old struggles, beliefs and tensions.</br></br> I can accompany you in English, Dutch, Spanish, and (basic) French. In Amsterdam, Utrecht, Brussels & Gent.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -18,7 +18,6 @@ On this page:
 - [How working through the body can help you](#how-working-through-the-body-can-help-you)
 - [What issues it can help with](#what-issues-it-can-help-with)
 - [What to expect](#what-to-expect)
-- [Why we work with the nervous system](#why-we-work-with-the-nervous-system)
 - [Pricing](#pricing)
 - [Practical Information](#practical-information)
 
@@ -87,32 +86,14 @@ Or feel a sudden desire to sign up to a pottery course and start wearing purple 
 
 ---
 
-> Most emotional, psychological, and physical disorders are caused by tension in the nervous system
-
----
-
-## Why we work with the nervous system
-
-The body and mind are deeply interconnected.
-If there is pain in the body, it affects the psyche; and if you are under psychological pressure, it manifests in the body.
-Your body reflects your mental well-being – the physical and mental are not two separate elements, but one whole.
-
-The body is always the first to signal that something is wrong.
-And the body also suffers the consequences of all our actions – or lack thereof.
-These consequences manifest as tension, blockages, and pain in the body.
-
-The nervous system is where the body and mind connect, which is one of the reasons why Manuvision body therapy works through the nervous system.
-
----
-
 ## Pricing
 
 **Standard:** 105 €  
-**Reduced:** 80-90 € (for people with low & no income)  
-**Business Invoice:** 120 €  
-**Brussels:** 20 € discount  
+**Reduced:** 90 € (for people with low & no income)  
+**Business Invoice:** 125 €  
+**Brussels & Gent:** 20 € discount  
 
-If this is not within your means, please reach out.
+If this is not within your means, please reach out. I have several slots per month for people without the means.
 
 *Cancellations less than 24 hours in advance and no-shows are charged at 100%.*  
 
