@@ -4,6 +4,9 @@ description: Stash for text
 featured_image: /images/demo/about.jpg
 ---
 
+		<a href="/contact" class="button button--small"><b>Book an intro call to see how I can help you</b></a>
+
+
 # Stash for text
 
 
@@ -12,6 +15,26 @@ Jump to:
 * [How does it work?](#how-it-works)
 * [How can it help you?](#how-can-it-help-you)
 * [Practical](#practical) 
+
+
+---
+
+## Why we work with the nervous system
+
+The body and mind are deeply interconnected.
+If there is pain in the body, it affects the psyche; and if you are under psychological pressure, it manifests in the body.
+Your body reflects your mental well-being – the physical and mental are not two separate elements, but one whole.
+
+The body is always the first to signal that something is wrong.
+And the body also suffers the consequences of all our actions – or lack thereof.
+These consequences manifest as tension, blockages, and pain in the body.
+
+The nervous system is where the body and mind connect, which is one of the reasons why Manuvision body therapy works through the nervous system.
+
+---
+
+> Most emotional, psychological, and physical disorders are caused by tension in the nervous system
+
 
 # old bio info
 
@@ -36,8 +59,6 @@ Once surfaced, you have the opportunity to work with your breathing, mind and ne
 Treatments will help you feel relaxed and present in your body, with a clearer mind, and more able to fully enjoy life and navigate change.
 
 Or feel a sudden desire to sign up to a pottery course and start wearing purple ¯\\_(ツ)_/¯
-
-
 
 # Old body therapy? / How does it work?
 

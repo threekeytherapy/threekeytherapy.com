@@ -1,7 +1,7 @@
 ---
 title: Individual body therapy
 subtitle: 
-description: Work directly with the body to free yourself from the old fears, pains and angers that strain your nervous system and body.</br></br> I can accompany you in English, Dutch, Spanish, and (basic) French. In Amsterdam, Utrecht & Brussels.
+description: Opening up the space for you to explore and process old struggles, beliefs and tensions.</br></br> I can accompany you in English, Dutch, Spanish, and (basic) French. In Amsterdam, Utrecht, Brussels & Gent.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -18,7 +18,6 @@ On this page:
 - [How working through the body can help you](#how-working-through-the-body-can-help-you)
 - [What issues it can help with](#what-issues-it-can-help-with)
 - [What to expect](#what-to-expect)
-- [Why we work with the nervous system](#why-we-work-with-the-nervous-system)
 - [Pricing](#pricing)
 - [Practical Information](#practical-information)
 
@@ -84,24 +83,6 @@ Once surfaced, you have the opportunity to work with your breathing, mind and ne
 
 Treatments will help you feel relaxed and present in your body, with a clearer mind, and more able to fully enjoy life and navigate change.
 Or feel a sudden desire to sign up to a pottery course and start wearing purple ¯\\_(ツ)_/¯
-
----
-
-> Most emotional, psychological, and physical disorders are caused by tension in the nervous system
-
----
-
-## Why we work with the nervous system
-
-The body and mind are deeply interconnected.
-If there is pain in the body, it affects the psyche; and if you are under psychological pressure, it manifests in the body.
-Your body reflects your mental well-being – the physical and mental are not two separate elements, but one whole.
-
-The body is always the first to signal that something is wrong.
-And the body also suffers the consequences of all our actions – or lack thereof.
-These consequences manifest as tension, blockages, and pain in the body.
-
-The nervous system is where the body and mind connect, which is one of the reasons why Manuvision body therapy works through the nervous system.
 
 ---
 

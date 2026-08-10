@@ -12,7 +12,7 @@ menu_settings:
       url: '/work-wth-me'
     - title: 'About me'
       url: '/about'
-    - title: 'What others have said'
+    - title: 'Testimonials'
       url: '/testimonials'                 
     - title: <a href="/contact" class="button button--small"><b>Book an intro call</b></a>
       url: '/contact'

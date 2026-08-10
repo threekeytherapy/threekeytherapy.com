@@ -1,5 +1,5 @@
 ---
-title: What others have said
+title: Testimonials
 description: 
 featured_image: 
 ---
