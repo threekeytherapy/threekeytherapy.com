@@ -89,11 +89,11 @@ Or feel a sudden desire to sign up to a pottery course and start wearing purple 
 ## Pricing
 
 **Standard:** 105 €  
-**Reduced:** 80-90 € (for people with low & no income)  
-**Business Invoice:** 120 €  
-**Brussels:** 20 € discount  
+**Reduced:** 90 € (for people with low & no income)  
+**Business Invoice:** 125 €  
+**Brussels & Gent:** 20 € discount  
 
-If this is not within your means, please reach out.
+If this is not within your means, please reach out. I have several slots per month for people without the means.
 
 *Cancellations less than 24 hours in advance and no-shows are charged at 100%.*  
 
