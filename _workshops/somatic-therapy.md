@@ -16,6 +16,7 @@ On this page:
 - [What issues can it help with?](#what-issues-can-it-help-with)
 - [What does a session look like?](#what-does-a-session-look-like)
 - [Pricing](#pricing)
+- [Reimbursement](#reimbursement)
 - [Practical Information](#practical-information)
 - [Locations](#locations)
 
@@ -23,7 +24,7 @@ On this page:
 
 ## Where to start?
 
-Read this page, and if you have questions, are curious, or feel unsure if it's for you – give me a call. 
+Read this page, and if you have questions, are curious, or feel unsure if it's for you – [give me a call](/contact). 
 
 I recommend starting with 1 session, to see if it clicks. 
 If it does, I recommend doing 3 more to get a clear sense of how I can help you.
@@ -93,6 +94,11 @@ Once surfaced, you have the opportunity to work with your breathing, mind and ne
 Treatments will help you feel relaxed and present in your body, with a clearer mind, and more able to fully enjoy life and navigate change.
 Or feel a sudden desire to sign up to a pottery course and start wearing purple ¯\\_(ツ)_/¯
 
+**What to Wear** - It is possible to receive a treatment with full clothing.
+Somatic therapy does usually include touch.
+It is easiest with thin and minimal clothing, for example non-revealing underwear/shorts and a sports bra.
+It is up to you what you feel most comfortable with. 
+
 ---
 
 ## Pricing
@@ -108,16 +114,17 @@ If this is not within your means, please reach out. I have several slots per mon
 
 ---
 
+## Reimbursement
+
+I am registered with CAT. Check with your mutualiteit/health insurance if reimbursement applies.
+
+---
+
 ## Practical Information
 
 **Working Languages** - English, Dutch, Spanish and rusty French
 
 **Duration** - 1h 15min 
-
-**What to Wear** - Body therapy involves touch.
-Treatments are most effective with thin and minimal clothing.
-I recommend wearing non-revealing underwear and a sports bra.
-If you are not comfortable with this, it is also possible to receive a treatment with clothing.
 
 ---
 
@@ -129,3 +136,7 @@ If you are not comfortable with this, it is also possible to receive a treatment
 **Brussels** - Once every 4 weeks - Julien Dillensplein 1  
 **Utrecht** - Once every 6 weeks - Hooghiemstraplein 78  
 **Gent** - On request
+
+---
+
+<a href="/contact" class="button button--small"><b>Book an intro call</b></a>
