@@ -33,7 +33,7 @@ This means trainings help you:
 * train the nervous system and the ability to alternate between being calm and alert
 * confront the places where we collapse because we lack strength in muscles and joints
 
-In this way, Manuvision training complements body therapy. It allows you to work directly with the underlying tensions behind the physical and psychological issues for which you seek treatment.
+In this way, trainings complement body therapy. It allows you to work directly with the underlying tensions behind the physical and psychological issues for which you seek treatment.
 
 ---
 
