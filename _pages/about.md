@@ -1,5 +1,5 @@
 ---
-title: About Me & Manuvision
+title: I'm Claus, and I'm a Manuvision therapist.
 subtitle: 
 description: My name is Claus, and I am a certified Manuvision therapist. Manuvision is a research-based method built on 25 years of experience in freeing the nervous system.
 featured_image: /images/clauslandscapestudio.jpg
@@ -9,14 +9,19 @@ date: 2023-11-04 00:00:00
 
 ## About Me
 
-My name is Claus, and I am a certified Manuvision therapist.
+I never planned to become a body therapist. It kinda just happened.
 
-I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow work, dance improvisation, and being open to 'knowledge of self' in whatever form it comes. 
+I treat for two reasons. 
 
-I have been working as a therapist since 2022, receiving Manuvision trainings and treatments since 2016, and dabbling with the existential arts since 2006.
+Firstly, this is the method which helped me the most. Working through patterns of feeling unsafe, addictions, depressions, constant dissociation, a disorganised attachment stlye, and a serious year-long nervous breakdown, I've tried **a lot** of different things. The Manuvision treatments, trainings, and fasts simply worked better than anything else. So I feel a responsibility to pass it on. 
 
-My other life is that of a facilitator and community manager, with 12 years of experience in helping governments become more open and collaborative.
+Secondly, this is one of the most honest professions I can imagine. It requires me to be completely present with you, aware and in my body, honest and vulnerable, humbly open to your experience and to mine. Each treatment is different, and I learn something new about myself each time. Only in that open and honest meeting can something happen.
+
+My other life is that of a facilitator and community manager, with 12 years of experience in helping governments become more open and collaborative. I mainly work on digital sovereignty - helping governmnents do open source. 
+
 I hold a Belgian passport, grew up across Asia, and speak English, Dutch, Spanish & some French.
+
+I've been working as a therapist since 2022, receiving Manuvision trainings and treatments since 2016, and dabbling with the existential arts since 2006. I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow work, dance improvisation, and being open to 'knowledge of self' in whatever form it comes. I started teaching on the Manuvision Education in 2026.
 
 ---
 

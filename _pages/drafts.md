@@ -36,6 +36,9 @@ The nervous system is where the body and mind connect, which is one of the reaso
 > Most emotional, psychological, and physical disorders are caused by tension in the nervous system
 
 
+> Old fears, pains and angers create a constant strain on the nervous system, the body, and our freedom to be ourselves.
+
+
 # old bio info
 
 In my work, whether through individual therapy, group workshops, or institutional reforms, I strive to create spaces for vulnerable exchange. My goal is to foster mutual understanding, compassion, and better collaboration.
