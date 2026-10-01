@@ -1,7 +1,7 @@
 ---
 title: Fasting retreat 8-11 April 2027
 subtitle: Unique combination of fasting and bodywork developed by Manuvision
-description: When you need a reset, but can't do it alone.</br></br> A 3-day guided fast and body therapy retreat to cleanse muscles, organs, emotions and the mind. Led by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years. Near Amsterdam.
+description: When you need a reset, but can't do it alone.</br></br> A 3-day guided fast and body therapy retreat to cleanse muscles, organs, emotions and the mind. Led by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years.
 featured_image: /images/mv-fast.jpg
 homepage_image: /images/mv-fast.jpg
 date: 2023-11-04 00:00:00
@@ -33,31 +33,28 @@ The fast will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/
 
 This fast aims to let every organ rest, with each day's activities focusing on caring for the organs that reach rest on that particular day.
 
-### Physically, the fast helps to:
+### Physical:
 - Improve circulation
 - Sharpen the senses
 - Detoxify organs, flush out years of built-up waste
 - Reset and regulate metabolism
 - Unlock the body's natural ability to heal and regenerate
 
-### Emotionally, the fast is an invitation to feel yourself:
+### Emotional:
 - Without habitual escape patterns (tobacco, coffee, sugar, snacking, ...)
 - With less expendable energy, becoming aware of how much your 'mask' (ie personality of being funny, helpful to others, smart and calm, etc) starts to cost, and what it means to take this off
 - Surrendering to being in the group simply as yourself (whether grumpy, tired, sad or angry)
 
-This increased vulnerability makes for a beautiful, honest and open group dyanmic with fantastic sharings
-
-### Mentally, the fast is an opportunity to:
+### Mental:
 - Learn about the functioning of your organs, related muscle groups and meridian systems
 - Understand and reflect on your habit patterns
 - Experience a deep sense of self-awareness and freedom, with renewed energy
 
-### Removing old blockages and imbalances can help recover from various issues including, for example:
+### Recover from:
 - Sleep and digestive disorders
 - Long-standing infections
 - Anxiety, indecision and depression
-- Skin conditions
-- Improved vision and reduced eye strain
+- Skin conditions and eye strain
 - Reduced intensity of autoimmune diseases
 
 What it can do really depends on what is blocked in your system.

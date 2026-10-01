@@ -13,7 +13,7 @@ redirects_from:
 On this page:
 - [Where to start?](#where-to-start)
 - [Why work through the body?](#why-work-through-the-body)
-- [What issues it can help with?](#what-issues-it-can-help-with)
+- [What issues can it help with?](#what-issues-can-it-help-with)
 - [What does a session look like?](#what-does-a-session-look-like)
 - [Pricing](#pricing)
 - [Practical Information](#practical-information)
@@ -36,7 +36,7 @@ From then on, it's up to you how to continue.
 The nervous system is our central communication channel.
 It helps us navigate the physical and social world we live in.
 
-It works to keep us safe by remembering what felt safe and what felt as a threat - that time my boundaries were not respected, I was praised or punished for being loud/quiet, dominant/submissive, openly sad/joyful/angry.
+It works to keep us safe by remembering what felt safe and what felt like a threat - that time my boundaries were not respected, I was praised or punished for being loud/quiet, dominant/submissive, openly sad/joyful/angry.
 
 As such, it also shapes our bodily reactions and personality construct - when we tense, when we relax, how secure we feel in interpersonal relations, what role we take in a group dynamic.
 And most importantly when and where we allow ourselves to let go and express core emotions of anger, sadness, joy and fear.
@@ -50,11 +50,11 @@ The same is true about a traumatic event - suffering abuse, an accident, an oper
 So, by surfacing, acknowledging and letting go of these old experiences and blockages, the nervous system is freed, unblocking your body, your mind, and you!
 
 
-One step towards a more happy, peaceful and free life :)
+One step towards a happier, more peaceful and freer life :)
 
 ---
 
-## What issues it can help with?
+## What issues can it help with?
 
 **Common Psychological Problems**
 
@@ -85,7 +85,7 @@ We start with a short conversation to explore what you want help with.
 We then move to the massage table to work with the body.
 We finish with a short conversation to integrate the experience.
 
-During treatments I use massage techniques to surface your subconscious physical tensions.
+During treatments I use massage techniques to find your subconscious physical tensions.
 This surfaces their underlying psycho-emotional causes - whether unprocessed stress, anxiety, fear, anger, sadness, ...
 
 Once surfaced, you have the opportunity to work with your breathing, mind and nervous system to let go of these old protection mechanisms. With it, you also release the restrictive thoughts, feelings and behaviour patterns associated with them.
@@ -113,8 +113,6 @@ If this is not within your means, please reach out. I have several slots per mon
 **Working Languages** - English, Dutch, Spanish and rusty French
 
 **Duration** - 1h 15min 
-
-**Location** - See [contact me](/contact)
 
 **What to Wear** - Body therapy involves touch.
 Treatments are most effective with thin and minimal clothing.
