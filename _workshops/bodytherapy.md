@@ -1,7 +1,7 @@
 ---
-title: Individual body therapy
+title: 1:1 Somatic Therapy
 subtitle: 
-description: Opening up the space for you to explore and process old struggles, beliefs and tensions.</br></br> I can accompany you in English, Dutch, Spanish, and (basic) French. In Amsterdam, Utrecht, Brussels & Gent.
+description: Therapy, but without getting lost in the usual stories. Start from the body to feel who you are, how you react, what gets in the way, and how to let go. </br></br> In English, Dutch, Spanish, and (basic) French.
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -10,20 +10,28 @@ redirects_from:
   - /treatments
 ---
 
-> Old fears, pains and angers create a constant strain on the nervous system, the body, and our freedom to be ourselves.
-
----
-
 On this page:
-- [How working through the body can help you](#how-working-through-the-body-can-help-you)
-- [What issues it can help with](#what-issues-it-can-help-with)
-- [What to expect](#what-to-expect)
+- [Where to start?](#where-to-start)
+- [Why work through the body?](#why-work-through-the-body)
+- [What issues it can help with?](#what-issues-it-can-help-with)
+- [What does a session look like?](#what-does-a-session-look-like)
 - [Pricing](#pricing)
 - [Practical Information](#practical-information)
+- [Locations](#locations)
 
 ---
 
-## How working through the body can help you
+## Where to start?
+
+Read this page, and if you have questions, are curious, or feel unsure if it's for you - give me a call. 
+
+I recommend starting with 1 session, to see if it clicks. 
+If it does, I recommend doing 3 more to get a clear sense of how I can help you.
+From then on, it's up to you how to continue.
+
+---
+
+## Why work through the body?
 
 The nervous system is our central communication channel.
 It helps us navigate the physical and social world we live in.
@@ -41,11 +49,12 @@ The same is true about a traumatic event - suffering abuse, an accident, an oper
 
 So, by surfacing, acknowledging and letting go of these old experiences and blockages, the nervous system is freed, unblocking your body, your mind, and you!
 
+
 One step towards a more happy, peaceful and free life :)
 
 ---
 
-## What issues it can help with
+## What issues it can help with?
 
 **Common Psychological Problems**
 
@@ -70,7 +79,7 @@ One step towards a more happy, peaceful and free life :)
 
 ---
 
-## What to expect 
+## What does a session look like?
 
 We start with a short conversation to explore what you want help with.
 We then move to the massage table to work with the body.
@@ -111,3 +120,14 @@ If this is not within your means, please reach out. I have several slots per mon
 Treatments are most effective with thin and minimal clothing.
 I recommend wearing non-revealing underwear and a sports bra.
 If you are not comfortable with this, it is also possible to receive a treatment with clothing.
+
+---
+
+## Locations
+
+**Amsterdam East** - Friday - Newtonstraat 4, 1098 HD (bel: Serire)  
+**Amsterdam West** - Mon-Thurs - Lijnbaansgracht 67-O   
+
+**Brussels** - Once every 4 weeks - Julien Dillensplein 1  
+**Utrecht** - Once every 6 weeks - Hooghiemstraplein 78  
+**Gent** - On request

@@ -1,7 +1,7 @@
 ---
-title: Manuvision Seminars
+title: Seminars
 subtitle:
-description: Intensive weekend courses in Amsterdam. Future dates to be announced.
+description: Intensive weekend courses in Amsterdam to explore the fundamental concepts behind somatic therapy. Future dates to be announced.
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-03 00:00:00
@@ -10,7 +10,7 @@ redirects_from:
 
 ## Manuvision Seminar Series
 
-During these weekend hands-on seminars we’ll explore some of the fundamental concepts that the Manuvision community has been researching over the past 25 years. 
+During these weekend hands-on seminars we’ll explore the fundamental concepts that the Manuvision community has been researching over the past 25 years. 
 
 Each day will include meditation, group sharing, training, and giving and receiving treatments.
 

@@ -1,27 +1,18 @@
 ---
-title: Book an intro call to see if I can help you
-subtitle: Drop me your details and let me know when I can call you back
+title: Let's chat
+subtitle: 
 description: 
 featured_image: 
 ---
 
----
+<a href="mailto:claus@threekeytherapy.com" class="button button--small">Email me</a> ~ <a href="tel:0031638700278" class="button button--small">Call me</a> ~ <a href="https://wa.me/31638700278?text=I'm%20interested%20in%20booking%20a%20body%20therapy%20session" class="button button--small">WhatsApp me</a> 
+
 
 **claus(@)threekeytherapy(.)com ~ 0031 638 700 278**
 
 ---
 
-<a href="mailto:claus@threekeytherapy.com" class="button button--small">Email me</a> - <a href="tel:0031638700278" class="button button--small">Call me</a> - <a href="https://wa.me/31638700278?text=I'm%20interested%20in%20booking%20a%20body%20therapy%20session" class="button button--small">WhatsApp me</a> 
-
----
-
-**Amsterdam East** - Friday - Newtonstraat 4, 1098 HD (bel: Serire)  
-**Amsterdam West** - Mon-Thurs - Lijnbaansgracht 67-O   
-
-**Brussels** - Once every 4 weeks - Julien Dillensplein 1  
-**Utrecht** - Once every 6 weeks - Hooghiemstraplein 78  
-
----
+### Or drop me your details and let me know when I can call you back
 
 {% include contact-form.html %}
 

@@ -1,10 +1,10 @@
 ---
-title: Fasting retreat spring 2027
+title: Fasting retreat 8-11 April 2027
 subtitle: Unique combination of fasting and bodywork developed by Manuvision
 description: When you need a reset, but can't do it alone.</br></br> A 3-day guided fast and body therapy retreat to cleanse muscles, organs, emotions and the mind. Led by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years. Near Amsterdam.
 featured_image: /images/mv-fast.jpg
 homepage_image: /images/mv-fast.jpg
-date: 2023-11-01 00:00:00
+date: 2023-11-04 00:00:00
 redirects_from:
 ---
 
@@ -89,19 +89,17 @@ During the 3-day retreat, only water (and occasional herbal tea) will be consume
 
 On the final day, we will break the fast together with a nourishing bowl of soup.
 
-<!--
 
 ### Retreat schedule
 
 - **TBC** Conference call with all participants with preparatory instructions and setting up online support groups.
-- **25 May to 3 June:** Preparatory diet 
-- **4 June:** You'll begin the water-only fast. We will gather at the venue in the afternoon/evening and settle in (you can arrive any time after 14:00).
-- **5 and 6 June:** Full, active days dedicated to physical training, stretching, and bodywork - designed to cleanse and energize each organ. There will be opportunities for nature walks, swimming, and enjoying the sauna.
-- **7 June:** Morning with active sessions, and a bowl of soup for lunch to celebrate the completion of the fast. We'll finish up and be ready to leave around 14:00.
-- **8 - 18 June:** Post-fast diet  (the hardest part!) 
+- **29 March to 7 April:** Preparatory diet 
+- **8 April:** You'll begin the water-only fast. We will gather at the venue in the afternoon/evening and settle in (you can arrive any time after 14:00).
+- **9 and 10 April:** Full, active days dedicated to physical training, stretching, and bodywork - designed to cleanse and energize each organ. There will be opportunities for nature walks, swimming, and enjoying the sauna.
+- **11 April:** Morning with active sessions, and a bowl of soup for lunch to celebrate the completion of the fast. We'll finish up and be ready to leave around 14:00.
+- **12 - 22 April:** Post-fast diet  (the hardest part!) 
 - **TBC:** Optional conference call with a space to share reflections and learnings.
 
--->
 
 ### Online support groups
 
