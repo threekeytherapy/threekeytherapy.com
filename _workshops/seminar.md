@@ -14,7 +14,7 @@ During these weekend hands-on seminars we’ll explore the fundamental concepts 
 
 Each day will include meditation, group sharing, training, and giving and receiving treatments.
 
-It’s a space to learn, connect, and grow - both as a practitioner and a person.
+The seminars are a space to learn, connect, and grow – both as a practitioner and a person.
 They are suited for people without experience as well as seasoned professionals.
 
 ## Teacher
@@ -24,11 +24,11 @@ The seminar will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-
 More about:
 * [Manuvision treatments](../bodytherapy)  
 * [The Manuvision school](../about#about-manuvision)  
-* [The 2 year education program](/workshops/education)
+* [The two-year education programme](/workshops/education)
 
 ## Location
 
-Praktijk Lijnbaansgracht, Lijnbaansgracht 67-O, 1015GV, Amsterdam
+Praktijk Lijnbaansgracht, Lijnbaansgracht 67-O, 1015 GV, Amsterdam
 
 ## Schedule
 
