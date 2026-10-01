@@ -9,15 +9,13 @@ date: 2023-11-04 00:00:00
 
 ## About Me
 
-I never planned to become a body therapist. It kinda just happened.
+I never planned to become a body therapist. I treat for two reasons. 
 
-I treat for two reasons. 
-
-Firstly, this is the method which helped me the most. Working through patterns of feeling unsafe, addictions, depressions, constant dissociation, a disorganised attachment stlye, and a serious year-long nervous breakdown, I've tried **a lot** of different things. The Manuvision treatments, trainings, and fasts simply worked better than anything else. So I feel a responsibility to pass it on. 
+Firstly, this is the method which helped me the most. Working through patterns of feeling chronically unsafe, depressions, dissociation, a disorganised attachment style, and a serious year-long nervous breakdown, I've tried **a lot** of different things. The Manuvision treatments, trainings, and fasts simply worked better than anything else. So I feel a responsibility to pass it on. 
 
 Secondly, this is one of the most honest professions I can imagine. It requires me to be completely present with you, aware and in my body, honest and vulnerable, humbly open to your experience and to mine. Each treatment is different, and I learn something new about myself each time. Only in that open and honest meeting can something happen.
 
-My other life is that of a facilitator and community manager, with 12 years of experience in helping governments become more open and collaborative. I mainly work on digital sovereignty - helping governmnents do open source. 
+My other life is that of a facilitator and community manager, with 12 years of experience in helping governments become more open and collaborative. I mainly work on digital sovereignty - helping governments do open source. 
 
 I hold a Belgian passport, grew up across Asia, and speak English, Dutch, Spanish & some French.
 

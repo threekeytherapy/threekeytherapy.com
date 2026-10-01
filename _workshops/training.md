@@ -1,7 +1,7 @@
 ---
 title: Group Practice
 subtitle: 
-description: Somatic do-it-yourself training . A mix of body therapy, karate, and yoga to release tension, emotions and learn more about your inner self.
+description: Somatic do-it-yourself training. A mix of body therapy, karate, and yoga to release tension, emotions and learn more about your inner self.
 featured_image: images/mv-training2.jpg
 homepage_image: /images/mv-training2.jpg
 date: 2023-11-02 00:00:00
