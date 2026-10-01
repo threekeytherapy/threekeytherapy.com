@@ -46,6 +46,6 @@ Mijn ervaring bij Claus was echt levensveranderend. Vanaf het begin voelde ik me
 
 ---
 
-"A friend of mine recommended I see Claus for neck pains that I have been having since a whiplash during a bicylce accident last year. He was able to address my neck much more gently than the chiropractors I tried which was very nice. What surprised me, is that we ended up working on the pain I felt as a child when my parents divorced, something I didn't even realise I carried. I am very grateful for this! Life feels lighter and I smile more." 
+"A friend of mine recommended I see Claus for neck pains that I have been having since a whiplash during a bicycle accident last year. He was able to address my neck much more gently than the chiropractors I tried which was very nice. What surprised me, is that we ended up working on the pain I felt as a child when my parents divorced, something I didn't even realise I carried. I am very grateful for this! Life feels lighter and I smile more." 
 
 – **Niels, 42, Financial Analyst**

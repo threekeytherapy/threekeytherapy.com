@@ -21,10 +21,9 @@ The program is taught by the founders of Manuvision Denmark.
 More about:
 * [The two year education program](https://manuvision.es/language/en/academics/)
 * [The Manuvision school](../about#about-manuvision)  
-* [Introductory seminar Oct '05](/workshops/seminar)
 
 ## Hybrid location
 
-The program involves two years of intensive training and work, with intensive week-long retreats in Barcelona, and meetings in Amsterdam.
+The program involves two years of training and work, with week-long retreats in Barcelona, and meetings in Amsterdam.
 
 <a href="/contact" class="button button--large">I'm interested, tell me more!</a>

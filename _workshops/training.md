@@ -9,9 +9,9 @@ redirects_from:
   - /trainings
 ---
 
-## Manuvision Training: Bringing You Back into Your Body
+## Group practice: Bringing You Back into Your Body
 
-It combines traditional karate, yoga, and reflexology with body therapy's knowledge of the how muscle tension, energy pathways and emotions are connected.
+It combines traditional karate, yoga, and reflexology with body therapy's knowledge of how muscle tension, energy pathways and emotions are connected.
 
 We work on the whole body—focusing on muscles, connective tissue, breathing, circulation, and the main joints—while improving overall strength and flexibility.
 
@@ -22,7 +22,7 @@ Training sessions usually conclude with a brief sharing circle.
 
 ---
 
-## Manuvision training as self-treatment
+## Group practice as self-treatment
 
 In a therapy treatment, you get help from the outside to work with your tensions.
 In training, you learn to do this work yourself, enabling you to maintain your body and prevent injuries.

@@ -11,7 +11,7 @@ date: 2023-11-04 00:00:00
 
 I never planned to become a body therapist. I treat for two reasons. 
 
-Firstly, this is the method which helped me the most. Working through patterns of feeling chronically unsafe, depressions, dissociation, a disorganised attachment style, and a serious year-long nervous breakdown, I've tried **a lot** of different things. The Manuvision treatments, trainings, and fasts simply worked better than anything else. So I feel a responsibility to pass it on. 
+Firstly, this is the method which helped me the most. I've tried **a lot** of different things in my joruney through patterns of feeling chronically unsafe, depressions, dissociation, a disorganised attachment style, and a serious year-long nervous breakdown. The Manuvision treatments, trainings, and fasts simply worked better than anything else. So I feel a responsibility to pass it on. 
 
 Secondly, this is one of the most honest professions I can imagine. It requires me to be completely present with you, aware and in my body, honest and vulnerable, humbly open to your experience and to mine. Each treatment is different, and I learn something new about myself each time. Only in that open and honest meeting can something happen.
 
@@ -29,9 +29,9 @@ Manuvision is a community of body therapists with over 25 years of experience in
 
 Our method is grounded in creating a space of trust and presence, where individuals can embrace vulnerability, feel seen and heard, and find the support they need to overcome their challenges.
 
-Manuvision therapists have been proven to help veterans with PTSD in a peer reviewed study[^1], regularly work with world-class athletes[^2], and support senior political and corporate leaders in becoming more effective and compassionate leaders.
+Manuvision therapists have been shown to help veterans with PTSD in a peer-reviewed study[^1], regularly work with world-class athletes[^2], and support senior political and corporate leaders in becoming more effective and compassionate leaders.
 
-Manuvision integrates a diverse range of traditions, including Chinese traditional medicine, Western physiotherapy, Jungian psychology, shadow work, breathwork, and inner child work.
+Manuvision integrates a diverse range of traditions, including traditional Chinese medicine, Western physiotherapy, Jungian psychology, shadow work, breathwork, and inner child work.
 
 Read more about [Manuvision Denmark](https://manuvision-dk.translate.goog/om-manuvision/?_x_tr_sl=da&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) and [Manuvision Barcelona](https://manuvision.es/language/en/home-english/).
 

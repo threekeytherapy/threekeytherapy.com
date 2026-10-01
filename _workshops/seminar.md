@@ -17,9 +17,6 @@ Each day will include meditation, group sharing, training, and giving and receiv
 It’s a space to learn, connect, and grow - both as a practitioner and a person.
 They are suited for people without experience as well as seasoned professionals.
 
-Seminars can be combined or done separately. 
-Additional seminars will be organised later in the year. 
-
 ## Teacher
 
 The seminar will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), founder of Manuvision Barcelona, who has been teaching since 2007.
@@ -31,7 +28,7 @@ More about:
 
 ## Location
 
-Praktijk Lijnbaansgracht Lijnbaansgracht 67-O 1015GV Amsterdam
+Praktijk Lijnbaansgracht, Lijnbaansgracht 67-O, 1015GV, Amsterdam
 
 ## Schedule
 
