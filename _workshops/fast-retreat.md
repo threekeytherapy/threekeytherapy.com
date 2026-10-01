@@ -1,7 +1,7 @@
 ---
-title: Fasting retreat 8-11 April 2027
+title: Fasting retreat 8–11 April 2027
 subtitle: Unique combination of fasting and bodywork developed by Manuvision
-description: When you need a reset, but can't do it alone.</br></br> A 3-day guided fast and body therapy retreat to cleanse muscles, organs, emotions and the mind. Led by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years.
+description: When you need a reset, but can't do it alone.<br><br> A 3-day guided fast and body therapy retreat to cleanse muscles, organs, emotions and the mind. Led by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years.
 featured_image: /images/mv-fast.jpg
 homepage_image: /images/mv-fast.jpg
 date: 2023-11-04 00:00:00
@@ -18,7 +18,7 @@ This is for you if:
 * You need a reset, but can’t do it alone  
 * You keep falling back into the same habits and patterns  
 
-A Manuvision fast combines 20 days of cleansing diet with a 3 day fasting retreat, including extensive body work, training and massage.
+A Manuvision fast combines 20 days of cleansing diet with a 3-day fasting retreat, including extensive body work, training and massage.
 
 This helps: 
 * Regulate your nervous system and slow down  
@@ -40,9 +40,9 @@ This fast aims to let every organ rest, with each day's activities focusing on c
 - Reset and regulate metabolism
 - Unlock the body's natural ability to heal and regenerate
 
-### Emotional:
+### Emotional: feel yourself
 - Without habitual escape patterns (tobacco, coffee, sugar, snacking, ...)
-- With less expendable energy, becoming aware of how much your 'mask' (ie personality of being funny, helpful to others, smart and calm, etc) starts to cost, and what it means to take this off
+- With less expendable energy, becoming aware of how much your 'mask' (i.e. personality of being funny, helpful to others, smart and calm, etc) starts to cost, and what it means to take this off
 - Surrendering to being in the group simply as yourself (whether grumpy, tired, sad or angry)
 
 ### Mental:
@@ -92,9 +92,9 @@ On the final day, we will break the fast together with a nourishing bowl of soup
 - **TBC** Conference call with all participants with preparatory instructions and setting up online support groups.
 - **29 March to 7 April:** Preparatory diet 
 - **8 April:** You'll begin the water-only fast. We will gather at the venue in the afternoon/evening and settle in (you can arrive any time after 14:00).
-- **9 and 10 April:** Full, active days dedicated to physical training, stretching, and bodywork - designed to cleanse and energize each organ. There will be opportunities for nature walks, swimming, and enjoying the sauna.
+- **9 and 10 April:** Full, active days dedicated to physical training, stretching, and bodywork – designed to cleanse and energize each organ. There will be opportunities for nature walks, swimming, and enjoying the sauna.
 - **11 April:** Morning with active sessions, and a bowl of soup for lunch to celebrate the completion of the fast. We'll finish up and be ready to leave around 14:00.
-- **12 - 22 April:** Post-fast diet  (the hardest part!) 
+- **12–21 April:** Post-fast diet (the hardest part!) 
 - **TBC:** Optional conference call with a space to share reflections and learnings.
 
 
