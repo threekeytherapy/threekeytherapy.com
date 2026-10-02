@@ -10,6 +10,8 @@ redirects_from:
   - /treatments
 ---
 
+<iframe src="https://www.youtube-nocookie.com/embed/utKMiAPHCuI" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 On this page:
 - [Where to start?](#where-to-start)
 - [Why work through the body?](#why-work-through-the-body)
