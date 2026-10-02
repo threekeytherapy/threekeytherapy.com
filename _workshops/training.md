@@ -1,7 +1,7 @@
 ---
 title: Group Practice
 subtitle: 
-description: Somatic do-it-yourself training. A mix of body therapy, karate, and yoga to release tension, emotions and learn more about your inner self.
+description: A mix of somatic therapy, karate, and yoga to release tension, emotions and learn more about your inner self.
 featured_image: images/mv-training2.jpg
 homepage_image: /images/mv-training2.jpg
 date: 2023-11-02 00:00:00
@@ -11,7 +11,7 @@ redirects_from:
 
 ## Group practice: bringing you back into your body
 
-It combines traditional karate, yoga, and reflexology with body therapy's knowledge of how muscle tension, energy pathways and emotions are connected.
+It combines traditional karate, yoga, and reflexology with somatic therapy's knowledge of how muscle tension, energy pathways and emotions are connected.
 
 We work on the whole body – focusing on muscles, connective tissue, breathing, circulation, and the main joints – while improving overall strength and flexibility.
 
@@ -33,13 +33,13 @@ This means group practice helps you:
 * train the nervous system and the ability to alternate between being calm and alert
 * confront the places where we collapse because we lack strength in muscles and joints
 
-In this way, group practice complements body therapy. It allows you to work directly with the underlying tensions behind the physical and psychological issues for which you seek treatment.
+In this way, group practice complements somatic therapy. It allows you to work directly with the underlying tensions behind the physical and psychological issues for which you seek treatment.
 
 ---
 
 ## Pricing
 
-**Regular body therapy clients**: 5 €  
+**Regular somatic therapy clients**: 5 €  
 **Single Session:** 15 € (standard) / 10 € (reduced)  
 
 ---
