@@ -1,7 +1,7 @@
 ---
 title: 1:1 Somatic Therapy
 subtitle: 
-description: Therapy, but without getting lost in the usual stories. Start from the body to feel who you are, how you react, what gets in the way, and how to let go. <br><br> In English, Dutch, Spanish, and (basic) French.
+description: Therapy, but without getting lost in the usual stories. <br><br> Start from the body to feel who you are, how you react, what gets in the way, and how to let go. 
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
@@ -134,7 +134,7 @@ I am registered with CAT. Check with your mutualiteit/health insurance if reimbu
 **Amsterdam West** - Mon-Thurs - Lijnbaansgracht 67-O   
 
 **Brussels** - Once every 4 weeks - Julien Dillensplein 1  
-**Utrecht** - Once every 6 weeks - Hooghiemstraplein 78  
+**Utrecht** - On request  
 **Gent** - On request
 
 ---
