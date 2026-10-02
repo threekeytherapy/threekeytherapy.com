@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Three Key Therapy - Somatic therapy with Claus Mullie
+  site_title: Three Key Therapy - Somatic therapy and bodywork with Claus Mullie
   favicon_image: /images/favicon-mahogony.png
 
 header_settings:
@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Work with me'
       url: '/work-with-me'
     - title: 'About me'
-      url: '/about-me'
+      url: '/about'
     - title: 'Testimonials'
       url: '/testimonials'                 
     - title: <a href="/contact" class="button button--small"><b>Book an intro call</b></a>
