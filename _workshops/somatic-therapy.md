@@ -10,15 +10,13 @@ redirects_from:
   - /treatments
 ---
 
-<iframe src="https://www.youtube-nocookie.com/embed/utKMiAPHCuI" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
 On this page:
 - [Where to start?](#where-to-start)
+- [What is body therapy?](#what-is-body-therapy)
 - [Why work through the body?](#why-work-through-the-body)
 - [What issues can it help with?](#what-issues-can-it-help-with)
 - [What does a session look like?](#what-does-a-session-look-like)
 - [Pricing](#pricing)
-- [Reimbursement](#reimbursement)
 - [Practical Information](#practical-information)
 - [Locations](#locations)
 
@@ -31,6 +29,12 @@ Read this page, and if you have questions, are curious, or feel unsure if it's f
 I recommend starting with 1 session, to see if it clicks. 
 If it does, I recommend doing 3 more to get a clear sense of how I can help you.
 From then on, it's up to you how to continue.
+
+---
+
+## What is body therapy?
+
+<iframe src="https://www.youtube-nocookie.com/embed/utKMiAPHCuI" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -114,11 +118,7 @@ If this is not within your means, please reach out. I have several slots per mon
 
 *Cancellations less than 24 hours in advance and no-shows are charged at 100%.*  
 
----
-
-## Reimbursement
-
-I am registered with CAT. Check with your mutualiteit/health insurance if reimbursement applies.
+**Reimbursement**: I am registered with CAT. Check with your mutualiteit/health insurance if reimbursement applies.
 
 ---
 
