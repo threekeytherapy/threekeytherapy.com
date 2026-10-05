@@ -22,7 +22,7 @@ They are suited for people without experience as well as seasoned professionals.
 The seminar will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), founder of Manuvision Barcelona, who has been teaching since 2007.
 
 More about:
-* [Manuvision treatments](../bodytherapy)  
+* [Manuvision treatments](/workshops/somatic-therapy)  
 * [The Manuvision school](../about#about-manuvision)  
 * [The two-year education programme](/workshops/education)
 

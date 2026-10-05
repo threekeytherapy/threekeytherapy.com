@@ -130,4 +130,4 @@ Groen van Prinstererstraat 52,1 1051EN
 
 ## How to contact the appropriate authorities
 
-Should you wish to report a complaint or if you feel that Three Key Therapy has not addressed your concern in a satisfactory manner, you may contact the Information Commissioner’s Office.
+Should you wish to report a complaint or if you feel that Three Key Therapy has not addressed your concern in a satisfactory manner, you may contact the Autoriteit Persoonsgegevens Office.
