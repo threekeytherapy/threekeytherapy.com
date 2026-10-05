@@ -5,7 +5,6 @@ description: Intensive weekend courses in Amsterdam to explore the fundamental c
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-03 00:00:00
-redirects_from:
 ---
 
 ## Manuvision Seminar Series

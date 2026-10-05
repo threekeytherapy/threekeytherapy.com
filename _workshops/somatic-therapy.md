@@ -5,9 +5,10 @@ description: Therapy, but without getting lost in the usual stories. <br><br> St
 featured_image: /images/treatment2.jpg
 homepage_image: /images/treatment2.jpg
 date: 2023-11-01 00:00:00
-redirects_from:
+redirect_from:
   - /_pages/treatments
   - /treatments
+  - /bodytherapy
 ---
 
 On this page:
@@ -68,7 +69,7 @@ One step towards a happier, more peaceful and freer life :)
 * Birth, childhood and intergenerational trauma
 * Stress, anxiety, panic attacks and burnout
 * Depression, grief and PTSD (post-traumatic stress disorder)
-* Eating, metabolic and sleep disorders
+* Eating, metabolic and sleep difficulties
 
 **General Personal Development**
 

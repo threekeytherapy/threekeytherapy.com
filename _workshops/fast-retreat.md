@@ -5,7 +5,6 @@ description: When you need a reset, but can't do it alone.<br><br> A 3-day guide
 featured_image: /images/mv-fast.jpg
 homepage_image: /images/mv-fast.jpg
 date: 2023-11-04 00:00:00
-redirects_from:
 ---
 
 > It takes 3 days until the last thing you consumed leaves your body. Without a longer fast, your organs do not **ever** get the chance to fully rest.
@@ -34,11 +33,11 @@ The fast will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/
 This fast aims to let every organ rest, with each day's activities focusing on caring for the organs that reach rest on that particular day.
 
 ### Physical:
-- Improve circulation
-- Sharpen the senses
-- Detoxify organs, flush out years of built-up waste
-- Reset and regulate metabolism
-- Unlock the body's natural ability to heal and regenerate
+- Support circulation
+- Heightened sensory awareness
+- Give your digestive system an extended rest
+- Support healthy metabolic regulation
+- Support the body's natural recovery processes
 
 ### Emotional: feel yourself
 - Without habitual escape patterns (tobacco, coffee, sugar, snacking, ...)
@@ -50,14 +49,12 @@ This fast aims to let every organ rest, with each day's activities focusing on c
 - Understand and reflect on your habit patterns
 - Experience a deep sense of self-awareness and freedom, with renewed energy
 
-### Recover from:
-- Sleep and digestive disorders
-- Long-standing infections
-- Anxiety, indecision and depression
-- Skin conditions and eye strain
-- Reduced intensity of autoimmune diseases
-
-What it can do really depends on what is blocked in your system.
+### May support people dealing with:
+- Sleep and digestive complaints
+- Anxiety, indecision and low mood
+- Skin complaints and eye strain
+ 
+Experiences differ from person to person. What it can do depends on what is blocked in your system.
 
 ---
 
