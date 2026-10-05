@@ -11,9 +11,15 @@ redirect_from:
   - /bodytherapy
 ---
 
+## What is body therapy?
+
+<iframe src="https://www.youtube-nocookie.com/embed/utKMiAPHCuI" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+---
+
 On this page:
-- [Where to start?](#where-to-start)
 - [What is body therapy?](#what-is-body-therapy)
+- [Where to start?](#where-to-start)
 - [Why work through the body?](#why-work-through-the-body)
 - [What issues can it help with?](#what-issues-can-it-help-with)
 - [What does a session look like?](#what-does-a-session-look-like)
@@ -30,12 +36,6 @@ Read this page, and if you have questions, are curious, or feel unsure if it's f
 I recommend starting with 1 session, to see if it clicks. 
 If it does, I recommend doing 3 more to get a clear sense of how I can help you.
 From then on, it's up to you how to continue.
-
----
-
-## What is body therapy?
-
-<iframe src="https://www.youtube-nocookie.com/embed/utKMiAPHCuI" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
 
