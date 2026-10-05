@@ -5,7 +5,6 @@ description: Intensive weekend courses in Amsterdam to explore the fundamental c
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-03 00:00:00
-redirects_from:
 ---
 
 ## Manuvision Seminar Series
@@ -22,7 +21,7 @@ They are suited for people without experience as well as seasoned professionals.
 The seminar will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), founder of Manuvision Barcelona, who has been teaching since 2007.
 
 More about:
-* [Manuvision treatments](../bodytherapy)  
+* [Manuvision treatments](/workshops/somatic-therapy)  
 * [The Manuvision school](../about#about-manuvision)  
 * [The two-year education programme](/workshops/education)
 

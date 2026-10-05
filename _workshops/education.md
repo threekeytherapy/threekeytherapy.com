@@ -5,7 +5,6 @@ description: Intensive 2-year programme with over 1000 hours of training and the
 featured_image: /images/education.jpg
 homepage_image: /images/education.jpg
 date: 2023-11-05 00:00:00
-redirects_from:
 ---
 
 ## A career path and opportunity for personal discovery
