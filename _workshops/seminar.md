@@ -16,7 +16,7 @@ Each day typically includes meditation, group sharing, training, and giving and 
 The seminars are a space to learn, connect, and grow – both as a practitioner and a person.
 They are suited for people without experience as well as seasoned professionals.
 
-```
+<!--
 ## Teacher
 
 The seminar will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), founder of Manuvision Barcelona, who has been teaching since 2007.
@@ -25,7 +25,7 @@ More about:
 * [Manuvision treatments](/workshops/somatic-therapy)  
 * [The Manuvision school](../about#about-manuvision)  
 * [The two-year education programme](/workshops/education)
-```
+-->
 
 ## Location
 
@@ -38,10 +38,10 @@ Praktijk Lijnbaansgracht, Lijnbaansgracht 67-O, 1015 GV, Amsterdam
 Topic: Breathing, emotions, and navigating reflexology and meridians
 Teacher: Claus Mullie
 
-```
+<!--
 ## Pricing
 
 **Standard:** 280 €  
 **Reduced:** 200-240 € (for people with low & no income)  
 **Business Invoice:** 320 €  
-```
+-->
