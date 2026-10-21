@@ -1,7 +1,7 @@
 ---
 title: Seminars
 subtitle:
-description: Courses in Amsterdam to explore the fundamental concepts behind somatic therapy. Next up: 19/12
+description: Courses in Amsterdam to explore the fundamental concepts behind somatic therapy. Next up 19/12
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-03 00:00:00
