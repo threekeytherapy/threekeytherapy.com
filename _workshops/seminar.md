@@ -36,6 +36,7 @@ Praktijk Lijnbaansgracht, Lijnbaansgracht 67-O, 1015 GV, Amsterdam
 19/12 10:00 - 17:00 
 
 Topic: Breathing, emotions, and navigating reflexology and meridians
+
 Teacher: Claus Mullie
 
 <!--
