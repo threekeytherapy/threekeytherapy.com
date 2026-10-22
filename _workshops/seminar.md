@@ -1,7 +1,7 @@
 ---
 title: Seminars
 subtitle:
-description: Courses in Amsterdam to explore the fundamental concepts behind somatic therapy. Next up 19/12
+description: Courses in Amsterdam to explore the fundamental concepts behind somatic therapy. <br><br> Next up 19 Dec - Breathing, Emotions, and Reflexology.
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-03 00:00:00
@@ -33,11 +33,23 @@ Praktijk Lijnbaansgracht, Lijnbaansgracht 67-O, 1015 GV, Amsterdam
 
 ## Schedule
 
-19/12 10:00 - 17:00 
+**Breathing, Emotions, and Reflexology (19 Dec 10:00 - 17:00)**
 
-Topic: Breathing, emotions, and navigating reflexology and meridians
+How can breathing serve as a map and doorway into emotions?  
+How can we navigate a body's tensions by reading the feet and neck?  
 
-Teacher: Claus Mullie
+We will first explore how subconscious changes in the breath can help us connect to our emotional states, and that of others.
+Particular focus will be on emotions that are held back.
+We will then explore how encouraging certain breath patterns can help open up or release blocked emotions.
+To close, we will briefly investigate reflexology through the feet and neck.
+
+Teacher: The seminar will be led by Claus Mullie, who has been treating since 2021.
+
+## Pricing
+
+This seminar will be donation based. 
+
+Suggested donation based on income: 55 / 75 / 100 / Other
 
 <!--
 ## Pricing
