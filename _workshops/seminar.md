@@ -4,7 +4,7 @@ subtitle:
 description: Courses in Amsterdam to explore the fundamental concepts behind somatic therapy. <br><br> Next up 19&20 Dec - Pulsation, Breath, and Emotions.
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
-date: 2023-11-03 00:00:00
+date: 2023-11-02 00:00:00
 ---
 
 ## Manuvision Seminars

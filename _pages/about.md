@@ -9,13 +9,13 @@ date: 2023-11-04 00:00:00
 
 ## About Me
 
-I've been working as a therapist since 2022, and started teaching in 2026.
+Certified as a Manuvision somatic therapist and trainer (Barcelona–Copenhagen 2023), Shock and Trauma Therapy at Manuvision Copenhagen (2024–25), and teaching on the Manuvision education in Amsterdam since 2026.
 
-I never planned to become a body therapist. I treat for two reasons. 
+I never planned to become a somatic therapist. I treat for two reasons. 
 
 Firstly, this is the method that helped me the most. I've tried **a lot** of different things in my journey through patterns of feeling chronically unsafe, depression, dissociation, a disorganised attachment style, and a serious year-long nervous breakdown. The Manuvision treatments, trainings, and fasts simply worked better than anything else. So I feel a responsibility to pass it on. 
 
-Secondly, this is one of the most honest professions I can imagine. It requires me to be completely present with you, aware and in my body, honest and vulnerable, humbly open to your experience and to mine. Each treatment is different, and I learn something new about myself each time. Only in that open and honest meeting can something happen.
+Secondly, this is one of the most honest professions I can imagine. It requires me to be completely present with you, aware and in my body, honest and vulnerable, humbly open to your experience and to mine.
 
 My other life is that of a facilitator and community manager, with 12 years of experience in helping governments become more open and collaborative. 
 

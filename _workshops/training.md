@@ -4,7 +4,7 @@ subtitle:
 description: A mix of somatic therapy, karate, and yoga to release tension, emotions and learn more about your inner self.
 featured_image: /images/mv-training2.jpg
 homepage_image: /images/mv-training2.jpg
-date: 2023-11-02 00:00:00
+date: 2023-11-03 00:00:00
 redirects_from:
   - /trainings
 ---
