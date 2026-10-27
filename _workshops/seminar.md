@@ -1,7 +1,7 @@
 ---
 title: Seminars
 subtitle:
-description: Courses in Amsterdam to explore the fundamental concepts behind somatic therapy. Next up 19/12
+description: Courses in Amsterdam to explore the fundamental concepts behind somatic therapy. <br><br> Next up 19&20 Dec - Pulsation, Breath, and Emotions.
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-03 00:00:00
@@ -33,11 +33,22 @@ Praktijk Lijnbaansgracht, Lijnbaansgracht 67-O, 1015 GV, Amsterdam
 
 ## Schedule
 
-19/12 10:00 - 17:00 
+**19&20 December 2026: Pulsation, Breath, and Emotions (10:00 - 17:00)**
 
-Topic: Breathing, emotions, and navigating reflexology and meridians
+In this 2-day hands-on seminar, we’ll explore some of the basic Manuvision techniques; pulsation, opening the breath, and releasing tension in the body.
 
-Teacher: Claus Mullie
+The focus is on helping clients become aware of their defense patterns (fight, flight, freeze, fawn, etc.) and connect with the underlying emotions.
+We’ll explore shifts between the sympathetic and parasympathetic nervous system, and the role of the vagus nerve.
+
+It is possible to join only 1 of the 2 days.
+
+Teacher: The seminar will be led by Claus Mullie, who has been treating since 2021.
+
+## Pricing
+
+This seminar will be donation based. 
+
+Suggested donation per day based on income: 55 / 75 / 100 / Other
 
 <!--
 ## Pricing
@@ -45,4 +56,14 @@ Teacher: Claus Mullie
 **Standard:** 280 €  
 **Reduced:** 200-240 € (for people with low & no income)  
 **Business Invoice:** 320 €  
+
+
+How can breathing serve as a map and doorway into emotions?  
+How can we navigate a body's tensions by reading the feet and neck?  
+
+We will first explore how subconscious changes in the breath can help us connect to our emotional states, and that of others.
+Particular focus will be on emotions that are held back.
+We will then explore how encouraging certain breath patterns can help open up or release blocked emotions.
+To close, we will briefly investigate reflexology through the feet and neck.
+
 -->
