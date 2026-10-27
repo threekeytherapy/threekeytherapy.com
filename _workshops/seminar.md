@@ -1,7 +1,7 @@
 ---
 title: Seminars
 subtitle:
-description: Courses in Amsterdam to explore the fundamental concepts behind somatic therapy. <br><br> Next up 19&20 Dec - Breathing, Emotions, and Reflexology.
+description: Courses in Amsterdam to explore the fundamental concepts behind somatic therapy. <br><br> Next up 19&20 Dec - Pulsation, Breath, and Emotions.
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-03 00:00:00
@@ -33,7 +33,7 @@ Praktijk Lijnbaansgracht, Lijnbaansgracht 67-O, 1015 GV, Amsterdam
 
 ## Schedule
 
-**19&20 December 2026: Breathing, Emotions, and Reflexology (10:00 - 17:00)**
+**19&20 December 2026: Pulsation, Breath, and Emotions (10:00 - 17:00)**
 
 In this 2-day hands-on seminar, we’ll explore some of the basic Manuvision techniques; pulsation, opening the breath, and releasing tension in the body.
 
