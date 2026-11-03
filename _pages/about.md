@@ -9,19 +9,21 @@ date: 2023-11-04 00:00:00
 
 ## About Me
 
-Certified as a Manuvision somatic therapist and trainer (Barcelona–Copenhagen 2023), Shock and Trauma Therapy at Manuvision Copenhagen (2024–25), and teaching on the Manuvision education in Amsterdam since 2026.
+I came to this work as a client. I have been receiving Manuvision treatments and training since 2016, and started practising as a therapist in 2022.
 
-I never planned to become a somatic therapist. I treat for two reasons. 
+I went into my first Manuvision treatment expecting a massage, and was completely blown away.
 
-Firstly, this is the method that helped me the most. I've tried **a lot** of different things in my journey through patterns of feeling chronically unsafe, depression, dissociation, a disorganised attachment style, and a serious year-long nervous breakdown. The Manuvision treatments, trainings, and fasts simply worked better than anything else. So I feel a responsibility to pass it on. 
+While different forms of talking therapy helped me **understand** my issues and patterns, I felt Manuvision bypassed my brain and actually **changed** something at my core.
 
-Secondly, this is one of the most honest professions I can imagine. It requires me to be completely present with you, aware and in my body, honest and vulnerable, humbly open to your experience and to mine.
+It helped change how I relate to my body, my emotions and my patterns. It has helped me work through chronic feelings of unsafety, depression, dissociation, a disorganised attachment style, and a serious year-long nervous breakdown.
 
-My other life is that of a facilitator and community manager, with 12 years of experience in helping governments become more open and collaborative. 
+Feeling a responsibility to pass this work on, I studied to become a Manuvision therapist. I aim to create a space of trust and presence where you can embrace vulnerability, feel seen and heard, and find the support you need to work through your challenges.
 
-I hold a Belgian passport, grew up across Asia, and speak English, Dutch, Spanish & some French.
+I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow work, dance improvisation, and an openness to 'knowledge of self' in whatever form it comes.
 
-I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow work, dance improvisation, and being open to 'knowledge of self' in whatever form it comes. 
+My other life is that of a facilitator and community manager, with 12 years of experience helping governments become more open and collaborative. I hold a Belgian passport, grew up across Asia, and speak English, Dutch, Spanish and some French.
+
+I am certified as a Manuvision somatic therapist and trainer (Barcelona–Copenhagen, 2023), completed Shock and Trauma Therapy at Manuvision Copenhagen (2024–25), and have been teaching on the Manuvision education programme in Amsterdam since 2026.
 
 ---
 
@@ -31,7 +33,7 @@ Manuvision is a community of body therapists with over 25 years of experience in
 
 The method is grounded in creating a space of trust and presence, where individuals can embrace vulnerability, feel seen and heard, and find the support they need to overcome their challenges.
 
-Manuvision therapists have been shown to help veterans with PTSD in a peer-reviewed study[^1], regularly work with world-class athletes[^2], and support senior political and corporate leaders in becoming more effective and compassionate leaders.
+Manuvision therapists have been subject of a peer-reviewed study with veterans with PTSD[^1], regularly work with world-class athletes[^2], and support senior political and corporate leaders in becoming more effective and compassionate leaders.
 
 Manuvision integrates a diverse range of traditions, including traditional Chinese medicine, Western physiotherapy, Jungian psychology, shadow work, breathwork, and inner child work.
 

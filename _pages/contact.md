@@ -1,18 +1,15 @@
 ---
 title: Let's chat
-subtitle: All questions, doubts and insecurities are welcome
-description: 
+subtitle: All questions, doubts and insecurities are welcome.<br>An intro call is a short conversation.<br>You tell me what's going on, I tell you how I work,<br>and we decide together whether it feels right and a first session makes sense.<br><br> <a href="https://calendar.proton.me/bookings#Eirk1L2RwkdAsZgTsTOq_dVfUVLZol5Thl38ZHSSYQ8=" class="button button--small">Schedule a 15min video call with me</a>
+description: Book an intro call or get in touch for somatic therapy in Amsterdam, Brussels and Gent
 featured_image: 
 ---
 
-<a href="mailto:claus@threekeytherapy.com" class="button button--small">Email me</a> ~ <a href="tel:0031638700278" class="button button--small">Call me</a> ~ <a href="https://wa.me/31638700278?text=I'm%20interested%20in%20booking%20a%20body%20therapy%20session" class="button button--small">WhatsApp me</a> 
+<a href="mailto:claus@threekeytherapy.com" class="button button--small">Email me</a> ~ **claus(@)threekeytherapy(.)com**
 
+**<a href="tel:0031638700278" class="button button--small">Call me</a> ~ <a href="https://wa.me/31638700278?text=I'm%20interested%20in%20booking%20a%20body%20therapy%20session" class="button button--small">WhatsApp me</a> ~ 0031 638 700 278**
 
-**claus(@)threekeytherapy(.)com ~ 0031 638 700 278**
-
----
-
-### Or drop me your details and let me know when I can call you back
+#### Or drop me your details and let me know when I can call you back
 
 {% include contact-form.html %}
 
