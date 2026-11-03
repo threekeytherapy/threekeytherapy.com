@@ -27,6 +27,8 @@ I am deeply inspired by Sufi and Buddhist traditions, lucid dreaming, shadow wor
 
 I am certified as a Manuvision somatic therapist and trainer (Barcelona–Copenhagen, 2023), completed Shock and Trauma Therapy at Manuvision Copenhagen (2024–25), and have been teaching on the Manuvision education programme in Amsterdam since 2026.
 
+For more see https://www.linkedin.com/in/clausmullie/
+
 ---
 
 ## About Manuvision

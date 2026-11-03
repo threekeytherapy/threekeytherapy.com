@@ -1,7 +1,7 @@
 ---
 title: 1:1 Somatic Therapy
 subtitle: 
-description: Therapy, but without getting lost in the usual stories. <br><br> Start from the body to feel who you are, how you react, what gets in the way, and how to let go. 
+description: Therapy, but without getting lost in stories. <br><br> Start from the body to feel who you are, how you react, what gets in the way, and how to let go. 
 featured_image: /images/IMG_1942.jpg
 homepage_image: /images/IMG_1942.jpg
 date: 2023-11-01 00:00:00
@@ -56,27 +56,28 @@ A constant tension in the stomach or jaw, a constant worry about how others perc
 
 The same is true about a traumatic event – suffering abuse, an accident, an operation, a divorce or a burn out.
 
-So, by surfacing, acknowledging and letting go of these old experiences and blockages, the nervous system is freed, unblocking your body, your mind, and you.
+Somatic therapy works with these patterns directly.
+By noticing and gradually releasing old tension and protective reactions, many people find they breathe more freely, feel more settled, and have more room to choose how they respond.
 
 ---
 
 ## What do people come to me with?
 
-**Common Psychological Problems**
+**Psychological Problems**
 
 * Birth, childhood and intergenerational trauma
 * Stress, anxiety, panic attacks and burnout
 * Depression, grief and PTSD (post-traumatic stress disorder)
 * Eating, metabolic and sleep difficulties
 
-**General Personal Development**
+**Personal Development**
 
 * Body awareness and grounding
 * Building confidence and speaking up
 * Setting boundaries and saying no
 * Coming closer to yourself to live the life that you want to live
 
-**Common Physical Problems**
+**Physical Problems**
 
 * Tension headaches and migraines
 * Pregnancy and postpartum complications
@@ -91,17 +92,13 @@ We start with a short conversation to explore what you want help with.
 We then move to the massage table to work with the body.
 We finish with a short conversation to integrate the experience.
 
-During treatments I use massage techniques to find your subconscious physical tensions.
-This surfaces their underlying psycho-emotional causes – whether unprocessed stress, anxiety, fear, anger, sadness, ...
+During treatments I use massage techniques to find areas of held tension in the body. These areas often connect to stress, fear, anger or sadness that hasn't had room to be expressed.
 
-Once surfaced, you have the opportunity to work with your breathing, mind and nervous system to let go of these old protection mechanisms. With it, you also release the restrictive thoughts, feelings and behaviour patterns associated with them.
+Once we notice them, you have the opportunity to work with your breathing, your mind and your nervous system to let the tension go. For many people, this also loosens thoughts, feelings and habits that were tied to it.
 
-Treatments will help you feel relaxed and present in your body, with a clearer mind, and more able to fully enjoy life and navigate change.
+Most people leave feeling relaxed and more present in their body, with a clearer mind.
 
-**What to Wear** - It is possible to receive a treatment with full clothing.
-Somatic therapy does usually include touch.
-It is easiest with thin and minimal clothing, for example non-revealing underwear/shorts and a sports bra.
-It is up to you what you feel most comfortable with. 
+**What to Wear** - Treatments include touch. Many people prefer thin, minimal clothing (for example non-revealing underwear or shorts and a sports bra) because it allows more direct contact, but you can receive a treatment fully clothed. It is entirely up to you.
 
 ---
 

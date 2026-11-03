@@ -11,6 +11,8 @@ menu_settings:
     - title: 'Work with me'
       url: '/work-with-me'
     - title: 'About me'
+      url: '/for-companies'
+    - title: 'For Companies'
       url: '/about'
     - title: 'Testimonials'
       url: '/testimonials'                 
