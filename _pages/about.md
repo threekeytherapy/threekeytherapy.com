@@ -13,7 +13,7 @@ I came to this work as a client. I have been receiving Manuvision treatments and
 
 I went into my first Manuvision treatment expecting a massage, and was completely blown away.
 
-While different forms of talking therapy helped me understand my issues and patterns, I felt Manuvision bypassed my brain and actually changed something at my core.
+While different forms of talking therapy helped me **understand** my issues and patterns, I felt Manuvision bypassed my brain and actually **changed** something at my core.
 
 It helped change how I relate to my body, my emotions and my patterns. It has helped me work through chronic feelings of unsafety, depression, dissociation, a disorganised attachment style, and a serious year-long nervous breakdown.
 
