@@ -2,8 +2,8 @@
 title: For companies
 subtitle: 
 description: Body-based burnout recovery and personal leadership support for employees and managers. Confidential, practical, led by a former public-sector team lead turned somatic therapist.
-featured_image: /images/.jpg
-homepage_image: /images/.jpg
+featured_image: /images/clausportrait3_cut.jpg
+homepage_image: /images/clausportrait3_cut.jpg
 date: 2023-11-01 00:00:00
 meta-description: 
 ---
