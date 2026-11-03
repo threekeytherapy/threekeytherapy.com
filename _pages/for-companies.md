@@ -1,36 +1,37 @@
 ---
-title: For companies
-subtitle: 
-description: Body-based burnout recovery and personal leadership support for employees and managers. Confidential, practical, led by a former public-sector team lead turned somatic therapist.
-featured_image: /images/clausportrait3_cut.jpg
-homepage_image: /images/clausportrait3_cut.jpg
+title: Support for people at work
+subtitle: <b><br>Body-based burnout recovery and personal leadership support for employees and managers.<br><br>Confidential, practical, led by a former public-sector team lead turned somatic therapist.</b>
+description: 
+featured_image: 
+homepage_image: 
 date: 2023-11-01 00:00:00
 meta-description: 
 ---
 
-# Support for people at work
+> Sustainable and long term reintegration is not possible without addressing the underlying patterns that lead to a burnout
 
-**Stress that sits in the body doesn't resolve with another productivity tip.**
+Before becoming a somatic therapist I spent 10 years in public-sector open source technology, coordinating large scale collaborations, managing technical teams and working with executive teams and board members. I know what conflicting strategic goals, internal power struggles, and financial responsibility for others feel like from the inside.
 
-I work with employees who are running on empty, and with managers who carry other people's stress on top of their own.
+I also know from my own experience of a 6 month burn out during a leadership role that a body in survival mode needs more than just rest. And that without addressing the underlying patterns which lead to the burnout - people pleasing, a dificulty setting boundaries, perfectionism - sustainble long term reintreation is not possible.
+
+Today I support employees who are running on empty, and with managers who carry other people's stress on top of their own.
 
 Both tracks start from the body: how you react under pressure, where you hold tension, and what your nervous system is telling you before your calendar does.
 
-I'm Claus. Before becoming a somatic therapist I spent 10 years in public-sector open source technology, coordinating large scale collaborations, managing technical teams and working closely with engineers. I know what deadlines, politics and responsibility for others feel like from the inside.
+---
 
 On this page:
 
-- [Support for people at work](#support-for-people-at-work)
-  - [Track 1: Burnout recovery](#track-1-burnout-recovery)
-    - [Phase 0: Intake (1 session)](#phase-0-intake-1-session)
-    - [Phase 1: Out of survival mode (3 sessions)](#phase-1-out-of-survival-mode-3-sessions)
-    - [Phase 2: Boundaries, self-regulation and body signals (3 to 5 sessions)](#phase-2-boundaries-self-regulation-and-body-signals-3-to-5-sessions)
-  - [Track 2: Personal leadership at work](#track-2-personal-leadership-at-work)
-  - [How it works for your organisation](#how-it-works-for-your-organisation)
-  - [Confidentiality](#confidentiality)
-  - [Who this is not for](#who-this-is-not-for)
-  - [Why me](#why-me)
-  - [Questions](#questions)
+- [Track 1: Burnout recovery](#track-1-burnout-recovery)
+  - [Phase 0: Intake (1 session)](#phase-0-intake-1-session)
+  - [Phase 1: Out of survival mode (3 sessions)](#phase-1-out-of-survival-mode-3-sessions)
+  - [Phase 2: Boundaries, self-regulation and body signals (3 to 5 sessions)](#phase-2-boundaries-self-regulation-and-body-signals-3-to-5-sessions)
+- [Track 2: Personal leadership at work](#track-2-personal-leadership-at-work)
+- [How it works for your organisation](#how-it-works-for-your-organisation)
+- [Confidentiality](#confidentiality)
+- [Who this is not for](#who-this-is-not-for)
+- [Why me](#why-me)
+- [Questions](#questions)
 
 ---
 
@@ -77,7 +78,7 @@ I've been on both sides of this: leading teams in a complex public-sector enviro
 
 ## How it works for your organisation
 
-1. **Scoping call (free, 30 minutes).** We discuss what your people need, which track fits, and how to offer it.
+1. **Scoping call.** We discuss what your people need, which track fits, and how to offer it. Free.
 2. **Agreement.** Fixed price per programme or per session, invoiced to the company. Terms are in writing.
 3. **Sessions.** Employees book directly with me. They choose the location and time that suits them.
 4. **Optional check-in.** If the employee agrees, I can share a short, content-free note: attendance and whether the programme was completed.
@@ -118,19 +119,24 @@ I recommend a GP or psychologist first, or alongside, for anyone experiencing se
 
 ## Questions
 
-**How is this different from coaching or a standard burnout programme?**
+**How is this different from coaching or a standard burnout programme?**  
+
 Coaching and talk therapy work mostly through conversation. I work through the body and nervous system, and use conversation alongside. Many people who have already tried talking about their stress find this the missing piece.
 
-**Does it involve touch?**
+**Does it involve touch?**  
+
 Yes, most sessions include massage-style bodywork on a treatment table. Clothing can be kept on, and each person decides what they are comfortable with. Employees are never required to take part in anything they don't want to.
 
-**Can it replace a company's occupational health or reintegration process?**
+**Can it replace a company's occupational health or reintegration process?**  
+
 No. It runs alongside it.
 
-**Can you work with a whole team?**
+**Can you work with a whole team?**  
+
 Yes. Ask about team sessions in the scoping call.
 
-**What does a typical programme cost?**
+**What does a typical programme cost?**  
+
 See rates above. For a full burnout programme of 7 to 9 sessions, a package price is available on request.
 
 [**Request a scoping call**](mailto:claus@threekeytherapy.com?subject=Company%20enquiry)
