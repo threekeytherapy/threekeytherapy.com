@@ -18,7 +18,7 @@ Throughout the programme, students will learn to detect the body's signals, unde
 The programme is taught by the founders of Manuvision Denmark.
 
 More about:
-* [The two-year education programme](https://manuvision.es/language/en/academics/)
+* [The two-year education programme](https://manuvision.es)
 * [The Manuvision school](../about#about-manuvision)  
 
 ## Hybrid location
