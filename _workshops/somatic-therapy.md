@@ -2,8 +2,8 @@
 title: 1:1 Somatic Therapy
 subtitle: 
 description: Therapy, but without getting lost in the usual stories. <br><br> Start from the body to feel who you are, how you react, what gets in the way, and how to let go. 
-featured_image: /images/treatment2.jpg
-homepage_image: /images/treatment2.jpg
+featured_image: /images/IMG_1942.jpg
+homepage_image: /images/IMG_1942.jpg
 date: 2023-11-01 00:00:00
 redirect_from:
   - /_pages/treatments
