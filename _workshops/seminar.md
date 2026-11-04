@@ -38,17 +38,17 @@ Praktijk Lijnbaansgracht, Lijnbaansgracht 67-O, 1015 GV, Amsterdam
 In this 2-day hands-on seminar, we’ll explore some of the basic Manuvision techniques; pulsation, opening the breath, and releasing tension in the body.
 
 The focus is on helping clients become aware of their defense patterns (fight, flight, freeze, fawn, etc.) and connect with the underlying emotions.
-We’ll explore shifts between the sympathetic and parasympathetic nervous system, and the role of the vagus nerve.
 
-It is possible to join only 1 of the 2 days.
+We’ll explore shifts between the sympathetic and parasympathetic nervous system, and the role of the vagus nerve.
 
 Teacher: The seminar will be led by Claus Mullie, who has been treating since 2021.
 
 ## Pricing
 
-This seminar will be donation based. 
+This seminar will be income based: 
 
-Suggested donation per day based on income: 55 / 75 / 100 / Other
+110 / 150 / 200 euros
+
 
 <!--
 ## Pricing
