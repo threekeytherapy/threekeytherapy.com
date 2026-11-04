@@ -7,15 +7,19 @@ homepage_image:
 date: 2023-11-01 00:00:00
 ---
 
-> Sustainable and long term reintegration is not possible without addressing the underlying patterns that lead to a burnout
+> Sustainable and long term reintegration requires addressing the underlying patterns that lead to a burnout
 
-Before becoming a somatic therapist I spent 10 years in public-sector open source technology, coordinating large scale collaborations, managing technical teams and working with executive teams and board members. I know what conflicting strategic goals, internal power struggles, and financial responsibility for others feel like from the inside.
+I know that a body in survival mode needs more than just rest.
 
-I also know from my own experience of a 6 month burn out during a leadership role that a body in survival mode needs more than just rest. And that without addressing the underlying patterns which lead to the burnout - people pleasing, a dificulty setting boundaries, perfectionism - sustainble long term reintreation is not possible.
+And that addressing the underlying patterns which lead to the burnout - people pleasing, a dificulty setting boundaries, perfectionism - is essential for sustainble long term reintreation.
+
+I know this from my own experience of a 6 month burn out during a leadership role in tech, navigating power struggles, restructuring and financial responsibility for colleagues in a remote-first environment. 
 
 Today I support employees who are running on empty, and with managers who carry other people's stress on top of their own.
 
 Both tracks start from the body: how you react under pressure, where you hold tension, and what your nervous system is telling you before your calendar does.
+
+I bring 12 years in the public-sector open source world, coordinating large scale collaborations, managing technical teams and working with executive teams and board members, as well as 4 years of experience working as a somatic therapist.
 
 ---
 

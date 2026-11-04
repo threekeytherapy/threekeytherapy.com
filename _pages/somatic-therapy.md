@@ -33,7 +33,7 @@ On this page:
 
 **1) Intro call:** A short conversation about what's going on and whether this feels right. All questions and doubts welcome.
 
-**2) One session:** Bodywork on the massage table. See if it clicks and get a sense of how I can help.
+**2) First session:** Bodywork on the massage table. See if it clicks and get a sense of how I can help.
 
 **3) Three more sessions:** This is what most people need to work through something. From then on, it's up to you.
 
