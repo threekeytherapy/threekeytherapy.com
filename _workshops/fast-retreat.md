@@ -4,33 +4,30 @@ subtitle: Unique combination of fasting and bodywork developed by Manuvision
 description: When you need a reset, but can't do it alone.<br><br> A 3-day guided fast and somatic therapy retreat to cleanse muscles, organs, emotions and the mind. Led by Steffen Lundgaard, who has been facilitating fast retreats for over 15 years.
 featured_image: /images/mv-fast.jpg
 homepage_image: /images/mv-fast.jpg
-date: 2023-11-04 00:00:00
+date: 2023-11-02 00:00:00
 ---
-
-> It takes 3 days until the last thing you consumed leaves your body. Without a longer fast, your organs do not **ever** get the chance to fully rest.
 
 ## A deep reset for both your body and mind
 
 This is for you if:
-* You feel constantly “on” and can’t switch off  
-* You struggle with chronic physical issues  
-* You need a reset, but can’t do it alone  
-* You keep falling back into the same habits and patterns  
+- You feel constantly “on” and can’t switch off  
+- You want a structured, supported break from your habits
+- You'd like to explore the link between your body, your routines and your emotions
+- You want to do this with a group and an experienced guide, not alone
 
 A Manuvision fast combines 20 days of cleansing diet with a 3-day fasting retreat, including extensive body work, training and massage.
 
-This helps: 
-* Regulate your nervous system and slow down  
-* Interrupt habits that don’t serve you  
-* Support digestion, metabolism, and sleep  
+Participants often report:
+
+- Feeling calmer and more rested
+- More awareness of their habits and what drives them
+- A clearer sense of what their body needs
 
 The fast will be led by [Steffen Lundgaard](https://manuvision.es/en/steffen-en/), who has been facilitating fast retreats for over 15 years.
 
 ---
 
 ## An opportunity to work on mind, body and emotions
-
-This fast aims to let every organ rest, with each day's activities focusing on caring for the organs that reach rest on that particular day.
 
 ### Physical:
 - Support circulation
@@ -49,12 +46,9 @@ This fast aims to let every organ rest, with each day's activities focusing on c
 - Understand and reflect on your habit patterns
 - Experience a deep sense of self-awareness and freedom, with renewed energy
 
-### May support people dealing with:
-- Sleep and digestive complaints
-- Anxiety, indecision and low mood
-- Skin complaints and eye strain
- 
-Experiences differ from person to person. What it can do depends on what is blocked in your system.
+## Health and suitability
+
+A water-only fast is not suitable for everyone. If you have any health condition, tell us before the retreat and consult your doctor.
 
 ---
 
@@ -83,7 +77,6 @@ During the 3-day retreat, only water (and occasional herbal tea) will be consume
 
 On the final day, we will break the fast together with a nourishing bowl of soup.
 
-
 ### Retreat schedule
 
 - **TBC** Conference call with all participants with preparatory instructions and setting up online support groups.
@@ -91,9 +84,8 @@ On the final day, we will break the fast together with a nourishing bowl of soup
 - **8 April:** You'll begin the water-only fast. We will gather at the venue in the afternoon/evening and settle in (you can arrive any time after 14:00).
 - **9 and 10 April:** Full, active days dedicated to physical training, stretching, and bodywork – designed to cleanse and energize each organ. There will be opportunities for nature walks, swimming, and enjoying the sauna.
 - **11 April:** Morning with active sessions, and a bowl of soup for lunch to celebrate the completion of the fast. We'll finish up and be ready to leave around 14:00.
-- **12–21 April:** Post-fast diet (the hardest part!) 
+- **12–21 April:** Post-fast diet (the hardest part) 
 - **TBC:** Optional conference call with a space to share reflections and learnings.
-
 
 ### Online support groups
 
@@ -106,7 +98,9 @@ The fast will take place at De Uelenspieghel, Winkelsteeg 5, 7975 PV Uffelte, Ne
 
 Two hours from Amsterdam by public transport, this lovely old farmhouse is surrounded by a nature reserve with forest and a lake.
 
+<!--
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9ouRfQgpI3izHKcU-LQGKPl7l33y6sqI_UlU-9qv7tVwNPQ/viewform?usp=dialog" class="button button--large">Sign up for the fast</a>
+-->
 
 <div class="gallery" data-columns="1">
 	<img src="/images/fast-venue.jpg">
