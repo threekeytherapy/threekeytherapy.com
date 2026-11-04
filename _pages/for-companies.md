@@ -15,20 +15,17 @@ And that addressing the underlying patterns which lead to the burnout - people p
 
 I know this from my own experience of a 6 month burn out during a leadership role in tech, navigating power struggles, restructuring and financial responsibility for colleagues in a remote-first environment. 
 
-Today I support employees who are running on empty, and with managers who carry other people's stress on top of their own.
+I bring 12 years in the public-sector open source world, coordinating large scale collaborations, managing technical teams and working with executive teams and board members, as well as 4 years of experience working as a somatic therapist.
+
+Today I support employees who are stuck in survival, and with managers who carry other people's stress on top of their own.
 
 Both tracks start from the body: how you react under pressure, where you hold tension, and what your nervous system is telling you before your calendar does.
-
-I bring 12 years in the public-sector open source world, coordinating large scale collaborations, managing technical teams and working with executive teams and board members, as well as 4 years of experience working as a somatic therapist.
 
 ---
 
 On this page:
 
 - [Track 1: Burnout recovery](#track-1-burnout-recovery)
-  - [Phase 0: Intake (1 session)](#phase-0-intake-1-session)
-  - [Phase 1: Out of survival mode (3 sessions)](#phase-1-out-of-survival-mode-3-sessions)
-  - [Phase 2: Boundaries, self-regulation and body signals (3 to 5 sessions)](#phase-2-boundaries-self-regulation-and-body-signals-3-to-5-sessions)
 - [Track 2: Personal leadership at work](#track-2-personal-leadership-at-work)
 - [How it works for your organisation](#how-it-works-for-your-organisation)
 - [Confidentiality](#confidentiality)
@@ -42,17 +39,17 @@ On this page:
 
 **For employees showing signs of exhaustion, or already on the edge.** A structured programme of 7 to 9 sessions in three phases.
 
-### Phase 0: Intake (1 session)
+**1) Intake (1 session)**
 
 We map what is going on: symptoms, work situation, sleep, history, what has been tried. We agree what you want from the programme and whether it is the right fit. If it isn't, I'll say so and point you elsewhere.
 
-### Phase 1: Out of survival mode (3 sessions)
+**2) Out of survival mode (3 sessions)**
 
 Chronic stress keeps the body in a constant state of alert: shallow breathing, tight muscles, poor sleep, no real rest. These sessions use touch, breathing and conversation to settle the nervous system and create the first real sense of being able to stop.
 
 You should expect to notice: deeper breathing, better sleep, less constant tension, more room to think.
 
-### Phase 2: Boundaries, self-regulation and body signals (3 to 5 sessions)
+**3) Boundaries, self-regulation and body signals (3 to 5 sessions)**
 
 Once the body has calmed down, we work on keeping it that way:
 
@@ -70,10 +67,10 @@ The number of sessions in this phase depends on you, and we decide together afte
 
 This track works on four things:
 
-1. **Your stress response under pressure.** What happens in your body when a deadline slips, a decision is contested or a team member is struggling, and how to stay clear-headed in it.
-2. **The emotional load of managing people.** Carrying other people's problems, delivering bad news, holding the line without hardening.
-3. **Conflict.** Staying regulated and present in difficult conversations instead of avoiding, escalating or freezing.
-4. **Preventing stress and burnout, in yourself and in your team.** Recognising early signals, and building habits that keep you sustainable.
+1. **Letting go of built-up tension.** During the treatments we work on releasing the stress your body has accumulated, so it doesn’t follow you into the next meeting.
+2. **Recognising your survival mechanisms.** The patterns you fall into under pressure (fight, flight, freeze, people-pleasing) and how they shape your capacity to carry other people’s problems, deliver bad news and handle conflict.
+3) **Learning to self-regulate.** Practical, body-based tools to stay clear-headed and present in difficult conversations, so you can respond from a steadier place instead of avoiding, escalating or shutting down.
+4) **Preventing stress and burnout, in yourself and in your team.** Recognising early signals, including when others slip into survival mode, and building habits that keep you sustainable.
 
 I've been on both sides of this: leading teams in a complex public-sector environment, and then retraining as a therapist. The track is practical, confidential and built around your actual situation, not a generic framework.
 
