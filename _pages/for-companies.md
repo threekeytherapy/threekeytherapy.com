@@ -67,10 +67,13 @@ The number of sessions in this phase depends on you, and we decide together afte
 
 This track works on four things:
 
-1. **Letting go of built-up tension.** During the treatments we work on releasing the stress your body has accumulated, so it doesn’t follow you into the next meeting.
-2. **Recognising your survival mechanisms.** The patterns you fall into under pressure (fight, flight, freeze, people-pleasing) and how they shape your capacity to carry other people’s problems, deliver bad news and handle conflict.
-3) **Learning to self-regulate.** Practical, body-based tools to stay clear-headed and present in difficult conversations, so you can respond from a steadier place instead of avoiding, escalating or shutting down.
-4) **Preventing stress and burnout, in yourself and in your team.** Recognising early signals, including when others slip into survival mode, and building habits that keep you sustainable.
+1) **Letting go of built-up tension.** During the treatments we work on releasing the stress your body has accumulated, so it doesn’t follow you into the next meeting.  
+   
+2) **Recognising your survival mechanisms.** The patterns you fall into under pressure (fight, flight, freeze, people-pleasing) and how they shape your capacity to carry other people’s problems, deliver bad news and handle conflict.  
+   
+3) **Learning to self-regulate.** Practical, body-based tools to stay clear-headed and present in difficult conversations, so you can respond from a steadier place instead of avoiding, escalating or shutting down.  
+   
+4) **Preventing stress and burnout, in yourself and in your team.** Recognising early signals, including when others slip into survival mode, and building habits that keep you and your team sustainable.
 
 I've been on both sides of this: leading teams in a complex public-sector environment, and then retraining as a therapist. The track is practical, confidential and built around your actual situation, not a generic framework.
 
@@ -107,7 +110,7 @@ I recommend a GP or psychologist first, or alongside, for anyone experiencing se
 
 ## Why me
 
-- **I know the workplace.** 10 years in public-sector open source world, coordinating large scale projects, and managing technical teams.
+- **I know the workplace.** 12 years in public-sector open source world, coordinating large scale projects, and managing technical teams.
 - **I know facilitation.** helping governments become more open and collaborative, meaning plenty of political conflict, change management and long meetings with unresolved questions.
 - **I'm trained in the body.** Certified Manuvision therapist, working since 2022 and in training and treatment since 2016. Manuvision is a somatic method developed over 25 years.
 - **I'm registered.** Member of CAT (Collectief Alternatieve Therapeuten), with professional liability insurance and a formal complaints procedure.
@@ -139,4 +142,4 @@ Yes. Ask about team sessions in the scoping call.
 
 See rates above. For a full burnout programme of 7 to 9 sessions, a package price is available on request.
 
-[**Request a scoping call**](mailto:claus@threekeytherapy.com?subject=Company%20enquiry)
+[**Request a scoping call**](/contact)
