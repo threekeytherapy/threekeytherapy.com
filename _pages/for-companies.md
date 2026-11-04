@@ -110,11 +110,11 @@ I recommend a GP or psychologist first, or alongside, for anyone experiencing se
 
 ## Why me
 
-- **I know the workplace.** 12 years in public-sector open source world, coordinating large scale projects, and managing technical teams.
-- **I know facilitation.** helping governments become more open and collaborative, meaning plenty of political conflict, change management and long meetings with unresolved questions.
+- **I know the workplace.** 12 years in public-sector open source world, coordinating large scale remote-first projects, and managing technical teams.
+- **I know facilitation.** helping governments become more open and collaborative, meaning plenty of political power struggles, change management and long meetings with unresolved questions.
 - **I'm trained in the body.** Certified Manuvision therapist, working since 2022 and in training and treatment since 2016. Manuvision is a somatic method developed over 25 years.
 - **I'm registered.** Member of CAT (Collectief Alternatieve Therapeuten), with professional liability insurance and a formal complaints procedure.
-- **I work in Dutch, English, Spanish and French**, and am very comfortable with international teams.
+- **I work in Dutch, English, Spanish and French**, and am native in international cross-cultural environments.
 
 [More about me](https://www.linkedin.com/in/clausmullie/)
 
