@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Individuals'
-      url: '/individuals'
+      url: '//somatic-therapy'
     - title: 'Companies'
       url: '/for-companies'
     - title: 'Workshops'

@@ -5,7 +5,6 @@ description:
 featured_image: 
 homepage_image: 
 date: 2023-11-01 00:00:00
-meta-description: 
 ---
 
 > Sustainable and long term reintegration is not possible without addressing the underlying patterns that lead to a burnout
