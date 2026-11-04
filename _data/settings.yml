@@ -8,10 +8,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'For Individuals'
-      url: '/work-with-me'
-    - title: 'For Companies'
+    - title: 'Individuals'
+      url: '/somatic-therapy'
+    - title: 'Companies'
       url: '/for-companies'
+    - title: 'Workshops'
+      url: '/workshops'
     - title: 'About me'
       url: '/about'
     - title: 'Testimonials'

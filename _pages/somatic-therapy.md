@@ -1,7 +1,7 @@
 ---
-title: 1:1 Somatic Therapy
+title: 1:1 Somatic Therapy 
 subtitle: 
-description: Therapy, but without getting lost in stories. <br><br> Start from the body to feel who you are, how you react, what gets in the way, and how to let go. 
+description: Therapy, but without getting lost in stories. <br><br> Start from the body to feel who you are, how you react, what gets in the way, and how to let go.<br><br><a href="/workshops/somatic-therapy" class="button button--small"><b>Find out more</b></a>
 featured_image: /images/IMG_1942.jpg
 homepage_image: /images/IMG_1942.jpg
 date: 2023-11-01 00:00:00
@@ -11,14 +11,14 @@ redirect_from:
   - /bodytherapy
 ---
 
-## What is body therapy?
+## What is somatic therapy?
 
 <iframe src="https://www.youtube-nocookie.com/embed/utKMiAPHCuI" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
 
 On this page:
-- [What is body therapy?](#what-is-body-therapy)
+- [What is somatic therapy?](#what-is-somatic-therapy)
 - [Where to start?](#where-to-start)
 - [Why work through the body?](#why-work-through-the-body)
 - [What do people come to me with?](#what-do-people-come-to-me-with)
@@ -33,7 +33,7 @@ On this page:
 
 **1) Intro call:** A short conversation about what's going on and whether this feels right. All questions and doubts welcome.
 
-**2) One session:** Bodywork on the massage table. See if it clicks and get a sense of how I can help.
+**2) First session:** Bodywork on the massage table. See if it clicks and get a sense of how I can help.
 
 **3) Three more sessions:** This is what most people need to work through something. From then on, it's up to you.
 
