@@ -5,9 +5,7 @@ description: Book an intro call or get in touch for somatic therapy in Amsterdam
 featured_image: 
 ---
 
-<a href="https://calendar.proton.me/bookings#Eirk1L2RwkdAsZgTsTOq_dVfUVLZol5Thl38ZHSSYQ8=" class="button button--small">Schedule a 15min video call with me</a>
-
-<a href="https://wa.me/31638700278?text=I'm%20interested%20in%20booking%20a%20body%20therapy%20session" class="button button--small">WhatsApp me</a>
+<a href="https://calendar.proton.me/bookings#Eirk1L2RwkdAsZgTsTOq_dVfUVLZol5Thl38ZHSSYQ8=" class="button button--small">Schedule a 15min video call with me</a> ~ <a href="https://wa.me/31638700278?text=I'm%20interested%20in%20booking%20a%20body%20therapy%20session" class="button button--small">Or send me a WhatsApp message</a>
 
 **claus(@)threekeytherapy(.)com ~ 0031 638 700 278**
 
