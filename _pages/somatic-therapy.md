@@ -23,6 +23,7 @@ On this page:
 - [Why work through the body?](#why-work-through-the-body)
 - [What do people come to me with?](#what-do-people-come-to-me-with)
 - [What does a session look like?](#what-does-a-session-look-like)
+- [What have others said?](#what-have-others-said)
 - [Pricing](#pricing)
 - [Practical Information](#practical-information)
 - [Locations](#locations)
@@ -99,6 +100,12 @@ Once we notice them, you have the opportunity to work with your breathing, your 
 Most people leave feeling relaxed and more present in their body, with a clearer mind.
 
 **What to Wear** - Treatments include touch. Many people prefer thin, minimal clothing (for example non-revealing underwear or shorts and a sports bra) because it allows more direct contact, but you can receive a treatment fully clothed. It is entirely up to you.
+
+---
+
+## What have others said?
+
+Read their [testimonials](/testimonials).
 
 ---
 
