@@ -1,7 +1,12 @@
 ---
 title: Testimonials
+subtitle: 
 description: What clients say about somatic therapy sessions with Claus Mullie
 featured_image: 
+---
+
+ More at [Google reviews](https://www.google.com/maps/place/Three+Key+Therapy+-+Somatic+therapy+and+bodywork+with+Claus+Mullie/@52.3773863,4.8778664,607m/data=!3m1!1e3!4m8!3m7!1s0x47c6095d80f46aed:0xbfd4c12632af16af!8m2!3d52.3771513!4d4.879089!9m1!1b1!16s%2Fg%2F11zy0p2ysp?entry=ttu&g_ep=EgoyMDI2MTEwMi4wIKXMDSoASAFQAw%3D%3D).
+
 ---
 
 I met Claus through a client of his. I was at a really low point, dealing with severe trauma, and I had lost touch with myself. I didn't know where to start. This client recommended Claus to me, saying how he could pinpoint things she was struggling with without her even telling him. That made me curious, and honestly, trying it out was the best decision ever. It was physically challenging, but I felt more relaxed, and I got so much clarity about myself. For me, it took a few sessions but I highly recommend it — especially if traditional talk therapy doesn’t feel like the right fit for you.
