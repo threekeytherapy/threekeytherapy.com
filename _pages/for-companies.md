@@ -1,6 +1,6 @@
 ---
 title: Support for people at work
-subtitle: <b><br>Body-based burnout recovery and personal leadership support for employees and managers.<br><br>Confidential, practical, led by a former public-sector team lead turned somatic therapist.</b>
+subtitle: <b><br>Body-based personal leadership and burnout recovery support for employees and managers.<br><br>Confidential, practical, led by a former public-sector team lead turned somatic therapist.</b>
 description: 
 featured_image: 
 homepage_image: 
@@ -13,9 +13,9 @@ I know that a body in survival mode needs more than just rest.
 
 And that addressing the underlying patterns which lead to the burnout - people pleasing, a dificulty setting boundaries, perfectionism - is essential for sustainble long term reintreation.
 
-I know this from my own experience of a 6 month burn out during a leadership role in tech, navigating power struggles, restructuring and financial responsibility for colleagues in a remote-first environment. 
+I know this from my own experience of a 6 month burn out during a leadership role in tech; navigating power struggles, organisational restructuring, and financial responsibility for colleagues, all in a remote-first environment. 
 
-I bring 12 years in the public-sector open source world, coordinating large scale collaborations, managing technical teams and working with executive teams and board members, as well as 4 years of experience working as a somatic therapist.
+I bring 12 years in the public-sector open source world, coordinating large scale collaborations, coordinating technical teams and working with executive teams and board members, as well as 4 years of experience working as a somatic therapist.
 
 Today I support employees who are stuck in survival, and with managers who carry other people's stress on top of their own.
 
@@ -47,15 +47,15 @@ We map what is going on: symptoms, work situation, sleep, history, what has been
 
 Chronic stress keeps the body in a constant state of alert: shallow breathing, tight muscles, poor sleep, no real rest. These sessions use touch, breathing and conversation to settle the nervous system and create the first real sense of being able to stop.
 
-You should expect to notice: deeper breathing, better sleep, less constant tension, more room to think.
+You should expect to notice: deeper breathing, better sleep, less constant tension, more room to think and feel.
 
 **3) Boundaries, self-regulation and body signals (3 to 5 sessions)**
 
 Once the body has calmed down, we work on keeping it that way:
 
 - **Recognising your body's signals** early, before they become a crisis (jaw, stomach, breath, fatigue, irritability)
-- **Self-regulation:** practical tools you can use at your desk, in a meeting, or before a difficult conversation
 - **Setting boundaries:** noticing where you say yes when your body says no, and practising the alternative
+- **Self-regulation:** practical tools to ensure you go back to performing without burning out again
 
 The number of sessions in this phase depends on you, and we decide together after phase 1.
 
@@ -110,7 +110,7 @@ I recommend a GP or psychologist first, or alongside, for anyone experiencing se
 
 ## Why me
 
-- **I know the workplace.** 12 years in public-sector open source world, coordinating large scale remote-first projects, and managing technical teams.
+- **I know the workplace.** 12 years in public-sector open source world, coordinating large scale remote-first projects, and coordinating technical teams.
 - **I know facilitation.** helping governments become more open and collaborative, meaning plenty of political power struggles, change management and long meetings with unresolved questions.
 - **I'm trained in the body.** Certified Manuvision therapist, working since 2022 and in training and treatment since 2016. Manuvision is a somatic method developed over 25 years.
 - **I'm registered.** Member of CAT (Collectief Alternatieve Therapeuten), with professional liability insurance and a formal complaints procedure.
