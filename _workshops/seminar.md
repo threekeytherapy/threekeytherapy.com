@@ -1,7 +1,7 @@
 ---
 title: Seminars
 subtitle:
-description: Courses in Amsterdam to explore the fundamental concepts behind somatic therapy. <br><br> Next up 19 & 20 Dec - Pulsation, Breath, and Emotions.
+description: Courses in Amsterdam to explore the fundamental concepts behind somatic therapy. <br><br> 19 & 20 Dec - Pulsation, Breath, and Emotions <br> 6 & 7 Feb - TBC.
 featured_image: /images/seminar.jpg
 homepage_image: /images/seminar.jpg
 date: 2023-11-01 00:00:00
@@ -33,22 +33,24 @@ Praktijk Lijnbaansgracht, Lijnbaansgracht 67-O, 1015 GV, Amsterdam
 
 ## Schedule
 
-**19 & 20 December 2026: Pulsation, Breath, and Emotions (10:00 - 18:00)**
+### **19 & 20 December 2026: Pulsation, Breath, and Emotions (10:00 - 18:00)**
 
 In this 2-day hands-on seminar, we’ll explore some of the basic Manuvision techniques; pulsation, opening the breath, and releasing tension in the body.
 
 The focus is on helping clients become aware of their defense patterns (fight, flight, freeze, fawn, etc.) and connect with the underlying emotions.
+
 We’ll explore shifts between the sympathetic and parasympathetic nervous system, and the role of the vagus nerve.
 
-It is possible to join only 1 of the 2 days.
+**Teacher:** Claus Mullie
 
-Teacher: The seminar will be led by Claus Mullie, who has been treating since 2021.
+**Pricing:** This seminar will be income based - 110 / 150 / 180 euros
 
-## Pricing
+### **6 & 7 February 2027: TBC (10:00 - 18:00)**
 
-This seminar will be donation based. 
 
-Suggested donation per day based on income: 55 / 75 / 100 / Other
+**Teacher:** Claus Mullie
+
+**Pricing:**
 
 <!--
 ## Pricing
