@@ -104,8 +104,6 @@ Sessions are held at my practice, not on your premises, so that people can speak
 
 This is preventive and complementary support. It does not replace medical or psychological care, and it does not replace the occupational health route (bedrijfsarts / arbeidsarts) for employees on sick leave.
 
-I recommend a GP or psychologist first, or alongside, for anyone experiencing severe depression, suicidal thoughts, or acute crisis. If I think someone needs that, I'll tell them.
-
 ---
 
 ## Why me
