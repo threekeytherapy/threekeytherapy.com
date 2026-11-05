@@ -15,9 +15,7 @@ menu_settings:
     - title: 'Workshops'
       url: '/workshops'
     - title: 'About me'
-      url: '/about'
-    - title: 'Testimonials'
-      url: '/testimonials'                 
+      url: '/about'              
     - title: <a href="/contact" class="button button--small"><b>Book an intro call</b></a>
       url: '/contact'
 
