@@ -15,21 +15,33 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
+	{% assign seo_title = page.seo_title | default: page.title | strip_html | strip | escape %}
+	{% capture full_title %}{{ seo_title }} – {{ site.data.settings.basic_settings.site_title_short }}{% endcapture %}
+	{% assign seo_description_raw = page.description | default: site.data.settings.basic_settings.default_description | strip_html | strip_newlines | strip %}
+	{% assign seo_description = seo_description_raw | xml_escape %}
+	{% assign seo_image = page.featured_image | default: site.data.settings.basic_settings.default_image | absolute_url %}
+	{% assign seo_canonical = page.url | replace: "index.html", "" | absolute_url %}
+
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="{{ site.data.settings.basic_settings.favicon_image | relative_url }}">
-	<title>{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}</title>
-	<meta name="description" content="{{ page.description | strip_html | xml_escape }}">
+	<title>{{ full_title }}</title>
+	<meta name="description" content="{{ seo_description }}">
+	<link rel="canonical" href="{{ seo_canonical }}">
+	{% if page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}">
-	<meta name="twitter:description" content="{{ page.description | strip_html | xml_escape }}">
-	<meta name="twitter:image:src" content="{{ page.featured_image | absolute_url }}">
+	<meta name="twitter:title" content="{{ full_title }}">
+	<meta name="twitter:description" content="{{ seo_description }}">
+	<meta name="twitter:image:src" content="{{ seo_image }}">
 
 	<!-- Facebook OpenGraph -->
-	<meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
-	<meta property="og:description" content="{{ page.description | strip_html | xml_escape }}" />
-	<meta property="og:image" content="{{ page.featured_image | absolute_url }}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="{{ site.data.settings.basic_settings.site_title_short }}" />
+	<meta property="og:url" content="{{ seo_canonical }}" />
+	<meta property="og:title" content="{{ full_title }}" />
+	<meta property="og:description" content="{{ seo_description }}" />
+	<meta property="og:image" content="{{ seo_image }}" />
 
 	<!-- Google Site Verification -->
 	<meta name="google-site-verification" content="YXP5GIQdiBKHnfwU0JQbeXLHetJIicdcQ8EoJjEU7Ak" />
@@ -63,6 +75,50 @@
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
 	
+	{% if page.url == "/" %}
+
+	<script type="application/ld+json">
+	{
+	"@context": "https://schema.org",
+	"@type": "ProfessionalService",
+	"name": "Three Key Therapy",
+	"url": {{ site.url | append: "/" | jsonify }},
+	"image": {{ seo_image | jsonify }},
+	"description": {{ seo_description_raw | jsonify }},
+	"telephone": "+31638700278",
+	"email": "claus@threekeytherapy.com",
+	"vatID": "NL004807772B79",
+	"priceRange": "€90–€125",
+	"knowsLanguage": ["en", "nl", "es", "fr"],
+	"areaServed": ["Amsterdam", "Brussels", "Gent"],
+	"location": [
+		{
+		"@type": "Place",
+		"name": "Three Key Therapy – Amsterdam West",
+		"address": {
+			"@type": "PostalAddress",
+			"streetAddress": "Lijnbaansgracht 67-O",
+			"postalCode": "1015 GV",
+			"addressLocality": "Amsterdam",
+			"addressCountry": "NL"
+		}
+		},
+		{
+		"@type": "Place",
+		"name": "Three Key Therapy – Amsterdam East",
+		"address": {
+			"@type": "PostalAddress",
+			"streetAddress": "Newtonstraat 4",
+			"postalCode": "1098 HD",
+			"addressLocality": "Amsterdam",
+			"addressCountry": "NL"
+		}
+		}
+	]
+	}
+	</script>
+{% endif %}
+
 </head>
 
 
@@ -79,7 +135,7 @@
 	
 	<div class="page">
 
-		<div class="page__content" data-page-title="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}">
+		<div class="page__content" data-page-title="{{ full_title }}">
 			
 			{{ content }}
 			
