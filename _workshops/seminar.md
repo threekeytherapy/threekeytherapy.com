@@ -37,7 +37,11 @@ Praktijk Lijnbaansgracht, Lijnbaansgracht 67-O, 1015 GV, Amsterdam
 
 In this 2-day hands-on seminar, we’ll explore some of the basic Manuvision techniques; pulsation, opening the breath, and releasing tension in the body.
 
-The focus is on helping clients become aware of their defense patterns (fight, flight, freeze, fawn, etc.) and connect with the underlying emotions.
+With pulsations, we tune our body to that of the client, and let a natural movement arrise. If the client is a set of "bags of water", defined by their subconscious tension, can we find a rhythm to pulse so that they can (subconsciously) notice their holding and let go? Then, a deeper layer of holding will define a new collection of "bags of water", and we repeat the process. This opens up both large and subtle tensions, from muscles to fascia, in a very soft yet effective way.
+
+With breathing, we learn to read what emotion the client is holding on to, and how to help them let go. 
+
+Thus, we helpclients become aware of their defense patterns (fight, flight, freeze, fawn, etc.) and connect with the underlying emotions.
 
 We’ll explore shifts between the sympathetic and parasympathetic nervous system, and the role of the vagus nerve.
 
