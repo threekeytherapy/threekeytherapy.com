@@ -1,7 +1,8 @@
 ---
 title: Let's chat
 subtitle: All questions, doubts and insecurities are welcome.<br>An intro call is a short conversation.<br>You tell me what's going on, I tell you how I work,<br>and we decide together whether it feels right and a first session makes sense. 
-description: Book an intro call or get in touch for somatic therapy in Amsterdam, Brussels and Gent
+seo_title: Book an intro call
+description: Ask a question or book an intro call for somatic therapy with Claus Mullie in Amsterdam, Brussels or Gent.
 featured_image: 
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Support for people at work
 subtitle: <b><br>Body-based personal leadership and burnout recovery support for employees and managers.<br><br>Confidential, practical, led by a former public-sector team lead turned somatic therapist.</b>
-description: 
+description: Somatic programmes for organisations - burn-out support for employees and personal leadership for managers.
+seo_title: Burn-out support and personal leadership
 featured_image: 
 homepage_image: 
 date: 2023-11-01 00:00:00
