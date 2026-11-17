@@ -1,7 +1,8 @@
 ---
 title: Claus Mullie
 subtitle: Somatic therapist and body worker trained by Manuvision
-description: My name is Claus, and I am a certified Manuvision therapist. Manuvision is a research-based method built on 25 years of experience in freeing the nervous system.
+seo_title: About Claus Mullie and Manuvision
+description: Claus Mullie is a somatic therapist trained in the Manuvision method, registered with CAT, working in Amsterdam, Brussels and Gent.
 featured_image: /images/clauslandscapestudio.jpg
 homepage_image: /images/clausportrait_wide.jpg
 date: 2023-11-04 00:00:00

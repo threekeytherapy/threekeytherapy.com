@@ -1,7 +1,8 @@
 ---
 title: 1:1 Somatic Therapy 
 subtitle: 
-description: Therapy, but without getting lost in stories. <br><br> Start from the body to feel who you are, how you react, what gets in the way, and how to let go.<br><br><a href="/workshops/somatic-therapy" class="button button--small"><b>Find out more</b></a>
+seo_title: Somatic therapy sessions for individuals
+description: What a one-to-one somatic therapy session involves and how to get started. Sessions in Amsterdam, Brussels and Gent.
 featured_image: /images/IMG_1942.jpg
 homepage_image: /images/IMG_1942.jpg
 date: 2023-11-01 00:00:00

@@ -2,6 +2,7 @@
 title: Testimonials
 subtitle: 
 description: What clients say about somatic therapy sessions with Claus Mullie
+seo_title: Client testimonials
 featured_image: 
 ---
 
