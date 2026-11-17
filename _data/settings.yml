@@ -1,6 +1,9 @@
 basic_settings:
   site_title: Three Key Therapy - Somatic therapy and bodywork with Claus Mullie
   favicon_image: /images/favicon-mahogony.png
+  site_title_short: Three Key Therapy
+  default_description: Somatic therapy and bodywork with Claus Mullie in Amsterdam and Brussels. Get your body out of survival mode.
+  default_image: /images/treatment6crop2.jpg
 
 header_settings:
   logo_image: /images/logomahogony0.svg
